@@ -3,24 +3,39 @@
 
 
 #
-Reviw es un lenguaje de marcado de código abierto, escrito en HTML, diseñado para crear documentos, con el objetivo de facilitar el desarrollo de archivos JWPUB. Reviw está basado en JWLV-API que proporciona una interfaz de alto nivel que permite mostrar documentos basados en JWPUB. JWLV-API interpreta el código y lo presenta en pantalla al usuario permitiendo al usuario interactuar con su contenido y navegar idénticamente como lo hace JW Library.
+Reviw es un lenguaje de marcado de código abierto, escrito en HTML, diseñado para crear documentos, con el objetivo de facilitar el desarrollo de archivos JWPUB. Reviw está basado en [JWLV-API](https://github.com/livrasand/JW-Library-Visualizer-API) que proporciona una interfaz de alto nivel que permite mostrar documentos basados en JWPUB. [JWLV-API](https://github.com/livrasand/JW-Library-Visualizer-API) interpreta el código y lo presenta en pantalla al usuario permitiendo al usuario interactuar con su contenido y navegar idénticamente como lo hace JW Library.
 
 📝 Traducciones disponibles: 🇪🇸
 
-Reviw lo utiliza el editor Sublime Text y próximamente muchas otras aplicaciones.
+Reviw lo utiliza el editor [Sublime Text](https://github.com/sublimehq) y próximamente muchas otras aplicaciones.
 
-Este proyecto se adhiere a la licencia GoAttendant Zero Public License. Al participar, se espera que respete este código. Informe cualquier comportamiento inaceptable a livrasand@outlook.com.
+Este proyecto se adhiere a la licencia <b>GoAttendant Zero Public License</b>. Al participar, se espera que respete este código. Informe cualquier comportamiento inaceptable a <b>livrasand@outlook.com</b>.
 
+## Usabilidad
+Reviw es un lenguaje para desarrolladores de JWPUB para impulsar la escritura de código HTML.
+
+Con Reviw, puede escribir expresiones (abreviaturas) similares al dialogar con una persona y convertirlas en fragmentos de código con una sola pulsación de tecla. Por ejemplo, esta abreviatura:
+
+```html
+crear>copyright
+```
+...puede expandirse en:
+```html
+<div class="copyrightInfo">
+   <p id="p$1" data-pid="$1" class="si">Impresión de abril de&nbsp;2023</p>
+   <p id="p$2" data-pid="$2" class="si">© 2021 WATCH TOWER BIBLE AND TRACT SOCIETY OF PENNSYLVANIA</p>
+</div>
+```
 
 ## Instalación con Package Control
-Instala el empaquetado de Reviw para Sublime Text, para ello ejecuta Command Palette: `Ctrl` + `Shift` + `P`.
+Instala el empaquetado de Reviw para Sublime Text, para ello ejecuta Command Palette: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>.
 
 Escribe:
 ```html
 Package Control: Install Package
 ```
 
-Cuando haya cargado Package Control, busque Reviw seguido de `Intro`.
+Cuando haya cargado Package Control, busque Reviw seguido de <kbd>Intro</kbd>.
 ```html
 Reviw
 ```
@@ -30,14 +45,14 @@ Esto instalará Reviw en Sublime Text.
 ## Instalación manual
 Si la instalación mediante Package Control no te funciona, prueba la instalación manual:
 
-Ejecuta Command Palette: `Ctrl` + `Shift` + `P`...
+Ejecuta Command Palette: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>...
 
-Escribe lo siguiente y seguido presiona `Intro`:
+Escribe lo siguiente y seguido presiona <kbd>Intro</kbd>:
 ```html
 Preferences: Browse Packages
 ```
 
-Esto abrirá una ventana del Explorador de archivos en el directorio de los Packages de Sublime Text. Sube a "Sublime Text" o presiona `Alt` + `↑`.
+Esto abrirá una ventana del Explorador de archivos en el directorio de los Packages de Sublime Text. Sube a "Sublime Text" o presiona <kbd>Alt</kbd> + <kbd>↑</kbd>.
 
 <img src="https://github.com/livrasand/Reviw/assets/104039397/a887ed2b-2e06-4d90-b536-6bbd159a3bc7" width="500px">
 
