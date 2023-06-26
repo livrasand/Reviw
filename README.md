@@ -9,7 +9,7 @@ Reviw es un lenguaje de marcado de código abierto, escrito en HTML, diseñado p
 
 Reviw lo utiliza el editor [Sublime Text](https://github.com/sublimehq) y próximamente muchas otras aplicaciones.
 
-Este proyecto se adhiere a la licencia <b>GoAttendant Zero Public License</b>. Al participar, se espera que respete este código. Informe cualquier comportamiento inaceptable a <b>livrasand@outlook.com</b>.
+Este proyecto se adhiere a la licencia <b>GoAttendant Zero Public License</b>. Al participar, se espera que respete este código. Informe cualquier comportamiento inaceptable a <b>jwpubcatalog@gmail.com</b>.
 
 ## Usabilidad
 Reviw es un lenguaje para desarrolladores de JWPUB para impulsar la escritura de código HTML.
