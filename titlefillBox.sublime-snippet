@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+<div class="blockTeach rule"><aside><div id="p54" data-pid="54" class="boxTtl emphasized"><h2><strong>Preguntas para meditar</strong></h2></div>
+<div class="boxContent"><ul><li><p id="p55" data-pid="55" class="sc"><a href="" data-bid="50-1" class="b"><strong>Salmo 15:1-5</strong></a> ¿Qué espera Jehová de quienes desean ser sus amigos?</p>
+</li>
+<li><p id="p56" data-pid="56" class="sc"><a href="" data-bid="51-1" class="b"><strong>Salmo 34:1-18</strong></a> ¿Qué tipo de personas están cerca de Jehová, y de qué pueden estar seguras?</p>
+</li>
+<li><p id="p57" data-pid="57" class="sc"><a href="" data-bid="52-1" class="b"><strong>Salmo 145:18-21</strong></a> ¿Qué tenemos que hacer para estar cerca de Jehová?</p>
+</li>
+<li><p id="p58" data-pid="58" class="sc"><a href="" data-bid="53-1" class="b"><strong>2&nbsp;Corintios 6:14-7:1</strong></a> ¿Qué debemos evitar para seguir siendo amigos de Jehová?</p>
+</li>
+</ul>
+</div>
+</aside></div>]]></content>
+    <tabTrigger>crear>recuadro>titulofill</tabTrigger>
+    <description>Recuadro con el título relleno</description>
+    <scope>text.html</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[jwpub-media://]]></content>
+    <tabTrigger>insertar>imagen</tabTrigger>
+    <description>Enlace para una imagen</description>
+    <scope>text.html</scope>
+</snippet>
