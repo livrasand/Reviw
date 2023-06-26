@@ -1,1 +1,35 @@
+                                                                                                                                                                                                                        
+RRRRRRRRRRRRRRRRR                                                iiii                                          
+R::::::::::::::::R                                              i::::i                                         
+R::::::RRRRRR:::::R                                              iiii                                          
+RR:::::R     R:::::R                                                                                           
+  R::::R     R:::::R    eeeeeeeeeeee  vvvvvvv           vvvvvvviiiiiiiwwwwwww           wwwww           wwwwwww
+  R::::R     R:::::R  ee::::::::::::ee v:::::v         v:::::v i:::::i w:::::w         w:::::w         w:::::w 
+  R::::RRRRRR:::::R  e::::::eeeee:::::eev:::::v       v:::::v   i::::i  w:::::w       w:::::::w       w:::::w  
+  R:::::::::::::RR  e::::::e     e:::::e v:::::v     v:::::v    i::::i   w:::::w     w:::::::::w     w:::::w   
+  R::::RRRRRR:::::R e:::::::eeeee::::::e  v:::::v   v:::::v     i::::i    w:::::w   w:::::w:::::w   w:::::w    
+  R::::R     R:::::Re:::::::::::::::::e    v:::::v v:::::v      i::::i     w:::::w w:::::w w:::::w w:::::w     
+  R::::R     R:::::Re::::::eeeeeeeeeee      v:::::v:::::v       i::::i      w:::::w:::::w   w:::::w:::::w      
+  R::::R     R:::::Re:::::::e                v:::::::::v        i::::i       w:::::::::w     w:::::::::w       
+RR:::::R     R:::::Re::::::::e                v:::::::v        i::::::i       w:::::::w       w:::::::w        
+R::::::R     R:::::R e::::::::eeeeeeee         v:::::v         i::::::i        w:::::w         w:::::w         
+R::::::R     R:::::R  ee:::::::::::::e          v:::v          i::::::i         w:::w           w:::w          
+RRRRRRRR     RRRRRRR    eeeeeeeeeeeeee           vvv           iiiiiiii          www             www           
+                                                                                                               
+                                                                                                               
+                                                                                                                                                                                                                                                                                                                                  
+Reviw es un lenguaje de marcado de código abierto, escrito en HTML, diseñado para crear documentos, con el objetivo de facilitar el desarrollo de archivos JWPUB. Reviw está basado en JWLV-API que proporciona una interfaz de alto nivel que permite mostrar documentos basados en JWPUB. JWLV-API interpreta el código y lo presenta en pantalla al usuario permitiendo al usuario interactuar con su contenido y navegar idénticamente como lo hace JW Library.
 
+📝 Traducciones disponibles: Español.
+
+Reviw lo utiliza el editor Sublime Text y próximamente muchas otras aplicaciones.
+
+Este proyecto se adhiere a la licencia GoAttendant Zero Public License. Al participar, se espera que respete este código. Informe cualquier comportamiento inaceptable a livrasand@outlook.com.
+
+Fecha del lanzamiento inicial: 23 de junio de 2023
+Licencia: GoAttendant Zero Public License
+Última versión estable: V1 (25 de junio de 2023)
+
+Escriba la sintaxis, ej.: crear>portada; y luego presione Tabulador, esto generará un fragmento de código editable de la Portada para la publicación. Las sintaxis se enumeran a continuación en orden alfabético.
+
+Está prohibido alterar, expandir o arruinar estos snippets sin permiso. Solo pido que si se te ocurre un snippet increíblemente útil, o simplemente uno que se me haya perdido, me lo hagas saber por correo electrónico (jwpubcatalog@gmail.com) para que pueda mejorarlo para todos. Puedes encontrar snippets en WOL.JW.ORG. ¡Gracias!
