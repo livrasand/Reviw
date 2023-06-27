@@ -71,4 +71,15 @@ Cabal es súper joven, y aunque se está tratando de someterlo a prueba a medida
 
 Una vez que solicite su JWTOKEN, lo recibirá mediante [Wormhole](https://wormhole.app/).
 
-Los JWPUB proporcionados aquí o creados con Reviw no tiene derechos de autor; estarán en el Dominio Público de [JWPUB Catalog](https://github.com/livrasand/JWPUB-Catalog/). Sin embargo, el código y los métodos de producción no se pueden compartir; Lo mismo ocurre con el material de origen: puede encontrarlo todo en línea. Respecto a los JWTOKENS tampoco se puede compartir como funcionan. Gracias por entender y por no insistir. Puede descargar JWBlober <b>[aquí](https://goattendant.com/JWBlober_Setup.zip)</b>. También puedes descargar la base de datos para realizar pruebas [aquí](https://goattendant.com/DataBaseTest_S.db).
+Los JWPUB proporcionados aquí o creados con Reviw no tiene derechos de autor; estarán en el Dominio Público de [JWPUB Catalog](https://github.com/livrasand/JWPUB-Catalog/). Sin embargo, el código y los métodos de producción no se pueden compartir; Lo mismo ocurre con el material de origen: puede encontrarlo todo en línea. Respecto a los JWTOKENS tampoco se puede compartir como funcionan. Gracias por entender y por no insistir. Puede descargar JWBlober <b>[aquí](https://goattendant.com/JWBlober_Setup.zip)</b>. También puedes descargar la base de datos para realizar pruebas <b>[aquí](https://goattendant.com/DataBaseTest_S.db)</b>.
+
+## Asistencia prioritaria 
+La asistencia prioritaria es para solicitar los JWTOKENS para JWBlober. A continuación verás los tiempos de respuesta y precios (USD) mensuales:
+
+<b>Básico:</b> <30 días hábiles · Free<br>
+<b>Avanzado:</b> <7 días hábiles · $5<br>
+<b>Premier:</b> <24 horas hábiles · $10
+```html
+bitcoin:bc1qnzzxp0v6dqx0e5eehjsgs5fpdz7r6vzpjhlgeh
+```
+Ingrese esta Bitcoin URI o Address en su billetera favorita para realizar las donaciones. Las donaciónes solo pueden ser en criptomoneda. No utilizamos PayPal ni ningún otro método de pago. Agradecemos su comprensión y el no solicitar otro método. Nosotros utilizamos [Electrum](https://github.com/spesmilo/electrum) para las transacciones.
