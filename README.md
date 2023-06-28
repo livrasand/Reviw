@@ -58,7 +58,25 @@ Esto abrirá una ventana del Explorador de archivos en el directorio de los Pack
 Ahora ve a la carpeta <b>Installed Packages</b>. Ahora solo arrastra o pega el archivo <b>Reviw.sublime-package</b> en esta carpeta. Con esto, automáticamente se instalará Reviw en Sublime Text.
 
 ## Solicitar un JWTOKEN para JWBlober
-Para recibir solicitudes y enviar los JWTOKENS utilizamos [cabal](https://github.com/cabal-club/cabal-cli). Envíanos el `Symbol` de tu JWPUB y el `year`.
+Para recibir solicitudes y enviar los JWTOKENS utilizamos [cabal](https://github.com/cabal-club/cabal-cli). Envíanos el `Symbol` de tu JWPUB y el `year`. Los JWTOKENS solo te permiten convertir tus documentos HTML en archivos binarios BLOB que la aplicación JW Library puede entender. El trabajo es manual y dependerá de la dedicación que pongas en elaborar tus propios proyectos.
+
+Además si quieres ver el contenido binario de un JWPUB oficial y convertirlo a HTML legible puedes hacerlo sin problema. De esta manera podrás examinar la estructura de sus documentos y replicarlos en tus archivos.
+
+Los JWTOKENS son funcionales durante 10 días, una vez que haya terminado este periodo JWBlober señalará que ese token ha expirado y deberás renovarlo por otros diez días. Podrás hacerlo tantas veces necesites hasta que termines tu proyecto. Este tipo de archivos son elaborados manualmente por lo que si ya solicitaste uno deberás esperar con paciencia a que lo recibas antes de solicitar uno nuevo. Quizás no haga falta aclararlo pero cualquier documento o JWPUB que hagas con estas herramientas seguirá siendo funcional, aunque su JWTOKENS expire.
+
+Aunque permite la conversión de un archivo binario o BLOB de publicaciones oficiales a un documento HTML, no es posible para los usuarios en general convertir ese archivo nuevamente a un archivo binario. De esta manera se evitan modificaciones que pudieran dañar el contenido de una publicación.
+
+Además el poder crear y editar documentos personalizados en JWPUB deja en el aire posibles problemas y vulnerabilidades no contempladas por los programadores de JW Library. Por tal motivo hay una serie de elementos que no están permitidos al procesar un documento HTML con los JWTOKENS.
+
+Entre ellos figuran:
+* Scripts
+* Ciertas etiquetas HTML
+* No se permite ningún enlace a páginas o urls externas, solo dominios y páginas oficiales de la Organización de los Testigos de Jehová.
+* Otros elementos potencialmente dañinos.
+
+En cuanto hagas clic en procesar, JWBlober te avisará si se ha encontrado un elemento no permitido en tu documento y deberás eliminarlo para que puedas continuar.
+
+Si consideras que uno de estos elementos es importante en tu proyecto y no quieres eliminarlo, puedes solicitar una revisión explicando lo que deseas hacer. El cuál estará sujeto a ser aprobado. Cabe decir que esto solo está disponible para proyectos únicos, y los hermanos que lo soliciten requieren ser miembros de la **Asistencia prioritaria**.
 
 ```html
 cabal --save cabal://53c815d8d410a5fe3ed6cc03f0f318af142202fd868787d83e5efa77d6211554
@@ -75,9 +93,9 @@ Los JWPUB proporcionados aquí o creados con Reviw no tiene derechos de autor; e
 ## Asistencia prioritaria 
 La asistencia prioritaria es para solicitar los JWTOKENS para JWBlober. A continuación verás los tiempos de respuesta y precios (USD) mensuales:
 
-<b>Básico:</b> <30 días hábiles · Free<br>
-<b>Avanzado:</b> <7 días hábiles · $5<br>
-<b>Premier:</b> <24 horas hábiles · $10
+<b>Básico:</b> <30 días hábiles · Free · Cupo ilimitado<br>
+<b>Avanzado:</b> <7 días hábiles · $5 · Cupo limitado a 20 usuarios<br>
+<b>Premier:</b> <24 horas hábiles · $10 · Cupo limitado a 10 usuarios
 ```html
 bitcoin:bc1qnzzxp0v6dqx0e5eehjsgs5fpdz7r6vzpjhlgeh
 ```
