@@ -1,0 +1,44 @@
+<snippet>
+    <content><![CDATA[                                                               
+1. ¿Por qué son necesarios los archivos JWTOKEN para crear una publicación en JWPUB?
+R. Los archivos JWTOKENS (*.jwtkn) trabajan en conjunto con la aplicación JWBlober para
+simular el proceso que ocurre internamente en JW Library y que permite generar el
+contenido BLOB o HTML de cada publicación sea oficial o personalizada.
+
+2. ¿Puedo crear varias publicaciones con el mismo JWTOKEN?
+R. No, esto no es posible. Cada publicación requiere su propio proceso de ejecución, de
+hecho aunque se trate de la misma publicación, si se ha actualizado o editado en un idioma
+distinto también difiere. Es por ello que cada JWTOKEN está personalizado de acuerdo a los
+parámetros de esta (símbolo de la publicación, categoría, idioma, etc.)
+
+3. ¿Debo solicitar varios JWTOKENS si mi proyecto tiene muchos documentos y referencias?
+R. No es necesario, aunque no puedes crear varias publicaciones con el mismo JWTOKEN, si
+es posible crear varios documentos de una misma publicación. Esto te permitirá crear 1 o 2
+documentos si tu proyecto es un bosquejo por ejemplo o 1000 documentos si se trata de un
+libro grande con un solo archivo JWTOKEN. Además las referencias y notas a pie de página
+también son documentos de la publicación por lo que van incluidas.
+
+4. En cuanto a los archivos JWTOKEN ¿Infrigen de algún modo los derechos de autor de la Watchtower Bible & Tract Society?
+R. No, de ningun modo. Ya que estos no forman parte de la aplicación JW Library ni
+tampoco contienen material o extractos de publicaciones que se encuentran en los sitios
+oficiales. Yo mismo he creado el formato de estos archivos por lo que son de mi autoría.
+
+5. Si deseo solicitar un JWTOKEN, ¿es necesario que tenga membresía?
+R. Si, si deseas acceder al formulario de JWTOKENS necesitas pagar una membresía. Esto te permitirá crear tus propios proyectos y replicar archivos oficiales. Pero si deseas hacer pruebas antes de eso y sin necesidad de ser miembro, prueba el JWTOKEN del PubTest así como algunos disponibles en el área de descargas.
+
+6. El JWTOKEN que obtuve ha expirado. ¿Ya no podré realizar documentos con él?
+R. No, pero no hay de que preocuparse. Mientras seas miembro JWPUB Creator podrás
+renovar tu JWTOKENS hasta que termines tus documentos.
+
+7. Si ya obtuve mi JWTOKEN ¿puedo compartirlo con otros hermanos?
+R. No está permitido compartir estos archivos mediante subirlos a servidores de descarga
+masiva o foros teocráticos conocidos, ni grupos o espacios privados de cualquier medio.
+Ahora bien, cada archivo JWTOKEN está asociado a tu cuenta de JWPUB Creator, aunque quizás
+puedas compartir tu JWTOKEN con algunos hermanos para realizar proyectos colaborativos, la
+responsabilidad de que este archivo se filtre será enteramente tuya, dando de baja tu
+membresía si esto ocurriera, y bloquearía tu archivo JWPUB de JW Library. Por lo que te recomiendo que seas sumamente cuidadoso en este asunto.
+]]></content>
+    <tabTrigger>ayuda>jwtoken</tabTrigger>
+    <description>Información de los JWTOKENS</description>
+    <scope>text.html</scope>
+</snippet>

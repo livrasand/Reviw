@@ -1,0 +1,42 @@
+<snippet>
+    <content><![CDATA[
+    <div id="tt20" class="du-borderStyle-vertical--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--12 du-padding-vertical--4">
+<h2 class="du-color--coolGray-600 du-fontSize--basePlus1 du-margin-top--0" id="p12" data-pid="12"><strong>Contenuto del corso</strong></h2>
+<table class="dc-table du-margin-bottom--0"><tbody><tr><td><p id="p13" data-pid="13"><a class="it" href="">Sezione 1</a></p>
+<div id="f6" class="du-width--oneHalf du-margin-top--4">
+<figure>
+<img src="" data-img-small-src="" alt="" class="suppressZoom" width="800" height="800">
+</figure>
+</div>
+</td>
+<td><p id="p14" data-pid="14"><a class="it" href="">Sezione 2</a></p>
+<div id="f7" class="du-width--oneHalf du-margin-top--4">
+<figure>
+<img src="" data-img-small-src="" alt="" class="suppressZoom" width="800" height="800">
+</figure>
+</div>
+</td>
+<td><p id="p15" data-pid="15"><a class="it" href="">Sezione 3</a></p>
+<div id="f8" class="du-width--oneHalf du-margin-top--4">
+<figure>
+<img src="" data-img-small-src="" alt="" class="suppressZoom" width="800" height="800">
+</figure>
+</div>
+</td>
+<td><p id="p16" data-pid="16"><a class="it" href="">Sezione 4</a></p>
+<div id="f9" class="du-width--oneHalf du-margin-top--4">
+<figure>
+<img src="" data-img-small-src="" alt="" class="suppressZoom" width="800" height="800">
+</figure>
+</div>
+</td>
+<td><p id="p17" data-pid="17"><a class="it" href="">Note</a></p>
+</td>
+</tr>
+</tbody></table>
+</div>
+        ]]></content>
+    <tabTrigger>creare>menu>tabella</tabTrigger>
+    <description>Menu di Navigazione</description>
+    <scope>text.html</scope>
+</snippet>

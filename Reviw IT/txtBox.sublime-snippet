@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<div class="blockTxt"><p id="p52" data-pid="52" class="sc">La Bibbia ci aiuta ad avvicinarci a Geova.</p>
+</div>]]></content>
+    <tabTrigger>creare>riquadro>commento</tabTrigger>
+    <description>Riquadro con un commento</description>
+    <scope>text.html</scope>
+</snippet>

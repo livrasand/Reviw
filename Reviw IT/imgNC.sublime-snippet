@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+    <div id="f$1" class="north_center">
+<figure>
+<img src="" data-img-small-src="" alt="¡Disfrute de la vida para siempre! Curso interactivo de la Biblia. Un&nbsp;hombre comienza a andar por un camino serpenteante que pasa por campos llenos de flores, colinas y montañas." class="north_center" style="cursor: pointer;" width="1200" height="1543">
+</figure>
+</div>  
+        ]]></content>
+    <tabTrigger>creare>immagine>centroalto</tabTrigger>
+    <description>Immagine al centro in alto</description>
+    <scope>text.html</scope>
+</snippet>

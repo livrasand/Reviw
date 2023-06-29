@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<header>
+<p class="contextTtl" id="p$1" data-pid="$1"><strong>LECCIÓN 01</strong></p>
+<h1 id="p$2" data-pid="$2"><strong>¿Cómo puede ayudarle la Biblia?</strong></h1>
+</header>
+        ]]></content>
+    <tabTrigger>creare>Intestazione</tabTrigger>
+    <description>Intestazione</description>
+    <scope>text.html</scope>
+</snippet>

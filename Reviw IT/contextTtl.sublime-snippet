@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<p class="contextTtl" id="p$1" data-pid="$1"><strong>Titolo del contesto</strong></p>]]></content>
+    <tabTrigger>creare>titolo>contesto</tabTrigger>
+    <description>Titolo del contesto</description>
+    <scope>text.html</scope>
+</snippet>

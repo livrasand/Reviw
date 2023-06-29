@@ -1,0 +1,312 @@
+<snippet>
+    <content><![CDATA[
+<header>
+   <h1 id="p1" data-pid="1"><strong>Recuadros informativos</strong></h1>
+</header>
+<div class="groupTOC">
+   <ul class="imgWestQuarter">
+      <li>
+         <div id="f1" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Una familia estudiando en su adoración en familia." class="west_left quarter" style="cursor: pointer;" width="900" height="776">
+            </figure>
+         </div>
+         <p id="p2" data-pid="2" class="contextTtl">RECUADRO INFORMATIVO 1A</p>
+         <p id="p3" data-pid="3" class="sc"><a class="it" href="">¿Qué implica la adoración?</a></p>
+      </li>
+      <li>
+         <div id="f2" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Los números de los capítulos del libro de Ezequiel en cuadritos de distintos colores según su contenido." class="west_left quarter" style="cursor: pointer;" width="900" height="776">
+            </figure>
+         </div>
+         <p id="p4" data-pid="4" class="contextTtl">RECUADRO INFORMATIVO 1B</p>
+         <p id="p5" data-pid="5" class="sc"><a class="it" href="">Panorama general del libro de Ezequiel</a></p>
+      </li>
+      <li>
+         <div id="f3" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Un hombre que parece de cobre sujetando una cuerda de lino y una caña de medir." class="west_left quarter" style="cursor: pointer;" width="900" height="682">
+            </figure>
+         </div>
+         <p id="p6" data-pid="6" class="contextTtl">RECUADRO INFORMATIVO 2A</p>
+         <p id="p7" data-pid="7" class="sc"><a class="it" href="">Ayuda para entender las profecías de Ezequiel</a></p>
+      </li>
+      <li>
+         <div id="f4" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Ezequiel." class="west_left quarter" style="cursor: pointer;" width="900" height="570">
+            </figure>
+         </div>
+         <p id="p8" data-pid="8" class="contextTtl">RECUADRO INFORMATIVO 2B</p>
+         <p id="p9" data-pid="9" class="sc"><a class="it" href="">Ezequiel | Su vida y su época</a></p>
+      </li>
+      <li>
+         <div id="f5" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Mapa con una parte del reino de Babilonia." class="west_left quarter" style="cursor: pointer;" width="900" height="776">
+            </figure>
+         </div>
+         <p id="p10" data-pid="10" class="contextTtl">RECUADRO INFORMATIVO 3A</p>
+         <p id="p11" data-pid="11" class="sc"><a class="it" href="">El largo trayecto hacia Babilonia</a></p>
+      </li>
+      <li>
+         <div id="f6" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Antigua escultura de un toro alado con cabeza de hombre." class="west_left quarter" style="cursor: pointer;" width="900" height="776">
+            </figure>
+         </div>
+         <p id="p12" data-pid="12" class="contextTtl">RECUADRO INFORMATIVO 4A</p>
+         <p id="p13" data-pid="13" class="sc"><a class="it" href="">Ezequiel observa “a los seres <em>vivientes</em>”</a></p>
+      </li>
+      <li>
+         <div id="f7" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Ezequiel asomándose a un cuarto del patio interior del templo, donde hay ancianos ofreciéndoles incienso a imágenes de dioses falsos grabadas en la pared." class="west_left quarter" style="cursor: pointer;" width="900" height="780">
+            </figure>
+         </div>
+         <p id="p14" data-pid="14" class="contextTtl">RECUADRO INFORMATIVO 5A</p>
+         <p id="p15" data-pid="15" class="sc"><a class="it" href="">“¿Ves esto, hijo del hombre?”</a></p>
+      </li>
+      <li>
+         <div id="f8" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Ezequiel afeitándose la cabeza." class="west_left quarter" style="cursor: pointer;" width="900" height="780">
+            </figure>
+         </div>
+         <p id="p16" data-pid="16" class="contextTtl">RECUADRO INFORMATIVO 6A</p>
+         <p id="p17" data-pid="17" class="sc"><a class="it" href="">“Aféitate la cabeza y la barba”</a></p>
+      </li>
+      <li>
+         <div id="f9" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Parte de un mapa que muestra las naciones vecinas de Jerusalén; cada nación está representada por su propio guerrero." class="west_left quarter" style="cursor: pointer;" width="900" height="776">
+            </figure>
+         </div>
+         <p id="p18" data-pid="18" class="contextTtl">RECUADRO INFORMATIVO 7A</p>
+         <p id="p19" data-pid="19" class="sc"><a class="it" href="">Las naciones vecinas de Jerusalén</a></p>
+      </li>
+      <li>
+         <div id="f10" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Expresiones características del libro de Ezequiel con franjas de colores en las que se indica las veces que aparecen en este libro bíblico." class="west_left quarter" style="cursor: pointer;" width="900" height="776">
+            </figure>
+         </div>
+         <p id="p20" data-pid="20" class="contextTtl">RECUADRO INFORMATIVO 7B</p>
+         <p id="p21" data-pid="21" class="sc"><a class="it" href="">Expresiones características del libro de Ezequiel</a></p>
+      </li>
+      <li>
+         <div id="f11" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Pájaros revoloteando alrededor de un cedro enorme." class="west_left quarter" style="cursor: pointer;" width="900" height="776">
+            </figure>
+         </div>
+         <p id="p22" data-pid="22" class="contextTtl">RECUADRO INFORMATIVO 8A</p>
+         <p id="p23" data-pid="23" class="sc"><a class="it" href="">Una profecía sobre el Mesías | El cedro majestuoso</a></p>
+      </li>
+      <li>
+         <div id="f12" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Barras de colores representando profecías mesiánicas." class="west_left quarter" style="cursor: pointer;" width="900" height="774">
+            </figure>
+         </div>
+         <p id="p24" data-pid="24" class="contextTtl">RECUADRO INFORMATIVO 8B</p>
+         <p id="p25" data-pid="25" class="sc"><a class="it" href="">Tres profecías sobre el Mesías</a></p>
+      </li>
+      <li>
+         <div id="f13" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Una familia israelita celebrando la Pascua." class="west_left quarter" style="cursor: pointer;" width="900" height="776">
+            </figure>
+         </div>
+         <p id="p26" data-pid="26" class="contextTtl">RECUADRO INFORMATIVO 9A</p>
+         <p id="p27" data-pid="27" class="sc"><a class="it" href="">Jehová cumple sus promesas | En la antigüedad</a></p>
+      </li>
+      <li>
+         <div id="f14" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Joseph Rutherford hablando ante una multitud sentada bajo los árboles en la asamblea de los Estudiantes de la Biblia de&nbsp;1919." class="west_left quarter" style="cursor: pointer;" width="900" height="776">
+            </figure>
+         </div>
+         <p id="p28" data-pid="28" class="contextTtl">RECUADRO INFORMATIVO 9B</p>
+         <p id="p29" data-pid="29" class="sc"><a class="it" href="">¿Y por qué 1919?</a></p>
+      </li>
+      <li>
+         <div id="f15" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Un hermano presentando el discurso de la Conmemoración en un Salón del Reino." class="west_left quarter" style="cursor: pointer;" width="900" height="776">
+            </figure>
+         </div>
+         <p id="p30" data-pid="30" class="contextTtl">RECUADRO INFORMATIVO 9C</p>
+         <p id="p31" data-pid="31" class="sc"><a class="it" href="">Jehová cumple sus promesas | En la actualidad</a></p>
+      </li>
+      <li>
+         <div id="f16" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Barras de colores representando profecías sobre el cautiverio y la restauración." class="west_left quarter" style="cursor: pointer;" width="900" height="776">
+            </figure>
+         </div>
+         <p id="p32" data-pid="32" class="contextTtl">RECUADRO INFORMATIVO 9D</p>
+         <p id="p33" data-pid="33" class="sc"><a class="it" href="">Profecías sobre el cautiverio y la restauración</a></p>
+      </li>
+      <li>
+         <div id="f17" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="En el Paraíso, una familia disfrutando tranquilamente en un pequeño muelle de madera a la orilla de un lago." class="west_left quarter" style="cursor: pointer;" width="900" height="776">
+            </figure>
+         </div>
+         <p id="p34" data-pid="34" class="contextTtl">RECUADRO INFORMATIVO 9E</p>
+         <p id="p35" data-pid="35" class="sc"><a class="it" href="">“Los tiempos de la restauración de todas las cosas”</a></p>
+      </li>
+      <li>
+         <div id="f18" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Serie de imágenes: 1. Charles Russell leyendo la Biblia. 2. Charles Russell con algunos de sus colaboradores." class="west_left quarter" style="cursor: pointer;" width="900" height="776">
+            </figure>
+         </div>
+         <p id="p36" data-pid="36" class="contextTtl">RECUADRO INFORMATIVO 10A</p>
+         <p id="p37" data-pid="37" class="sc"><a class="it" href="">La adoración pura se restaura de forma gradual</a></p>
+      </li>
+      <li>
+         <div id="f19" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Una multitud de ungidos; incluye cristianos que vivieron entre el siglo segundo y 1919." class="west_left quarter" style="cursor: pointer;" width="900" height="776">
+            </figure>
+         </div>
+         <p id="p38" data-pid="38" class="contextTtl">RECUADRO INFORMATIVO 10B</p>
+         <p id="p39" data-pid="39" class="sc"><a class="it" href="">Los “huesos secos” y los “dos testigos” | La relación entre ambas visiones</a></p>
+      </li>
+      <li>
+         <div id="f20" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Un Testigo de edad avanzada meditando en lo que acaba de leer en el libro bíblico de Ezequiel." class="west_left quarter" style="cursor: pointer;" width="900" height="776">
+            </figure>
+         </div>
+         <p id="p40" data-pid="40" class="contextTtl">RECUADRO INFORMATIVO 10C</p>
+         <p id="p41" data-pid="41" class="sc"><a class="it" href="">Jehová nos ayuda a levantarnos</a></p>
+      </li>
+      <li>
+         <div id="f21" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Un centinela tocando el cuerno." class="west_left quarter" style="cursor: pointer;" width="900" height="701">
+            </figure>
+         </div>
+         <p id="p42" data-pid="42" class="contextTtl">RECUADRO INFORMATIVO 11A</p>
+         <p id="p43" data-pid="43" class="sc"><a class="it" href="">Algunos centinelas admirables</a></p>
+      </li>
+      <li>
+         <div id="f22" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Los dos palos de la profecía de Ezequiel." class="west_left quarter" style="cursor: pointer;" width="900" height="656">
+            </figure>
+         </div>
+         <p id="p44" data-pid="44" class="contextTtl">RECUADRO INFORMATIVO 12A</p>
+         <p id="p45" data-pid="45" class="sc"><a class="it" href="">La unión de los dos palos</a></p>
+      </li>
+      <li>
+         <div id="f23" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Animales para los sacrificios hechos en el templo de la visión." class="west_left quarter" style="cursor: pointer;" width="900" height="701">
+            </figure>
+         </div>
+         <p id="p46" data-pid="46" class="contextTtl">RECUADRO INFORMATIVO 13A</p>
+         <p id="p47" data-pid="47" class="sc"><a class="it" href="">Templos distintos, significados distintos</a></p>
+      </li>
+      <li>
+         <div id="f24" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Vista aérea del templo de la visión de Ezequiel." class="west_left quarter" style="cursor: pointer;" width="900" height="701">
+            </figure>
+         </div>
+         <p id="p48" data-pid="48" class="contextTtl">RECUADRO INFORMATIVO 14A</p>
+         <p id="p49" data-pid="49" class="sc"><a class="it" href="">Lecciones de la visión del templo de Ezequiel</a></p>
+      </li>
+      <li>
+         <div id="f25" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Dos hermanas prostitutas: Oholá y Oholibá." class="west_left quarter" style="cursor: pointer;" width="900" height="701">
+            </figure>
+         </div>
+         <p id="p50" data-pid="50" class="contextTtl">RECUADRO INFORMATIVO 15A</p>
+         <p id="p51" data-pid="51" class="sc"><a class="it" href="">Dos hermanas prostitutas</a></p>
+      </li>
+      <li>
+         <div id="f26" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Un sumo sacerdote israelita y un papa de la Iglesia católica." class="west_left quarter" style="cursor: pointer;" width="900" height="776">
+            </figure>
+         </div>
+         <p id="p52" data-pid="52" class="contextTtl">RECUADRO INFORMATIVO 16A</p>
+         <p id="p53" data-pid="53" class="sc"><a class="it" href="">¿Es Jerusalén un modelo profético de la cristiandad?</a></p>
+      </li>
+      <li>
+         <div id="f27" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Una mujer bautizándose." class="west_left quarter" style="cursor: pointer;" width="900" height="701">
+            </figure>
+         </div>
+         <p id="p54" data-pid="54" class="contextTtl">RECUADRO INFORMATIVO 16B</p>
+         <p id="p55" data-pid="55" class="sc"><a class="it" href="">Suspirar y lamentarse, marcar, aplastar | ¿Cuándo y cómo sucede?</a></p>
+      </li>
+      <li>
+         <div id="f28" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Ezequiel proclamando una advertencia de parte de Jehová." class="west_left quarter" style="cursor: pointer;" width="900" height="776">
+            </figure>
+         </div>
+         <p id="p56" data-pid="56" class="contextTtl">RECUADRO INFORMATIVO 18A</p>
+         <p id="p57" data-pid="57" class="sc"><a class="it" href="">Advertencias de Jehová sobre la futura gran batalla</a></p>
+      </li>
+      <li>
+         <div id="f29" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Un río." class="west_left quarter" style="cursor: pointer;" width="900" height="637">
+            </figure>
+         </div>
+         <p id="p58" data-pid="58" class="contextTtl">RECUADRO INFORMATIVO 19A</p>
+         <p id="p59" data-pid="59" class="sc"><a class="it" href="">Ríos de bendiciones de parte de Jehová</a></p>
+      </li>
+      <li>
+         <div id="f30" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Un hilito de agua se convierte en un río, tal como lo vio Ezequiel." class="west_left quarter" style="cursor: pointer;" width="900" height="664">
+            </figure>
+         </div>
+         <p id="p60" data-pid="60" class="contextTtl">RECUADRO INFORMATIVO 19B</p>
+         <p id="p61" data-pid="61" class="sc"><a class="it" href="">¡Un hilito de agua se convierte en un río caudaloso!</a></p>
+      </li>
+      <li>
+         <div id="f31" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Un hombre que parece de cobre mostrándole a Ezequiel la tierra que se daría en herencia." class="west_left quarter" style="cursor: pointer;" width="900" height="787">
+            </figure>
+         </div>
+         <p id="p62" data-pid="62" class="contextTtl">RECUADRO INFORMATIVO 20A</p>
+         <p id="p63" data-pid="63" class="sc"><a class="it" href="">El reparto de la tierra</a></p>
+      </li>
+      <li>
+         <div id="f32" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Mapa de una porción de tierra llamada “la contribución” y reservada por Jehová, y un recuadro de la porción de esa tierra llamada “la contribución entera”." class="west_left quarter" style="cursor: pointer;" width="900" height="926">
+            </figure>
+         </div>
+         <p id="p64" data-pid="64" class="contextTtl">RECUADRO INFORMATIVO 21A</p>
+         <p id="p65" data-pid="65" class="sc"><a class="it" href="">“La contribución que ustedes deben reservar”</a></p>
+      </li>
+      <li>
+         <div id="f33" class="west_left quarter">
+            <figure>
+               <img src="" data-img-small-src="" alt="Imágenes de sucesos de la época de la prueba final: 1. Seres humanos perfectos mirando hacia los cielos. 2. Jesús entregándole su corona a Jehová." class="west_left quarter" style="cursor: pointer;" width="900" height="902">
+            </figure>
+         </div>
+         <p id="p66" data-pid="66" class="contextTtl">RECUADRO INFORMATIVO 22A</p>
+         <p id="p67" data-pid="67" class="sc"><a class="it" href="">Sucesos en torno a la prueba final</a></p>
+      </li>
+   </ul>
+</div>
+<p id="p68" data-pid="68" class="sb"></p>
+]]></content>
+    <tabTrigger>crear>indice>rr</tabTrigger>
+    <description>Índice estilo Adoración pura</description>
+    <scope>text.html</scope>
+</snippet>

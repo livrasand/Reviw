@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+<div id="f$1" class="south_center">
+<figure>
+<img src="" data-img-small-src="" alt="Immagini di Gesù che rifiuta le tentazioni: 1. Gesù nel deserto della Giudea seduto su un terreno roccioso a meditare. 2. Gesù in piedi sulla cima del tempio. 3. Gesù che dice con fermezza: "Vattene, Satana!".." class="south_center" style="cursor: pointer;" width="900" height="575">
+<figcaption class="figcaption">
+<p id="p$2" data-pid="$2" class="sc">"VATTENE, SATANA!". (Vedi paragrafo 10).</p>
+</figcaption>
+</figure>
+</div>
+]]></content>
+    <tabTrigger>creare>immagine</tabTrigger>
+    <description>Immagine centro basso</description>
+    <scope>text.html</scope>
+</snippet>

@@ -1,0 +1,66 @@
+<snippet>
+    <content><![CDATA[                                                               
+Bienvenido a Información acerca de las Abreviaturas de las Sintaxis, consulta la referencia de la línea de comandos en la Ayuda en pantalla. Para obtener más información acerca de un comando específico, escriba: ayuda; seguido del nombre de comando, y luego presione Tabulador.
+
+Sintaxis crear:                       
+portada                 Crea una portada con imagen y título.
+editores                Crea una página con información del o los editores.
+titulo                  Crea un título.
+├───contexto            Crea un título de contexto.
+│    └───numpag         Crea un título de contexto con número de página.
+├───portada             Crea un título de portada.
+│    └───numpag         Crea un título de portada con número de página.
+├───h1                  Crea un encabezado de nivel 1.
+├───h2                  Crea un encabezado de nivel 2.
+└───h3                  Crea un encabezado de nivel 3.
+     └───color          Crea un encabezado de nivel 3 con color.
+copyright               Crea una sección de información de derechos de autor.
+encabezado              Crea un encabezado.
+├───imgnc               Crea un encabezado con imagen alineada al centro norte.
+└───imgnc+numpag        Crea un encabezado con imagen alineada al centro norte 
+                        y número de página.
+imagen                  Crea una imagen alineada al centro sur.
+├───nc                  Crea una imagen alineada al centro norte.
+└───columna
+     └───onehalf        Crea una imagen de media columna con texto.
+video
+└───untercio            Crea un video con miniatura en un tercio.
+parrafo                 Crea un párrafo simple.
+├───script              Crea un párrafo estilo script.
+└───citabiblica         Crea un párrafo para cita bíblica.
+indice
+├───lff                 Crea un índice estilo Disfrute de la vida.
+├───cl                  Crea un índice estilo Acerquémonos a Jehová.
+└───rr                  Crea un índice estilo Adoración pura.
+recuadro                Crea un recuadro sencillo con texto.
+├───fill                Crea un recuadro relleno de color con texto.
+├───comentario          Crea un recuadro con un comentario.
+├───titulofill          Crea un recuadro con el título relleno.
+└───informativo         Crea un recuadro informativo con una imagen.
+menu
+└───tabla               Crea una tabla de navegación.
+prologo                 Crea un prólogo.
+lineadetiempo           Crea una línea de tiempo con imágenes.
+manifest                Crea el archivo manifest.json.
+bosquejo                Crea un boquejo simple.
+
+Sintaxis insertar:
+citabiblica             Inserta un enlace para una cita bíblica.
+imagen                  Inserta un enlace para una imagen.
+referencia              Inserta un enlace para una referencia a publicación.
+
+Sintaxis importar:
+api                     Importa al documento la API de JW Library.
+
+
+Sintaxis ayuda:
+manifest                Muestra información sobre el archivo manifest.json.
+lenguajes               Muestra los números MEPS de los idiomas.
+categorias              Muestra las categorías de publicaciones disponibles.
+jwtoken                 Muestra información sobre los JWTOKENS.
+
+]]></content>
+    <tabTrigger>ayuda</tabTrigger>
+    <description>Abreviaturas de las Sintaxis</description>
+    <scope>text.html</scope>
+</snippet>

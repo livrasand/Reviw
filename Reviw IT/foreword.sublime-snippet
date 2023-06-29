@@ -1,0 +1,22 @@
+<snippet>
+    <content><![CDATA[    
+    <header>
+<h1 id="p1" data-pid="1"><span id="page3" class="pageNum" aria-hidden="true" data-no="3" data-before-text="3" style="display: inline;"></span><strong>Prólogo</strong></h1>
+</header>
+<div class="bodyTxt">
+<div id="section1" class="section">
+<div class="pGroup">
+<p id="p2" data-pid="2" class="sh"><strong>Estimado lector:</strong></p>
+<p id="p3" data-pid="3" class="sb">¿Se siente cerca de Dios? Muchos creen que eso es imposible. Algunos piensan que él está demasiado lejos, y otros sienten que no&nbsp;merecen acercarse a él. Sin embargo, la Biblia nos hace esta cariñosa invitación: “Acérquense a Dios y él se acercará a ustedes” (<a href="" data-bid="1-1" class="b">Santiago 4:8</a>). De&nbsp;hecho, Dios mismo nos asegura: “Yo, Jehová tu Dios, tengo agarrada tu mano derecha; soy el que te dice: ‘No&nbsp;tengas miedo. Yo&nbsp;te ayudaré’” (<a href="" data-bid="2-1" class="b">Isaías 41:13</a>).</p>
+<p id="p4" data-pid="4" class="sb">¿Qué tenemos que hacer para acercarnos a Dios y ser sus amigos? Para tener un buen amigo, tenemos que conocerlo bien: conocer su forma de ser y saber lo que piensa y siente. Admiramos a nuestros amigos y valoramos sus cualidades. Del mismo modo, para hacernos amigos de Jehová, tenemos que estudiar la Biblia, y así conocer su forma de ser y saber lo que piensa y siente. Si&nbsp;reflexionamos en cómo Jehová demuestra sus cualidades, en cómo Jesucristo las reflejó a la perfección y en cómo podemos cultivarlas nosotros, lograremos acercarnos más a él. Todo esto nos ayudará a ver que Jehová es el Soberano del universo, el mejor gobernante que puede haber. Y, sobre todo, veremos que es el Padre que todos necesitamos. Este Dios, lleno de fuerza, justicia, sabiduría y amor, nunca abandona a sus hijos fieles.</p>
+<p id="p5" data-pid="5" class="sb">Deseamos que este libro le ayude a acercarse cada día más a Jehová Dios y así pueda seguir alabándolo por siempre. ¡Que nada ni&nbsp;nadie rompa su amistad con él!</p>
+</div>
+</div>
+</div>
+<p id="p6" data-pid="6" class="sj"><strong>Los editores</strong></p>
+<p id="p7" data-pid="7" class="sb"></p>
+        ]]></content>
+    <tabTrigger>creare>prologo</tabTrigger>
+    <description>Prologo</description>
+    <scope>text.html</scope>
+</snippet>

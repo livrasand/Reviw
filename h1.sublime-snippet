@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[<h1 id="p$1" data-pid="$1"><strong>¡Disfrute de la vida para siempre! Curso interactivo de la Biblia</strong></h1>]]></content>
-    <tabTrigger>crear>h1</tabTrigger>
-    <description>Encabezado nivel 1</description>
-    <scope>text.html</scope>
-</snippet>

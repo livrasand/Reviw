@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<p id="p$1" data-pid="$1">Muchos nos hacemos preguntas sobre la vida, el sufrimiento, la muerte y el futuro. También nos preocupan las cosas normales del día a día, como ganar lo suficiente para vivir o tener una familia feliz. Mucha gente se ha dado cuenta de que la Biblia responde a esas preguntas tan importantes y que además les da buenos consejos para la vida diaria. ¿Cree que la Biblia podría ayudar a alguien que usted conozca?</p>]]></content>
+    <tabTrigger>crear>parrafo</tabTrigger>
+    <description>Párrafo</description>
+    <scope>text.html</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<div class="copyrightInfo">
+   <p id="p$1" data-pid="$1" class="si">Stampato ad aprile 2023</p>
+   <p id="p$2" data-pid="$2" class="si">© 2021 WATCH TOWER BIBLE AND TRACT SOCIETY OF PENNSYLVANIA</p>
+</div>]]></content>
+    <tabTrigger>creare>copyright</tabTrigger>
+    <description>Informazioni sul copyright</description>
+    <scope>text.html</scope>
+</snippet>

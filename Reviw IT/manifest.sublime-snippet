@@ -1,0 +1,92 @@
+<snippet>
+    <content><![CDATA[
+{
+    "name": "symbol_S.jwpub",
+    "hash": "46ec1b72dc632db984146775edb3f3eee8837ab68f2d23565563b0d3f45a16f4",
+    "timestamp": "2023-03-20T017:23:52Z",
+    "version": 1,
+    "expandedSize": 894593,
+    "contentFormat": "z-a",
+    "htmlValidated": false,
+    "mepsPlatformVersion": 2.100000,
+    "mepsBuildNumber": 11656,
+    "publication": { 
+        "fileName": "symbol_S.db",
+        "type": 1,
+        "title": "Título del archivo",
+        "shortTitle": "Título del archivo",
+        "displayTitle": "Título del archivo  (symbol)",
+        "referenceTitle": "Título del archivo",
+        "undatedReferenceTitle": "Título del archivo",
+        "titleRich": "Título del archivo",
+        "displayTitleRich": "Título del archivo  (symbol)",
+        "referenceTitleRich": "Título del archivo",
+        "undatedReferenceTitleRich": "Título del archivo",
+        "symbol": "symbol",
+        "uniqueEnglishSymbol": "symbol",
+        "uniqueSymbol": "symbol",
+        "undatedSymbol": "symbol",
+        "englishSymbol": "symbol",
+        "language": 1,
+        "hash": "4d2ad620d8d5b068320a75cb0c9a1e6ae5cb0d59",
+        "timestamp": "2023-03-20T017:23:52Z",
+        "minPlatformVersion": 1,
+        "schemaVersion": 8,
+        "year": 2023,
+        "issueId": 0,
+        "issueNumber": 0,
+        "variation": "",
+        "publicationType": "Book",
+        "rootSymbol": "symbol",
+        "rootYear": 2023,
+        "rootLanguage": 0,
+        "images": [ 
+            {
+                "signature": "a4d5d9c4e14e5d42a465f09554861b94213459e0:120:120",
+                "fileName": "1102023385_univ_sqr-120x120.jpg",
+                "type": "t",
+                "attribute": "r",
+                "width": 120,
+                "height": 120
+            },
+            {
+                "signature": "a4d5d9c4e14e5d42a465f09554861b94213459e0:270:270",
+                "fileName": "1102023385_univ_sqr-270x270.jpg",
+                "type": "t",
+                "attribute": "r",
+                "width": 270,
+                "height": 270
+            },
+            {
+                "signature": "a4d5d9c4e14e5d42a465f09554861b94213459e0:600:600",
+                "fileName": "1102023385_univ_sqr-600x600.jpg",
+                "type": "t",
+                "attribute": "r",
+                "width": 600,
+                "height": 600
+            }
+        ],
+        "categories": [ 
+                "bk"
+        ],
+        "attributes": [ 
+        ],
+        "issueAttributes": [ 
+        ],
+        "issueProperties": { 
+                "title": "",
+                "undatedTitle": "",
+                "coverTitle": "",
+                "titleRich": "",
+                "undatedTitleRich": "",
+                "coverTitleRich": "",
+                "symbol": "",
+                "undatedSymbol": ""
+        }
+    }
+}
+        ]]></content>
+    <tabTrigger>creare>manifest</tabTrigger>
+    <description>File di Attributi</description>
+    <scope>source.json</scope>
+</snippet>

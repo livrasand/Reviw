@@ -1,0 +1,27 @@
+<snippet>
+    <content><![CDATA[
+<header>
+   <p class="contextTtl" id="p1" data-pid="1"><span id="page1" class="pageNum" aria-hidden="true" data-no="1" data-before-text="1" style="display: inline;"></span><strong>Portada/Página de los editores</strong></p>
+   <h1 id="p2" data-pid="2"><strong>¡Disfrute de la vida para siempre! Curso interactivo de la Biblia</strong></h1>
+</header>
+<p id="p3" data-pid="3" class="themeScrp">“Los que buscan a Jehová lo alabarán. Que ustedes vivan para siempre” (<a href="" data-bid="1-1" class="b">Salmo 22:26</a>).</p>
+<div class="bodyTxt">
+   <div id="section1" class="section">
+      <div class="pGroup">
+         <p id="p5" data-pid="5" class="si">Photo Credits: Página&nbsp;15: Image © Homo Cosmicos/Shutterstock; página&nbsp;17: NASA, ESA and the Hubble Heritage Team (STScI/AURA)-ESA/Hubble Collaboration. Licensed under CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/). Source: https://esahubble.org/images/heic0702a/; página&nbsp;56: Photo by US Signal Corps/The LIFE Picture Collection via Getty Images; página&nbsp;76: Château de Versailles, France/Bridgeman Images; páginas 103 y 131: Based on NASA/Visible Earth imagery; página 163: ©&nbsp;SINGLECELL ANIMATION LLC/Science Source; página 183: Daniel Osterkamp/Moment/Getty Images</p>
+         <p id="p6" data-pid="6" class="si">A&nbsp;menos que se indique lo contrario, las citas bíblicas se han tomado de la versión en lenguaje moderno <em>La Biblia. Traducción del Nuevo Mundo.</em></p>
+         <p id="p7" data-pid="7" class="si">Todas las publicaciones mencionadas en esta obra han sido editadas por los testigos de Jehová.</p>
+         <p id="p8" data-pid="8" class="si"><strong>Esta publicación se distribuye como parte de una obra mundial de educación bíblica que se sostiene con donativos. Si&nbsp;desea hacer un donativo, visite donate.jw.org.</strong></p>
+         <p id="p9" data-pid="9" class="si">Spanish (<em>lff</em>-S)</p>
+         <div class="copyrightInfo">
+            <p id="p10" data-pid="10" class="si">Impresión de abril de&nbsp;2023</p>
+            <p id="p11" data-pid="11" class="si">© 2021 WATCH TOWER BIBLE AND TRACT SOCIETY OF PENNSYLVANIA</p>
+         </div>
+      </div>
+   </div>
+</div>
+<p id="p12" data-pid="12" class="sb"></p>]]></content>
+    <tabTrigger>creare>editori</tabTrigger>
+    <description>Pagina dell'editore</description>
+    <scope>text.html</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<div id="tt$1" class="du-borderStyle--solid du-borderColor--coolGray-600 du-borderWidth--1 du-margin-top--8 du-padding--4 du-padding-desktopOnly--8 du-margin-children-vertical--0"><p id="p$2" data-pid="$2"><em>Questa pubblicazione non sostituisce la Bibbia. Al contrario, vi aiuterà a studiarla. Per questo motivo vi invitiamo a leggere tutte le citazioni bibliche presenti nelle lezioni e a confrontare ciò che queste citazioni dicono con ciò che state imparando</em></p></div>]]></content>
+    <tabTrigger>creare>riquadro</tabTrigger>
+    <description>Riquadro semplice con testo</description>
+    <scope>text.html</scope>
+</snippet>

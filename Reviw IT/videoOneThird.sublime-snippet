@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+    <div id="tt$1" class="dc-columns du-bgColor--teal-50 du-margin-inlineEnd-desktopOnly--oneThird du-padding--4">
+<div id="f$2" class="dc-column-width--oneThird du-margin-inlineEnd--4">
+<figure>
+<a href="https://www.jw.org/finder?lank=pub-lffv_1_VIDEO&amp;wtlocale=S" data-video="webpubvid://?pub=lffv&amp;track=1" class="dc-iconOverlay--play fb" target="_blank"><img src="" data-img-small-src="" alt="" class="suppressZoom" width="1200" height="675"></a>
+</figure>
+</div>
+<div id="tt$3" class="dc-column-width--twoThirds du-fontSize--baseMinus1 du-margin-children-vertical--0">
+<p id="p$4" data-pid="$4"><a href="https://www.jw.org/finder?lank=pub-lffv_1_VIDEO&amp;wtlocale=S" data-video="webpubvid://?pub=lffv&amp;track=1" target="_blank" class="fb"><strong>VIDEO: <em>Bienvenido a su curso de la Biblia</em> (2:45)</strong></a></p>
+</div>
+</div>
+        ]]></content>
+    <tabTrigger>creare>video>unterzo</tabTrigger>
+    <description>Video con miniatura di un terzo</description>
+    <scope>text.html</scope>
+</snippet>

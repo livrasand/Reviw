@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+<div id="f$1" class="north_center">
+   <figure>
+      <img src="" data-img-small-src="" alt="¡Godetevi la vita per sempre! Corso biblico interattivo. Un uomo inizia a camminare lungo una strada tortuosa che attraversa campi pieni di fiori, colline e montagne." class="north_center" style="cursor: pointer;" width="1200" height="1543">
+   </figure>
+</div>
+<header>
+   <h1 class="coverTtl" id="p1" data-pid="1"><span id="page1" class="pageNum" aria-hidden="true" data-no="1" data-before-text="1" style="display: inline;"></span><strong>Godetevi la vita per sempre! Corso biblico interattivo</strong></h1>
+</header>]]></content>
+    <tabTrigger>creare>primapagina</tabTrigger>
+    <description>Prima pagina con immagine e titolo</description>
+    <scope>text.html</scope>
+</snippet>

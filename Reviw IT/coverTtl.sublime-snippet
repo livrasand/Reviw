@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<h1 class="coverTtl" id="p$1" data-pid="$1"><strong>Titolo della pubblicazione</strong></h1>]]></content>
+    <tabTrigger>creare>titolo>primapagina</tabTrigger>
+    <description>Titolo della prima pagina</description>
+    <scope>text.html</scope>
+</snippet>

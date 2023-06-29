@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+    <div class="boxSupplement rule"><aside><div id="p2" data-pid="2" class="boxTtl"><h2><strong>RECUADROS INFORMATIVOS</strong></h2></div>
+<div class="boxContent"><div id="f1" class="west_left quarter">
+<figure>
+<img src="" data-img-small-src="" alt="Un recuadro informativo con una lupa mostrando el número del capítulo y la letra que le corresponde por orden alfabético." class="west_left quarter" style="cursor: pointer;" width="900" height="1610">
+</figure>
+</div>
+<p id="p3" data-pid="3" class="sc">Los recuadros informativos de este libro llevan el número del capítulo al que pertenecen. El&nbsp;número va acompañado de una letra en orden alfabético. Por&nbsp;ejemplo, en el <a class="it" href="">capítulo&nbsp;10</a> hay tres recuadros:&nbsp;<a class="it" href="">10A,</a> <a class="it" href="">10B</a> y&nbsp;<a class="it" href="">10C</a>. En&nbsp;los formatos electrónicos, es&nbsp;posible encontrar todos los recuadros en una sola sección llamada “<a class="it" href="">Recuadros informativos</a>”. El&nbsp;libro en formato electrónico cuenta con otras herramientas que no&nbsp;están disponibles en la edición impresa.</p>
+</div>
+</aside></div>
+]]></content>
+    <tabTrigger>creare>riquadro>informazioni</tabTrigger>
+    <description>Riquadro informazioni con immagine</description>
+    <scope>text.html</scope>
+</snippet>

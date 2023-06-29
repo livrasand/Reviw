@@ -1,0 +1,48 @@
+<snippet>
+    <content><![CDATA[
+        <header>
+<h1 class="du-color--gold-700 du-constrainStylesToTextWidth du-borderStyle-top--solid du-borderWidth-top--4" id="p1" data-pid="1"><span id="page4" class="pageNum" aria-hidden="true" data-no="4" data-before-text="4" style="display: inline;"></span><strong>Sección 1</strong></h1>
+</header>
+<div class="bodyTxt">
+<div id="tt3" class="du-color--gold-700 du-fontSize--base">
+<p id="p2" data-pid="2"><strong><em>Idea principal: Descubra cómo le puede ayudar la Biblia y cómo puede conocer a su autor</em></strong></p>
+</div>
+<div id="f1" class="dc-bleedToArticleEdge">
+<figure>
+<img src="" data-img-small-src="" alt="Un joven leyendo la Biblia." style="cursor: pointer;" width="1200" height="400">
+</figure>
+</div>
+<div id="tt4" class="dc-bleedToArticleEdge dc-paddingToContentEdge du-bgColor--gray-50 du-padding-vertical--8 du-padding-vertical-desktopOnly--12">
+<h2 class="du-fontSize--base du-color--gold-700 du-fontWeight--normal du-margin-top--0" id="p3" data-pid="3"><strong>LECCIONES</strong></h2>
+<ol class="du-listStyleType--none du-fontSize--baseMinus1 du-padding-inlineStart--0"><li class="du-borderStyle-top--solid du-borderColor--gray-200 du-borderWidth--1"><p id="p4" data-pid="4"><a class="it" href=""><strong>01</strong>  ¿Cómo puede ayudarle la Biblia?</a></p>
+</li>
+<li class="du-borderStyle-top--solid du-borderColor--gray-200 du-borderWidth--1"><p id="p5" data-pid="5"><a class="it" href=""><strong>02</strong>  La Biblia nos da esperanza</a></p>
+</li>
+<li class="du-borderStyle-top--solid du-borderColor--gray-200 du-borderWidth--1"><p id="p6" data-pid="6"><a class="it" href=""><strong>03</strong>  ¿Se puede confiar en la Biblia?</a></p>
+</li>
+<li class="du-borderStyle-top--solid du-borderColor--gray-200 du-borderWidth--1"><p id="p7" data-pid="7"><a class="it" href=""><strong>04</strong>  ¿Quién es Dios?</a></p>
+</li>
+<li class="du-borderStyle-top--solid du-borderColor--gray-200 du-borderWidth--1"><p id="p8" data-pid="8"><a class="it" href=""><strong>05</strong>  La Biblia contiene el mensaje de Dios para nosotros</a></p>
+</li>
+<li class="du-borderStyle-top--solid du-borderColor--gray-200 du-borderWidth--1"><p id="p9" data-pid="9"><a class="it" href=""><strong>06</strong>  ¿Cómo empezó la vida?</a></p>
+</li>
+<li class="du-borderStyle-top--solid du-borderColor--gray-200 du-borderWidth--1"><p id="p10" data-pid="10"><a class="it" href=""><strong>07</strong>  ¿Cómo es Jehová?</a></p>
+</li>
+<li class="du-borderStyle-top--solid du-borderColor--gray-200 du-borderWidth--1"><p id="p11" data-pid="11"><a class="it" href=""><strong>08</strong>  Usted puede ser amigo de Jehová</a></p>
+</li>
+<li class="du-borderStyle-top--solid du-borderColor--gray-200 du-borderWidth--1"><p id="p12" data-pid="12"><a class="it" href=""><strong>09</strong>  La oración le acerca a Dios</a></p>
+</li>
+<li class="du-borderStyle-top--solid du-borderColor--gray-200 du-borderWidth--1"><p id="p13" data-pid="13"><a class="it" href=""><strong>10</strong>  ¿Por qué es bueno que asista a las reuniones de los testigos de Jehová?</a></p>
+</li>
+<li class="du-borderStyle-top--solid du-borderColor--gray-200 du-borderWidth--1"><p id="p14" data-pid="14"><a class="it" href=""><strong>11</strong>  Cómo sacarle el máximo provecho a la Biblia</a></p>
+</li>
+<li class="du-borderStyle-top--solid du-borderColor--gray-200 du-borderWidth--1"><p id="p15" data-pid="15"><a class="it" href=""><strong>12</strong>  ¿Qué le ayudará a seguir estudiando la Biblia?</a></p>
+</li>
+</ol>
+</div>
+</div>
+        ]]></content>
+    <tabTrigger>creare>indice>lff</tabTrigger>
+    <description>Indice in stile Puoi Vivere Felice per Sempre</description>
+    <scope>text.html</scope>
+</snippet>
