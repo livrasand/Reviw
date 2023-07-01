@@ -61,7 +61,7 @@ Esto abrirá una ventana del Explorador de archivos en el directorio de los Pack
 Ahora ve a la carpeta <b>Installed Packages</b>. Ahora solo arrastra o pega el archivo <b>Reviw.sublime-package</b> en esta carpeta. Con esto, automáticamente se instalará Reviw en Sublime Text.
 
 ## Solicitar un JWTOKEN para JWBlober
-Para recibir solicitudes y enviar los JWTOKENS utilizamos [cabal](https://github.com/cabal-club/cabal-cli). 
+Para recibir solicitudes y enviar los JWTOKENS utilizamos [cabal](https://github.com/cabal-club/cabal-cli). Los archivos JWTOKEN para JWBlober se crean en base a los parámetros y valores de la tabla `Publication` de la base de datos de tu archivo, junto con el **manifest.json**. De manera que antes de que solicites un JWTOKEN para tu proyecto, verifica que los valores como el título y el símbolo de la publicación, el año, el idioma y los demás campos coincidan con el archivo manifest.json. Cambiar aunque sea uno de estos campos ya sea por error o por alguna actualización posterior, requerirá que solicites un nuevo JWTOKEN, o que el JWTOKEN para tu proyecto no funcione.
 
 Envíanos el número de tu idioma, el `Symbol` de la publicación y el `Year`. Debería verse así:
 ```html
