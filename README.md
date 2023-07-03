@@ -61,7 +61,7 @@ Esto abrirá una ventana del Explorador de archivos en el directorio de los Pack
 Ahora ve a la carpeta <b>Installed Packages</b>. Ahora solo arrastra o pega el archivo <b>Reviw.sublime-package</b> en esta carpeta. Con esto, automáticamente se instalará Reviw en Sublime Text.
 
 ## Solicitar un JWTOKEN para JWBlober
-Para recibir solicitudes y enviar los JWTOKENS utilizamos [cabal](https://github.com/cabal-club/cabal-cli). Los archivos JWTOKEN para JWBlober se crean en base a los parámetros y valores de la tabla `Publication` de la base de datos de tu archivo, junto con el **manifest.json**. De manera que antes de que solicites un JWTOKEN para tu proyecto, verifica que los valores como el título y el símbolo de la publicación, el año, el idioma y los demás campos coincidan con el archivo manifest.json. Cambiar aunque sea uno de estos campos ya sea por error o por alguna actualización posterior, requerirá que solicites un nuevo JWTOKEN, o que el JWTOKEN para tu proyecto no funcione.
+Para recibir solicitudes utilizamos [cabal](https://github.com/cabal-club/cabal-cli). Los archivos JWTOKEN para JWBlober se crean en base a los parámetros y valores de la tabla `Publication` de la base de datos de tu archivo, junto con el **manifest.json**. De manera que antes de que solicites un JWTOKEN para tu proyecto, verifica que los valores como el título y el símbolo de la publicación, el año, el idioma y los demás campos coincidan con el archivo manifest.json. Cambiar aunque sea uno de estos campos ya sea por error o por alguna actualización posterior, requerirá que solicites un nuevo JWTOKEN, o que el JWTOKEN para tu proyecto no funcione.
 
 Envíanos el número de tu idioma, el `Symbol` de la publicación y el `Year`. Debería verse así:
 ```html
@@ -97,7 +97,7 @@ Ingrese esta clave en cabal para unirse al chat.
 
 > ⚠️ Cabal es súper joven, y aunque se está tratando de someterlo a prueba a medida que se desarrolla, a veces las cosas se rompen. Si es así, te pedimos seas paciente por favor y esperes que se repare.
 
-Una vez que solicite su JWTOKEN, lo recibirá mediante [Wormhole](https://wormhole.app/) en cabal.
+Una vez que solicite su JWTOKEN, lo recibirá mediante [Tribler](https://github.com/Tribler/tribler).
 
 Los JWPUB proporcionados aquí o creados con Reviw no tiene derechos de autor; estarán en el Dominio Público de [JWPUB Catalog](https://github.com/livrasand/JWPUB-Catalog/). Sin embargo, el código y los métodos de producción no se pueden compartir; Lo mismo ocurre con el material de origen: puede encontrarlo todo en línea. Respecto a los JWTOKENS tampoco se puede compartir como funcionan. Gracias por entender y por no insistir. Puede descargar JWBlober <b>[aquí](https://goattendant.com/JWBlober_Setup.zip)</b>. También puedes descargar la base de datos para realizar pruebas <b>[aquí](https://goattendant.com/DataBaseTest_S.db)</b>.
 
