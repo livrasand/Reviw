@@ -8,7 +8,14 @@ Reviw es un lenguaje de marcado de código abierto, escrito en HTML, diseñado p
 
 Reviw lo utiliza el editor [Sublime Text](https://github.com/sublimehq) y próximamente muchas otras aplicaciones.
 
-Este proyecto se adhiere a la licencia <b>GoAttendant Zero Public License</b>. Al participar, se espera que respete este código. Informe cualquier comportamiento inaceptable a <b>jwpubcatalog@gmail.com</b>.
+Este proyecto se adhiere a la licencia <b>GoAttendant Zero Public License</b>. Al participar, se espera que respete este código. Informe cualquier comportamiento inaceptable.
+
+## Características
+* 🔥 Muy rápido
+* 🚸 Fácil de usar
+* 🤖 Cliente de transmisión Bloberchain incorporado a través de onion routing
+* 🔎 Consulta múltiples JWTOKENS en una sola búsqueda
+* 🚀 Resultados ordenados en Bloberchain
 
 ## Usabilidad
 Reviw es un lenguaje para desarrolladores de JWPUB para impulsar la escritura de código HTML.
@@ -60,7 +67,14 @@ Esto abrirá una ventana del Explorador de archivos en el directorio de los Pack
 
 Ahora ve a la carpeta <b>Installed Packages</b>. Ahora solo arrastra o pega el archivo <b>Reviw.sublime-package</b> en esta carpeta. Con esto, automáticamente se instalará Reviw en Sublime Text.
 
-## Solicitar un JWTOKEN para JWBlober
+## Buscar y descargar JWTOKENS
+ [Tribler](https://github.com/Tribler/tribler) le permite buscar y descarga nuestros JWTOKENS utilizando onion routing inspirado en la red Tor, si usas Tribler, te será más fácil buscar y descargar los JWTOKENS almacenados en la red. Una vez descargado Tribler, bastará con usar el buscador integrado y escribir **"Bloberchain"**, esto lo enviará directamente a nuestra red de JWTOKENS, y podrás ser libre de descargar todos los que quieras, ahí mismo verás le fecha de vencimiento del JWTOKEN, tambien si lo deseas, puedes usar magnet, por ejemplo, el siguiente magnet link:
+```
+magnet:?xt=urn:btih:6f17f3b2ec56ebb2fd95e1afafbe386b81180aaa&dn=scmm.jwtkn
+```
+...descarga el JWTOKEN: _scmm.jwtkn_; para el **Guión para el presidente de la reunión de entre semana**.
+
+## Solicitar un JWTOKEN personalizado
 Para recibir solicitudes utilizamos [cabal](https://github.com/cabal-club/cabal-cli). Los archivos JWTOKEN para JWBlober se crean en base a los parámetros y valores de la tabla `Publication` de la base de datos de tu archivo, junto con el **manifest.json**. De manera que antes de que solicites un JWTOKEN para tu proyecto, verifica que los valores como el título y el símbolo de la publicación, el año, el idioma y los demás campos coincidan con el archivo manifest.json. Cambiar aunque sea uno de estos campos ya sea por error o por alguna actualización posterior, requerirá que solicites un nuevo JWTOKEN, o que el JWTOKEN para tu proyecto no funcione.
 
 Envíanos el número de tu idioma, el `Symbol` de la publicación y el `Year`. Debería verse así:
@@ -95,9 +109,13 @@ cabal --save cabal://53c815d8d410a5fe3ed6cc03f0f318af142202fd868787d83e5efa77d62
 
 Ingrese esta clave en cabal para unirse al chat.
 
-> ⚠️ Cabal es súper joven, y aunque se está tratando de someterlo a prueba a medida que se desarrolla, a veces las cosas se rompen. Si es así, te pedimos seas paciente por favor y esperes que se repare.
+> **Warning**: Cabal es súper joven, y aunque se está tratando de someterlo a prueba a medida que se desarrolla, a veces las cosas se rompen. Si es así, te pedimos seas paciente por favor y esperes que se repare.
 
-Una vez que solicite su JWTOKEN, lo recibirá mediante [Tribler](https://github.com/Tribler/tribler).
+Una vez que solicite su JWTOKEN, lo recibirá mediante [Tribler](https://github.com/Tribler/tribler). Tribler le permite buscar y descarga nuestros JWTOKENS utilizando onion routing inspirado en Tor, si usas Tribler, te será más fácil buscar y descargar los JWTOKENS almacenados en la red. Por ejemplo, el siguiente magnet link:
+```
+magnet:?xt=urn:btih:6f17f3b2ec56ebb2fd95e1afafbe386b81180aaa&dn=scmm.jwtkn
+```
+...descarga el JWTOKEN: _scmm.jwtkn_; para el **Guión para el presidente de la reunión de entre semana**.
 
 Los JWPUB proporcionados aquí o creados con Reviw no tiene derechos de autor; estarán en el Dominio Público de [JWPUB Catalog](https://github.com/livrasand/JWPUB-Catalog/). Sin embargo, el código y los métodos de producción no se pueden compartir; Lo mismo ocurre con el material de origen: puede encontrarlo todo en línea. Respecto a los JWTOKENS tampoco se puede compartir como funcionan. Gracias por entender y por no insistir. Puede descargar JWBlober <b>[aquí](https://goattendant.com/JWBlober_Setup.zip)</b>. También puedes descargar la base de datos para realizar pruebas <b>[aquí](https://goattendant.com/DataBaseTest_S.db)</b>.
 
