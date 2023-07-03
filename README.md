@@ -68,12 +68,7 @@ Esto abrirá una ventana del Explorador de archivos en el directorio de los Pack
 Ahora ve a la carpeta <b>Installed Packages</b>. Ahora solo arrastra o pega el archivo <b>Reviw.sublime-package</b> en esta carpeta. Con esto, automáticamente se instalará Reviw en Sublime Text.
 
 ## Buscar y descargar JWTOKENS
- [Tribler](https://github.com/Tribler/tribler) le permite buscar y descarga nuestros JWTOKENS utilizando onion routing inspirado en la red Tor, si usas Tribler, te será más fácil buscar y descargar los JWTOKENS almacenados en la red. Una vez descargado Tribler, bastará con usar el buscador integrado y escribir **"Bloberchain"**, esto lo enviará directamente a nuestra red de JWTOKENS, y podrás ser libre de descargar todos los que quieras, ahí mismo verás le fecha de vencimiento del JWTOKEN, tambien si lo deseas, puedes usar magnet, por ejemplo, el siguiente magnet link:
-```
-magnet:?xt=urn:btih:6f17f3b2ec56ebb2fd95e1afafbe386b81180aaa&dn=scmm.jwtkn
-```
-...descarga el JWTOKEN: _scmm.jwtkn_; para el **Guión para el presidente de la reunión de entre semana**.
-
+ [Tribler](https://github.com/Tribler/tribler) le permite buscar y descarga nuestros JWTOKENS utilizando onion routing inspirado en la red Tor, si usas Tribler, te será más fácil buscar y descargar los JWTOKENS almacenados en la red. Una vez descargado Tribler, bastará con usar el buscador integrado y escribir **"Bloberchain"**, esto lo enviará directamente a nuestra red de JWTOKENS, y podrás ser libre de descargar todos los que quieras, ahí mismo verás le fecha de vencimiento del JWTOKEN, tambien si lo deseas, puedes usar magnet links. Lee [Introducción a Bloberchain](https://github.com/bedan1/Reviw/wiki/Introducci%C3%B3n-a-Bloberchain) para aprender más.
 ## Solicitar un JWTOKEN personalizado
 Para recibir solicitudes utilizamos [cabal](https://github.com/cabal-club/cabal-cli). Los archivos JWTOKEN para JWBlober se crean en base a los parámetros y valores de la tabla `Publication` de la base de datos de tu archivo, junto con el **manifest.json**. De manera que antes de que solicites un JWTOKEN para tu proyecto, verifica que los valores como el título y el símbolo de la publicación, el año, el idioma y los demás campos coincidan con el archivo manifest.json. Cambiar aunque sea uno de estos campos ya sea por error o por alguna actualización posterior, requerirá que solicites un nuevo JWTOKEN, o que el JWTOKEN para tu proyecto no funcione.
 
