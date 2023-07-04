@@ -70,7 +70,16 @@ Ahora ve a la carpeta <b>Installed Packages</b>. Ahora solo arrastra o pega el a
 ## Buscar y descargar JWTOKENS
  [Tribler](https://github.com/Tribler/tribler) le permite buscar y descarga nuestros JWTOKENS utilizando onion routing inspirado en la red Tor, si usas Tribler, te será más fácil buscar y descargar los JWTOKENS almacenados en la red. Una vez descargado Tribler, bastará con usar el buscador integrado y escribir **"Bloberchain"**, esto lo enviará directamente a nuestra red de JWTOKENS, y podrás ser libre de descargar todos los que quieras, ahí mismo verás le fecha de vencimiento del JWTOKEN, tambien si lo deseas, puedes usar magnet links. Lee [Introducción a Bloberchain](https://github.com/bedan1/Reviw/wiki/Introducci%C3%B3n-a-Bloberchain) para aprender más.
 ## Solicitar un JWTOKEN personalizado
-Para recibir solicitudes utilizamos [cabal](https://github.com/cabal-club/cabal-cli). Los archivos JWTOKEN para JWBlober se crean en base a los parámetros y valores de la tabla `Publication` de la base de datos de tu archivo, junto con el **manifest.json**. De manera que antes de que solicites un JWTOKEN para tu proyecto, verifica que los valores como el título y el símbolo de la publicación, el año, el idioma y los demás campos coincidan con el archivo manifest.json. Cambiar aunque sea uno de estos campos ya sea por error o por alguna actualización posterior, requerirá que solicites un nuevo JWTOKEN, o que el JWTOKEN para tu proyecto no funcione.
+Para recibir solicitudes utilizamos [cabal](https://github.com/cabal-club/cabal-cli).
+```html
+cabal --save cabal://53c815d8d410a5fe3ed6cc03f0f318af142202fd868787d83e5efa77d6211554
+```
+
+Ingrese esta clave en cabal para unirse al chat.
+
+> **Warning**: Cabal es súper joven, y aunque se está tratando de someterlo a prueba a medida que se desarrolla, a veces las cosas se rompen. Si es así, te pedimos seas paciente por favor y esperes que se repare.
+
+Los archivos JWTOKEN para JWBlober se crean en base a los parámetros y valores de la tabla `Publication` de la base de datos de tu archivo, junto con el **manifest.json**. De manera que antes de que solicites un JWTOKEN para tu proyecto, verifica que los valores como el título y el símbolo de la publicación, el año, el idioma y los demás campos coincidan con el archivo manifest.json. Cambiar aunque sea uno de estos campos ya sea por error o por alguna actualización posterior, requerirá que solicites un nuevo JWTOKEN, o que el JWTOKEN para tu proyecto no funcione.
 
 Envíanos el número de tu idioma, el `Symbol` de la publicación y el `Year`. Debería verse así:
 ```html
@@ -97,14 +106,6 @@ Entre ellos figuran:
 En cuanto hagas clic en procesar, JWBlober te avisará si se ha encontrado un elemento no permitido en tu documento y deberás eliminarlo para que puedas continuar.
 
 Si consideras que uno de estos elementos es importante en tu proyecto y no quieres eliminarlo, puedes solicitar una revisión explicando lo que deseas hacer. El cuál estará sujeto a ser aprobado. Cabe decir que esto solo está disponible para proyectos únicos, y los hermanos que lo soliciten requieren ser miembros de la **Asistencia prioritaria Premier**.
-
-```html
-cabal --save cabal://53c815d8d410a5fe3ed6cc03f0f318af142202fd868787d83e5efa77d6211554
-```
-
-Ingrese esta clave en cabal para unirse al chat.
-
-> **Warning**: Cabal es súper joven, y aunque se está tratando de someterlo a prueba a medida que se desarrolla, a veces las cosas se rompen. Si es así, te pedimos seas paciente por favor y esperes que se repare.
 
 Una vez que solicite su JWTOKEN, lo recibirá mediante [Tribler](https://github.com/Tribler/tribler). Tribler le permite buscar y descarga nuestros JWTOKENS utilizando onion routing inspirado en Tor, si usas Tribler, te será más fácil buscar y descargar los JWTOKENS almacenados en la red. Por ejemplo, el siguiente magnet link:
 ```
