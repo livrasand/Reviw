@@ -34,7 +34,7 @@ crear>copyright
 ```
 Aprende a crear tu propio JWPUB en nuestra [wiki](https://github.com/bedan1/Reviw/wiki), el documento Reviw [README](https://github.com/bedan1/Reviw#readme) contienen mucha información también, tómese su tiempo y lea atentamente estas instrucciones.
 
-Si tiene algún problema, puede comenzar por [Getting started](https://github.com/bedan1/Reviw/wiki/Getting-started).
+Si es principiante, puede comenzar por [Getting started](https://github.com/bedan1/Reviw/wiki/Getting-started).
 
 ## Instalación con Package Control
 Instala el empaquetado de Reviw para Sublime Text, para ello ejecuta Command Palette: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>.
@@ -62,8 +62,6 @@ Preferences: Browse Packages
 ```
 
 Esto abrirá una ventana del Explorador de archivos en el directorio de los Packages de Sublime Text. Sube a "Sublime Text" o presiona <kbd>Alt</kbd> + <kbd>↑</kbd>.
-
-<img src="https://github.com/livrasand/Reviw/assets/104039397/a887ed2b-2e06-4d90-b536-6bbd159a3bc7" width="500px">
 
 Ahora ve a la carpeta <b>Installed Packages</b>. Ahora solo arrastra o pega el archivo <b>Reviw.sublime-package</b> en esta carpeta. Con esto, automáticamente se instalará Reviw en Sublime Text.
 
