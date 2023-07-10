@@ -105,11 +105,7 @@ En cuanto hagas clic en procesar, JWBlober te avisará si se ha encontrado un el
 
 Si consideras que uno de estos elementos es importante en tu proyecto y no quieres eliminarlo, puedes solicitar una revisión explicando lo que deseas hacer. El cuál estará sujeto a ser aprobado. Cabe decir que esto solo está disponible para proyectos únicos, y los hermanos que lo soliciten requieren ser miembros de la **Asistencia prioritaria Premier**.
 
-Una vez que solicite su JWTOKEN, lo recibirá mediante [Tribler](https://github.com/Tribler/tribler). Tribler le permite buscar y descarga nuestros JWTOKENS utilizando onion routing inspirado en Tor, si usas Tribler, te será más fácil buscar y descargar los JWTOKENS almacenados en la red. Por ejemplo, el siguiente magnet link:
-```
-magnet:?xt=urn:btih:6f17f3b2ec56ebb2fd95e1afafbe386b81180aaa&dn=scmm.jwtkn
-```
-...descarga el JWTOKEN: _scmm.jwtkn_; para el **Guión para el presidente de la reunión de entre semana**.
+Una vez que solicite su JWTOKEN, lo recibirá mediante [Tribler](https://github.com/Tribler/tribler). Tribler le permite buscar y descarga nuestros JWTOKENS utilizando onion routing inspirado en Tor, si usas Tribler, te será más fácil buscar y descargar los JWTOKENS almacenados en la red.
 
 Los JWPUB proporcionados aquí o creados con Reviw no tiene derechos de autor; estarán en el Dominio Público de [JWPUB Catalog](https://github.com/livrasand/JWPUB-Catalog/). Sin embargo, el código y los métodos de producción no se pueden compartir; Lo mismo ocurre con el material de origen: puede encontrarlo todo en línea. Respecto a los JWTOKENS tampoco se puede compartir como funcionan. Gracias por entender y por no insistir. Puede descargar JWBlober <b>[aquí](https://goattendant.com/JWBlober_Setup.zip)</b>. También puedes descargar la base de datos para realizar pruebas <b>[aquí](https://goattendant.com/DataBaseTest_S.db)</b>.
 
