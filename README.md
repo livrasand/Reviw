@@ -120,5 +120,5 @@ bitcoin:bc1qnzzxp0v6dqx0e5eehjsgs5fpdz7r6vzpjhlgeh
 ```
 Ingrese esta Bitcoin URI o Address en su billetera favorita para realizar las donaciones. **Solo puede enviar Bitcoin.** Las donaciónes solo pueden ser en criptomoneda. No utilizamos PayPal ni ningún otro método de pago. Agradecemos su comprensión y el no solicitar otro método. Nosotros utilizamos [Electrum](https://github.com/spesmilo/electrum) para las transacciones, usted puede usar cualquiera de su preferencia.
 
-## Licencia 
+## 📜 Licencia 
 Copyright (c) 2023 Reviw - Publicado bajo la licencia GoAttendant Zero Public License (GZPL). Reviw y el logotipo de Reviw son marcas comerciales de Rinzler Programmer. Consulte nuestra política de marcas comerciales para obtener información sobre el uso aceptable.
