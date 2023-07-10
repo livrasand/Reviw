@@ -122,3 +122,5 @@ Ingrese esta Bitcoin URI o Address en su billetera favorita para realizar las do
 
 ## 📜 Licencia 
 Copyright (c) 2023 Reviw - Publicado bajo la licencia GoAttendant Zero Public License (GZPL). Reviw y el logotipo de Reviw son marcas comerciales de Rinzler Programmer. Consulte nuestra política de marcas comerciales para obtener información sobre el uso aceptable.
+
+<p align="right"><a href="#caracter%C3%ADsticas"><img width="45rem" src="https://raw.githubusercontent.com/xnbox/DeepfakeHTTP/main/img/top.png"></a></p>
