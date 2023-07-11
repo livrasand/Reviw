@@ -10,6 +10,8 @@ Reviw lo utiliza el editor [Sublime Text](https://github.com/sublimehq) y próxi
 
 Este proyecto se adhiere a la licencia <b>GoAttendant Zero Public License</b>. Al participar, se espera que respete este código. Informe cualquier comportamiento inaceptable.
 
+No acepto donaciones para Reviw. Preferiría que gastaras tu dinero en [Donar a los testigos de Jehová](https://donate.jw.org/). Si [Donar a los testigos de Jehová](https://donate.jw.org/) no se ofrece en su región, le sugiero donar a una organización sin fines de lucro como el [Proyecto Tor](https://donate.torproject.org/). Si bien, no acepto donaciones para Reviw, si acepto una aportación por [Asistencia prioritaria](https://github.com/bedan1/Reviw/edit/main/README.md#asistencia-prioritaria) (Aunque esta no es obligatoria). Hacer algo que implique algo positivo para otras personas siempre es gratificante, especialmente cuando ves el impacto positivo que tiene tu dedicación y trabajo. De antemano me tomo un momento para agradecerte de corazón por tu generosidad y apoyo. 
+
 ## Características
 * 🔥 Muy rápido
 * 🚸 Fácil de usar
@@ -115,10 +117,10 @@ La asistencia prioritaria es para solicitar los JWTOKENS para JWBlober. A contin
 <b>Básico:</b> <30 días hábiles · Free<br>
 <b>Avanzado:</b> <7 días hábiles · $5<br>
 <b>Premier:</b> <24 horas hábiles · $10
-```html
-bitcoin:bc1qnzzxp0v6dqx0e5eehjsgs5fpdz7r6vzpjhlgeh
-```
-Ingrese esta Bitcoin URI o Address en su billetera favorita para realizar las donaciones. **Solo puede enviar Bitcoin.** Las donaciónes solo pueden ser en criptomoneda. No utilizamos PayPal ni ningún otro método de pago. Agradecemos su comprensión y el no solicitar otro método. Nosotros utilizamos [Electrum](https://github.com/spesmilo/electrum) para las transacciones, usted puede usar cualquiera de su preferencia.
+
+[![BTC](https://img.shields.io/badge/-Bitcoin-5b5b5b?logo=bitcoin)](https://explorer.btc.com/btc/address/bc1qqe5y9kw7ewne8njdces8e4ajx5u7zhfftdvl33): `bitcoin:bc1qnzzxp0v6dqx0e5eehjsgs5fpdz7r6vzpjhlgeh`
+
+Ingrese esta Bitcoin URI o Address en su billetera favorita para realizar las aportaciones. **Solo puede enviar Bitcoin.** Las aportaciones solo pueden ser en criptomoneda. No utilizamos PayPal ni ningún otro método de pago. Agradecemos su comprensión y el no solicitar otro método. Nosotros utilizamos [Electrum](https://github.com/spesmilo/electrum) para las transacciones, usted puede usar cualquiera de su preferencia.
 
 ## 📜 Licencia 
 Copyright (c) 2023 Reviw - Publicado bajo la licencia GoAttendant Zero Public License (GZPL). Reviw y el logotipo de Reviw son marcas comerciales de Rinzler Programmer. Consulte nuestra política de marcas comerciales para obtener información sobre el uso aceptable.
