@@ -4,20 +4,11 @@
 #
 Reviw es un lenguaje de marcado de código abierto, escrito en HTML, diseñado para crear documentos, con el objetivo de facilitar el desarrollo de archivos JWPUB. Reviw está basado en [JWLV-API](https://github.com/livrasand/JW-Library-Visualizer-API) que proporciona una interfaz de alto nivel que permite mostrar documentos basados en JWPUB. [JWLV-API](https://github.com/livrasand/JW-Library-Visualizer-API) interpreta el código y lo presenta en pantalla al usuario permitiendo al usuario interactuar con su contenido y navegar idénticamente como lo hace JW Library.
 
-📝 Traducciones disponibles: 🇪🇸 (Español) | 🇮🇹 (Italiano)
-
 Reviw lo utiliza el editor [Sublime Text](https://github.com/sublimehq) y próximamente muchas otras aplicaciones.
 
 Este proyecto se adhiere a la licencia <b>GoAttendant Zero Public License</b>. Al participar, se espera que respete este código. Informe cualquier comportamiento inaceptable.
 
 No acepto donaciones para Reviw. Preferiría que gastaras tu dinero en [Donar a los testigos de Jehová](https://donate.jw.org/). Si [Donar a los testigos de Jehová](https://donate.jw.org/) no se ofrece en su región, le sugiero donar a una organización sin fines de lucro como el [Proyecto Tor](https://donate.torproject.org/). Si bien, no acepto donaciones para Reviw, si acepto una aportación por [Asistencia prioritaria](https://github.com/bedan1/Reviw/edit/main/README.md#asistencia-prioritaria) (Aunque esta no es obligatoria). Hacer algo que implique algo positivo para otras personas siempre es gratificante, especialmente cuando ves el impacto positivo que tiene tu dedicación y trabajo. De antemano me tomo un momento para agradecerte de corazón por tu generosidad y apoyo. 
-
-## Características
-* 🔥 Muy rápido
-* 🚸 Fácil de usar
-* 🤖 Cliente de transmisión Bloberchain incorporado a través de onion routing
-* 🔎 Consulta múltiples JWTOKENS en una sola búsqueda
-* 🚀 Resultados ordenados en Bloberchain
 
 ## Usabilidad
 Reviw es un lenguaje para desarrolladores de JWPUB para impulsar la escritura de código HTML.
@@ -34,9 +25,9 @@ crear>copyright
    <p id="p$2" data-pid="$2" class="si">© 2021 WATCH TOWER BIBLE AND TRACT SOCIETY OF PENNSYLVANIA</p>
 </div>
 ```
-Aprende a crear tu propio JWPUB en nuestra [wiki](https://github.com/bedan1/Reviw/wiki), el documento Reviw [README](https://github.com/bedan1/Reviw#readme) contienen mucha información también, tómese su tiempo y lea atentamente estas instrucciones.
+Aprende a crear tu propio JWPUB en nuestra [wiki](https://github.com/livrasand/Reviw/wiki), el documento Reviw [README](https://github.com/livrasand/Reviw#readme) contienen mucha información también, tómese su tiempo y lea atentamente estas instrucciones.
 
-Si es principiante, puede comenzar por [Getting started](https://github.com/bedan1/Reviw/wiki/Getting-started).
+Si es principiante, puede comenzar por [Getting started](https://github.com/livrasand/Reviw/wiki/Getting-started).
 
 ## Instalación con Package Control
 Instala el empaquetado de Reviw para Sublime Text, para ello ejecuta Command Palette: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>.
@@ -54,7 +45,7 @@ Reviw
 Esto instalará Reviw en Sublime Text.
 
 ## Instalación manual
-Si la instalación mediante Package Control no te funciona, prueba la instalación manual, descarga el Package en tu idioma [aquí](https://github.com/bedan1/Reviw/releases), una vez descargado:
+Si la instalación mediante Package Control no te funciona, prueba la instalación manual, descarga el Package en tu idioma [aquí](https://github.com/livrasand/Reviw/releases), una vez descargado:
 
 Ejecuta Command Palette: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>...
 
@@ -67,35 +58,69 @@ Esto abrirá una ventana del Explorador de archivos en el directorio de los Pack
 
 Ahora ve a la carpeta <b>Installed Packages</b>. Ahora solo arrastra o pega el archivo <b>Reviw.sublime-package</b> en esta carpeta. Con esto, automáticamente se instalará Reviw en Sublime Text.
 
-## Buscar y descargar JWTOKENS
- [Tribler](https://github.com/Tribler/tribler) le permite buscar y descarga nuestros JWTOKENS utilizando onion routing inspirado en la red Tor, si usas Tribler, te será más fácil buscar y descargar los JWTOKENS almacenados en la red. Una vez descargado Tribler, bastará con usar el buscador integrado y escribir **"Bloberchain"**, esto lo enviará directamente a nuestra red de JWTOKENS, y podrás ser libre de descargar todos los que quieras, ahí mismo verás le fecha de vencimiento del JWTOKEN, tambien si lo deseas, puedes usar magnet links. Lee [Introducción a Bloberchain](https://github.com/bedan1/Reviw/wiki/Introducci%C3%B3n-a-Bloberchain) para aprender más.
 ## Solicitar un JWTOKEN personalizado
-Para recibir solicitudes utilizamos [cabal](https://github.com/cabal-club/cabal-cli).
-```html
-cabal --save cabal://53c815d8d410a5fe3ed6cc03f0f318af142202fd868787d83e5efa77d6211554
+Una de las mayores razones por las que los desarrolladores aman Reviw es por la el ecosistema que se ha desarrollado. Reviw no sólo ayuda al desarrollo de archivos JWPUB's más fácil, si no también tiene el objetivo de indexar todo de los JWPUB Customs disponibles.
+
+Si se ha tomado el tiempo para desarrollar un JWPUB, por favor considere añadirlo a el canal de <a href="https://livrasand.github.io/jwpub-catalog.html">JWPUB Catalog</a> predeterminado para que los usuarios puedan instalar y conservar fácilmente su JWPUB actualizado. 
+
+Siga los siguientes pasos para solicitar un JWTOKEN y enviarlo a JWPUB Catalog:
+
+### 1. Revisión de los paquetes existentes
+- **Visite la <a href="https://livrasand.github.io/jwpub-catalog.html">página de búsqueda</a> y busque JWPUB's similares.**
+- **Si existe uno similar al suyo, trate de mejorar un JWPUB existente antes de añadir otro.** Cuando sea posible animamos firmemente a trabajar con un JWPUB existente y ser mantenedor para añadir funcionalidades o ajustar un JWPUB en lugar de estar proliferando muchas opciones muy similares. Esto es especialmente cierto si su JWPUB es muy simple.
+
+### 2. Elija un nombre
+- **Trate de no usar la palabra `Reviw` en el nombre de su JWPUB.** Cada JWPUB disponible a través de JWPUB Catalog es para JW Library. Usando la palabra Reviw sólo añade ruido a la lista cuando usuarios tratan de encontrar JWPUB´s. Puedes usar la palabra Reviw en su comercialización material, pero omita la lista de archivos, por ejemplo, `Reviw Registro de asistencias`.
+- **No uses un nombre demasiado parecido a otro.** No lo hagamos.
+- **No usar un `.` en el nombre del JWPUB.**
+- **No usar un `/` u otros caracteres restringidos en el Nombre del JWPUB.** Los nombres de los JWPUB se utilizan como parte de un archivo o nombre de la carpeta, dependiendo de la versión de JW Library. Los caracteres inválidos incluyen: `-`, `-`, `:`, `"`, `/`, `-`, `-`, `?` y `*`.
+
+### 3. Aloje su JWPUB
+- **Utilice un repositorio público de GitHub o BitBucket.** Sólo incluir un archivo por repositorio y asegúrese de que la raíz del paquete es la raíz del repositorio.
+
+### 4. Elija una estrategia de versiones
+Si estás usando GitHub o BitBucket para tu hosting, tendrás que crear una etiqueta cada vez que desee poner una nueva versión a disposición de los usuarios. Los nombres de la etiqueta deben ser un <a href="http://semver.org/">número de versión semántica</a>.
+
+### 5. Prepare su repositorio
+Añada su repositorio al canal por defecto
+
+- Haga `Fork` al repositorio <a href="https://github.com/livrasand/Reviw/">Reviw original</a>.
+- Clone su fork a su máquina
+- Abra la carpeta `Reviw/` con Sublime Text
+- Añada la información de su JWPUB en el JSON correspondiente dentro de la carpeta `repository/`:
+```json
+{
+	"name": "Lectura bíblica",
+	"details": "https://github.com/livrasand/lectura_biblica_jwpub",
+	"releases": [
+		{
+			"language": "1",
+			"symbol": "lb"
+         "year": "2023"
+		}
+	]
+}
 ```
 
-Ingrese esta clave en cabal para unirse al chat.
-
-> **Warning**: Cabal es súper joven, y aunque se está tratando de someterlo a prueba a medida que se desarrolla, a veces las cosas se rompen. Si es así, te pedimos seas paciente por favor y esperes que se repare.
-
-Los archivos JWTOKEN para JWBlober se crean en base a los parámetros y valores de la tabla `Publication` de la base de datos de tu archivo, junto con el **manifest.json**. De manera que antes de que solicites un JWTOKEN para tu proyecto, verifica que los valores como el título y el símbolo de la publicación, el año, el idioma y los demás campos coincidan con el archivo manifest.json. Cambiar aunque sea uno de estos campos ya sea por error o por alguna actualización posterior, requerirá que solicites un nuevo JWTOKEN, o que el JWTOKEN para tu proyecto no funcione.
-
-Envíanos el número de tu idioma, el `Symbol` de la publicación y el `Year`. Debería verse así:
-```html
-1_th_2018
-```
 Puedes saber el número de tu idioma [aquí](https://www.jw.org/es/languages).
+
+### 6. Ejecute las pruebas
+- Instale el paquete ReviwTools vía Package Control.
+- Ejecute el comando `ReviwTools: Test Default File` desde la Command Palette y asegúrese de que las pruebas pasen.
+
+### 7. Envia una solicitud de atracción
+- Navegue a su Fork en <a href="https://github.com/">github.com</a>
+- Haga clic en Pull Requests en el navegador de la mano derecha y clic New Pull Request
+- Introduzca una descripción en el campo Título
+- Haga clic en el botón Create Pull Request
+
+Por favor, tenga paciencia a medida que se revise su solicitud de tracción. Revisamos los cambios a tratar de prevenir paquetes duplicados, detectar errores comunes y ayudar a mejorar la experiencia del paquete para los usuarios. 
 
 Los JWTOKENS solo te permiten convertir tus documentos HTML en archivos binarios BLOB que la aplicación JW Library puede entender. El trabajo es manual y dependerá de la dedicación que pongas en elaborar tus propios proyectos.
 
-Además si quieres ver el contenido binario de un JWPUB oficial y convertirlo a HTML legible puedes hacerlo sin problema. De esta manera podrás examinar la estructura de sus documentos y replicarlos en tus archivos.
+Los JWTOKENS son funcionales durante 30 días, una vez que haya terminado este periodo JWBlober señalará que ese token ha expirado y deberás renovarlo si es que quieres. Quizás no haga falta aclararlo pero cualquier documento o JWPUB que hagas con estas herramientas seguirá siendo funcional, aunque su JWTOKENS expire.
 
-Los JWTOKENS son funcionales durante 10 días, una vez que haya terminado este periodo JWBlober señalará que ese token ha expirado y deberás renovarlo por otros diez días. Podrás hacerlo tantas veces necesites hasta que termines tu proyecto. Este tipo de archivos son elaborados manualmente por lo que si ya solicitaste uno deberás esperar con paciencia a que lo recibas antes de solicitar uno nuevo. Quizás no haga falta aclararlo pero cualquier documento o JWPUB que hagas con estas herramientas seguirá siendo funcional, aunque su JWTOKENS expire.
-
-Aunque permite la conversión de un archivo binario o BLOB de **publicaciones oficiales de JW.ORG** a un documento HTML, **no es posible para los usuarios en general convertir ese archivo nuevamente a un archivo binario**. De esta manera se evitan modificaciones que pudieran dañar el contenido de una publicación.
-
-Además el poder crear y editar documentos personalizados en JWPUB deja en el aire posibles problemas y vulnerabilidades no contempladas por los programadores de JW Library. Por tal motivo hay una serie de elementos que no están permitidos al procesar un documento HTML con los JWTOKENS.
+Poder crear y editar documentos personalizados en JWPUB **deja en el aire posibles problemas y vulnerabilidades** no contempladas por los programadores de JW Library. Por tal motivo hay una serie de **elementos que no están permitidos** al procesar un documento HTML con los JWTOKENS.
 
 Entre ellos figuran:
 * Scripts
@@ -105,24 +130,4 @@ Entre ellos figuran:
 
 En cuanto hagas clic en procesar, JWBlober te avisará si se ha encontrado un elemento no permitido en tu documento y deberás eliminarlo para que puedas continuar.
 
-Si consideras que uno de estos elementos es importante en tu proyecto y no quieres eliminarlo, puedes solicitar una revisión explicando lo que deseas hacer. El cuál estará sujeto a ser aprobado. Cabe decir que esto solo está disponible para proyectos únicos, y los hermanos que lo soliciten requieren ser miembros de la **Asistencia prioritaria Premier**.
-
-Una vez que solicite su JWTOKEN, lo recibirá mediante [Tribler](https://github.com/Tribler/tribler). Tribler le permite buscar y descarga nuestros JWTOKENS utilizando onion routing inspirado en Tor, si usas Tribler, te será más fácil buscar y descargar los JWTOKENS almacenados en la red.
-
-Los JWPUB proporcionados aquí o creados con Reviw no tiene derechos de autor; estarán en el Dominio Público de [JWPUB Catalog](https://github.com/livrasand/JWPUB-Catalog/). Sin embargo, el código y los métodos de producción no se pueden compartir; Lo mismo ocurre con el material de origen: puede encontrarlo todo en línea. Respecto a los JWTOKENS tampoco se puede compartir como funcionan. Gracias por entender y por no insistir. Puede descargar JWBlober <b>[aquí](https://goattendant.com/JWBlober_Setup.zip)</b>. También puedes descargar la base de datos para realizar pruebas <b>[aquí](https://goattendant.com/DataBaseTest_S.db)</b>.
-
-## Asistencia prioritaria 
-La asistencia prioritaria es para solicitar los JWTOKENS para JWBlober. A continuación verás los tiempos de respuesta y precios (USD) por solicitud:
-
-<b>Básico:</b> <30 días hábiles · Free<br>
-<b>Avanzado:</b> <7 días hábiles · $5<br>
-<b>Premier:</b> <24 horas hábiles · $10
-
-[![BTC](https://img.shields.io/badge/-Bitcoin-5b5b5b?logo=bitcoin)](https://explorer.btc.com/btc/address/bc1qqe5y9kw7ewne8njdces8e4ajx5u7zhfftdvl33): `bitcoin:bc1qnzzxp0v6dqx0e5eehjsgs5fpdz7r6vzpjhlgeh`
-
-Ingrese esta Bitcoin URI o Address en su billetera favorita para realizar las aportaciones. **Solo puede enviar Bitcoin.** Las aportaciones solo pueden ser en criptomoneda. No utilizamos PayPal ni ningún otro método de pago. Agradecemos su comprensión y el no solicitar otro método. Nosotros utilizamos [Electrum](https://github.com/spesmilo/electrum) para las transacciones, usted puede usar cualquiera de su preferencia.
-
-## 📜 Licencia 
-Copyright (c) 2023 Reviw - Publicado bajo la licencia GoAttendant Zero Public License (GZPL). Reviw y el logotipo de Reviw son marcas comerciales de Rinzler Programmer. Consulte nuestra política de marcas comerciales para obtener información sobre el uso aceptable.
-
-<p align="right"><a href="#caracter%C3%ADsticas"><img width="45rem" src="https://raw.githubusercontent.com/xnbox/DeepfakeHTTP/main/img/top.png"></a></p>
+Los JWPUB proporcionados aquí o creados con Reviw **no tiene derechos de autor**; estarán en el Dominio Público de [JWPUB Catalog](https://livrasand.github.io/jwpub-catalog.html). Sin embargo, el código y los métodos de producción no se pueden compartir; Lo mismo ocurre con el material de origen: puede encontrarlo todo en línea. Respecto a los JWTOKENS tampoco se puede compartir como funcionan. Gracias por entender y por no insistir.
