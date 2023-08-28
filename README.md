@@ -95,9 +95,7 @@ Añada su repositorio al canal por defecto
         "title": "\"Permanezcan en la fe\" (Hechos 14:22)",
 	"language": "1",
 	"symbol": "ritf",
-	"year": "2023",
-	"author": "GoAttendant Team",
-	"timestamp": "2023-08-26T15:55:51Z"
+	"year": "2023"
     }, 
 ```
 
