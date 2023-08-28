@@ -107,7 +107,7 @@ Puedes saber el número de tu idioma [aquí](https://www.jw.org/es/languages).
 - Instale el paquete <a href="https://github.com/livrasand/ReviwTools">ReviwTools</a> vía Package Control.
 - Ejecute el comando `ReviwTools: Test Default File` desde la Command Palette y asegúrese de que las pruebas pasen.
 
-### 7. Envia una solicitud de atracción
+### 7. Envia un Pull Request
 - Navegue a su Fork en <a href="https://github.com/">github.com</a>
 - Haga clic en Pull Requests en el navegador de la mano derecha y clic New Pull Request
 - Introduzca una descripción en el campo Título
