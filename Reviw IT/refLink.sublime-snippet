@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[jwpub://p/S:]]></content>
-    <tabTrigger>inserire>riferimento</tabTrigger>
-    <description>Link di riferimento</description>
-    <scope>text.html</scope>
-</snippet>

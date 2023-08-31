@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-<div class="openingContent bottomRule"><p id="p$1" data-pid="$1" class="sa">A&nbsp;lo largo de los años, <em>La&nbsp;Atalaya</em> ha hecho aclaraciones sobre varios aspectos de las profecías de&nbsp;Ezequiel que antes se entendían de otra manera. Ahora, este libro —<em>La adoración pura de Jehová: ¡por&nbsp;fin restaurada!</em> — incluye todavía más aclaraciones. Repasemos las respuestas a las siguientes preguntas.</p>
-</div>
-]]></content>
-    <tabTrigger>creare>paragrafo>apertura</tabTrigger>
-    <description>Paragrafo introduttivo</description>
-    <scope>text.html</scope>
-</snippet>

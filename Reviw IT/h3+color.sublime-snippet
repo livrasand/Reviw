@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[<h3 class="du-fontSize--base du-margin-top--8" id="p$1" data-pid="$1"><strong>1. ¿Cuáles son algunas de las preguntas que contesta la Biblia?</strong></h3>]]></content>
-    <tabTrigger>creare>titolo>h3>colore</tabTrigger>
-    <description>Intestazione livello 3 con colore</description>
-    <scope>text.html</scope>
-</snippet>

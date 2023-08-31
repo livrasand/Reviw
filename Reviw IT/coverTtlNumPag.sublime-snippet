@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[<h1 class="coverTtl" id="p$1" data-pid="$1"><span id="page$2" class="pageNum" aria-hidden="true" data-no="$2" data-before-text="$2" style="display: inline;"></span><strong>Título de la publicación</strong></h1>]]></content>
-    <tabTrigger>creare>titolo>primapagina>numpag</tabTrigger>
-    <description>Titolo della prima pagina con numero di pagina</description>
-    <scope>text.html</scope>
-</snippet>

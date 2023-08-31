@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[jwpub://b/NWTR/$1-$2]]></content>
-    <tabTrigger>inserire>citazionebiblica</tabTrigger>
-    <description>Link per una citazione biblica</description>
-    <scope>text.html</scope>
-</snippet>

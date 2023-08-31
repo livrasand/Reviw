@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[<p id="p$1" data-pid="$1">Molti di noi si pongono domande sulla vita, sulla sofferenza, sulla morte e sul futuro. Ci preoccupiamo anche delle normali cose quotidiane, come guadagnare abbastanza per vivere o avere una famiglia felice. Molte persone hanno scoperto che la Bibbia risponde a queste importanti domande e dà loro buoni consigli per la vita di tutti i giorni. Pensi che la Bibbia possa aiutare qualcuno che conosci?</p>]]></content>
-    <tabTrigger>creare>paragrafo</tabTrigger>
-    <description>Paragrafo</description>
-    <scope>text.html</scope>
-</snippet>

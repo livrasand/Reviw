@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[<h3 class="du-fontSize--base du-margin-top--8" id="p$1" data-pid="$1"><strong>1. Quali sono alcune delle domande a cui la Bibbia risponde?</strong></h3>]]></content>
-    <tabTrigger>creare>titolo>h3</tabTrigger>
-    <description>Intestazione livello 3</description>
-    <scope>text.html</scope>
-</snippet>
