@@ -10,21 +10,60 @@ Este proyecto se adhiere a la licencia <b>GoAttendant Zero Public License</b>. A
 
 No acepto donaciones para Reviw. Preferiría que gastaras tu dinero en [Donar a los testigos de Jehová](https://donate.jw.org/). Si [Donar a los testigos de Jehová](https://donate.jw.org/) no se ofrece en su región, le sugiero donar a una organización sin fines de lucro como el [Proyecto Tor](https://donate.torproject.org/). Si bien, no acepto donaciones para Reviw, si acepto una aportación por [Asistencia prioritaria](https://github.com/bedan1/Reviw/edit/main/README.md#asistencia-prioritaria) (Aunque esta no es obligatoria). Hacer algo que implique algo positivo para otras personas siempre es gratificante, especialmente cuando ves el impacto positivo que tiene tu dedicación y trabajo. De antemano me tomo un momento para agradecerte de corazón por tu generosidad y apoyo. 
 
-## Usabilidad
-Reviw es un lenguaje para desarrolladores de JWPUB para impulsar la escritura de código HTML.
+## Guía Básica para Programar con Reviw
 
-Con Reviw, puede escribir expresiones (abreviaturas) similares al dialogar con una persona y convertirlas en fragmentos de código con una sola pulsación de tecla. Por ejemplo, esta abreviatura:
+Reviw es un plugin para Sublime Text que te permite crear archivos HTML y contribuir a la creación de archivos JWPUB para JW Library a través del repositorio Reviw_Channel. A continuación, te mostramos los pasos básicos para comenzar a programar con Reviw:
 
-```html
-crear>copyright
-```
-...puede expandirse en:
-```html
-<div class="copyrightInfo">
-   <p id="p$1" data-pid="$1" class="si">Impresión de abril de&nbsp;2023</p>
-   <p id="p$2" data-pid="$2" class="si">© 2021 WATCH TOWER BIBLE AND TRACT SOCIETY OF PENNSYLVANIA</p>
-</div>
-```
+### Paso 1: Instalación de Reviw
+
+1. Abre Sublime Text en tu computadora.
+
+2. Ve a la pestaña "Preferences" en la parte superior del editor.
+
+3. Selecciona "Package Control" en el menú desplegable y elige "Install Package".
+
+4. En la barra de búsqueda, escribe "Reviw" y selecciona el paquete "Reviw" para instalarlo.
+
+### Paso 2: Creación de un Nuevo Archivo HTML
+
+1. Crea un nuevo archivo HTML en Sublime Text. Puedes hacerlo yendo a "File" > "New File" y luego guardando el archivo con la extensión ".htm".
+
+2. Dentro del archivo HTML, puedes comenzar a escribir tu código HTML como lo harías normalmente. Reviw te ofrece snippets (fragmentos de código) que te ayudarán a agilizar la escritura del código.
+
+3. Utiliza los snippets de Reviw escribiendo un atajo y presionando la tecla "Tab" para completar automáticamente el código. Por ejemplo, si escribes `crear>portada` y presionas "Tab", Reviw generará automáticamente la estructura básica de un documento HTML.
+
+### Paso 3: Personalización del Código HTML
+
+1. Personaliza tu código HTML según tus necesidades. Puedes agregar contenido, estilos, enlaces y cualquier otro elemento que desees.
+
+2. Aprovecha los snippets de Reviw para insertar elementos comunes como encabezados, párrafos, listas y más.
+
+### Paso 4: Revisión del Código
+
+1. Antes de enviar tu archivo HTML, asegúrate de revisar tu código para detectar posibles errores o problemas de formato.
+
+2. Verifica que tu código siga las pautas y estándares de JW Library para garantizar su funcionamiento adecuado.
+
+### Paso 5: Envío del Archivo HTML a Reviw_Channel
+
+1. Guarda tu archivo HTML en tu repositorio de GitHub.
+
+2. Accede al repositorio [Reviw_Channel](https://github.com/livrasand/Reviw_Channel) en GitHub.
+
+3. Crea un nuevo Pull Request (solicitud de extracción) para agregar tu archivo HTML al repositorio Reviw_Channel.
+
+4. Completa los detalles del Pull Request, incluyendo una descripción clara de tu contribución.
+
+5. Espera a que los revisores de Reviw_Channel revisen y aprueben tu Pull Request.
+
+### Paso 6: Integración en JWPUB Catalog
+
+1. Una vez que tu Pull Request sea aprobado, tu archivo HTML se integrará en JWPUB Catalog y estará disponible para los usuarios de JW Library.
+
+2. Los usuarios podrán descargar y utilizar tu JWPUB en sus dispositivos.
+
+¡Felicidades! Ahora sabes cómo programar con Reviw y contribuir a la creación de archivos JWPUB para JW Library. Puedes seguir personalizando y mejorando tus archivos HTML y compartiéndolos con la comunidad.
+
 Aprende a crear tu propio JWPUB en nuestra [wiki](https://github.com/livrasand/Reviw/wiki), el documento Reviw [README](https://github.com/livrasand/Reviw#readme) contienen mucha información también, tómese su tiempo y lea atentamente estas instrucciones.
 
 Si es principiante, puede comenzar por [Getting started](https://github.com/livrasand/Reviw/wiki/Getting-started).
