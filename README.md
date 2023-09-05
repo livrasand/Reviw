@@ -60,3 +60,14 @@ Ahora ve a la carpeta <b>Installed Packages</b>. Ahora solo arrastra o pega el a
 
 ## Crea tu JWPUB personalizado
 Visita <a href="https://github.com/livrasand/Reviw_Channel/">Reviw Channel</a>
+
+## Mensaje leal
+Estimada comunidad de usuarios de JW Library, JW.ORG y Reviw,
+
+Queremos informarles que hasta la fecha, no existe ninguna política o término en los documentos oficiales de la Watchtower que prohíba expresamente la creación de archivos JWPUB utilizando herramientas como Reviw o cualquier otro método. La Watchtower no ha emitido restricciones específicas en este sentido.
+
+Sin embargo, en caso de que alguien tenga inquietudes o problemas relacionados con la creación de archivos JWPUB, los invitamos cordialmente a ponerse en contacto con la Watchtower utilizando el medio que prefieran. A través de una comunicación oficial y validada por la Watchtower, se podrán abordar estas preocupaciones y tomar las acciones apropiadas, incluida la posibilidad de detener o dar de baja Reviw u otros proyectos relacionados con la creación de archivos JWPUB.
+
+Es importante destacar que el propósito de Reviw y proyectos similares es evitar que los usuarios intenten interferir con el sitio o sus servicios, o acceder a ellos de manera no autorizada, inventar, crear o modificar la aplicación JW Library con el fin de crear JWPUB que puedan dañar la aplicación, el servicio o distribuir información inapropiada en línea. Reviw se ha desarrollado para establecer un sistema centralizado con revisión humana por parte de Testigos de Jehová con un historial de servicio fiel y el respaldo de inteligencia artificial. Esto se hace con el objetivo de evitar contenido apostata, la distribución de sustancias controladas ilegales, armas, material pirateado, instrucciones para actividades ilegales, violación de derechos de autor, contenido perjudicial o cualquier tipo de contenido para adultos.
+
+Agradecemos su comprensión y cooperación para mantener la integridad de JW Library y JW.ORG. Si tienen alguna pregunta o inquietud, no duden en ponerse en contacto con nosotros o con la Watchtower.
