@@ -6,9 +6,7 @@ Reviw es un lenguaje de marcado de código abierto, escrito en HTML, diseñado p
 
 Reviw lo utiliza el editor [Sublime Text](https://github.com/sublimehq) y próximamente muchas otras aplicaciones.
 
-Este proyecto se adhiere a la licencia <b>GoAttendant Zero Public License</b>. Al participar, se espera que respete este código. Informe cualquier comportamiento inaceptable.
-
-No acepto donaciones para Reviw. Preferiría que gastaras tu dinero en [Donar a los testigos de Jehová](https://donate.jw.org/). Si [Donar a los testigos de Jehová](https://donate.jw.org/) no se ofrece en su región, le sugiero donar a una organización sin fines de lucro como el [Proyecto Tor](https://donate.torproject.org/). Si bien, no acepto donaciones para Reviw, si acepto una aportación por [Asistencia prioritaria](https://github.com/bedan1/Reviw/edit/main/README.md#asistencia-prioritaria) (Aunque esta no es obligatoria). Hacer algo que implique algo positivo para otras personas siempre es gratificante, especialmente cuando ves el impacto positivo que tiene tu dedicación y trabajo. De antemano me tomo un momento para agradecerte de corazón por tu generosidad y apoyo. 
+No acepto donaciones para Reviw. Preferiría que gastaras tu dinero en [Donar a los testigos de Jehová](https://donate.jw.org/). Si [Donar a los testigos de Jehová](https://donate.jw.org/) no se ofrece en su región, le sugiero donar a una organización sin fines de lucro como el [Proyecto Tor](https://donate.torproject.org/).
 
 ## Guía Básica para Programar con Reviw
 
@@ -67,6 +65,8 @@ Reviw es un plugin para Sublime Text que te permite crear archivos HTML y contri
 Aprende a crear tu propio JWPUB en nuestra [wiki](https://github.com/livrasand/Reviw/wiki), el documento Reviw [README](https://github.com/livrasand/Reviw#readme) contienen mucha información también, tómese su tiempo y lea atentamente estas instrucciones.
 
 Si es principiante, puede comenzar por [Getting started](https://github.com/livrasand/Reviw/wiki/Getting-started).
+
+Puedes ver el proyecto ["Permanezcan en la fe"](https://github.com/livrasand/Permanezcan-en-la-fe) para darte una idea de como formar tu proyecto.
 
 ## Instalación con Package Control
 Instala el empaquetado de Reviw para Sublime Text, para ello ejecuta Command Palette: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>.
