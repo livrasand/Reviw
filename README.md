@@ -10,7 +10,7 @@ No acepto donaciones para Reviw. Preferiría que gastaras tu dinero en [Donar a 
 
 ## Guía Básica para Programar con Reviw
 
-Reviw es un plugin para Sublime Text que te permite crear archivos HTML y contribuir a la creación de archivos JWPUB para JW Library a través del repositorio Reviw_Channel. A continuación, te mostramos los pasos básicos para comenzar a programar con Reviw:
+Reviw es un plugin para Sublime Text que te permite crear archivos HTML y contribuir a la creación de archivos JWPUB para JW Library a través del repositorio Reviw_Channel. Mira nuestros JWPUB en HTML de ejemplo [aquí](https://github.com/livrasand/livrasand.github.io/tree/main/jwpub-catalog), solo ingresa al directorio del archivo deseado. A continuación, te mostramos los pasos básicos para comenzar a programar con Reviw:
 
 ### Paso 1: Instalación de Reviw
 
@@ -65,8 +65,6 @@ Reviw es un plugin para Sublime Text que te permite crear archivos HTML y contri
 Aprende a crear tu propio JWPUB en nuestra [wiki](https://github.com/livrasand/Reviw/wiki), el documento Reviw [README](https://github.com/livrasand/Reviw#readme) contienen mucha información también, tómese su tiempo y lea atentamente estas instrucciones.
 
 Si es principiante, puede comenzar por [Getting started](https://github.com/livrasand/Reviw/wiki/Getting-started).
-
-Puedes ver el proyecto ["Permanezcan en la fe"](https://github.com/livrasand/Permanezcan-en-la-fe) para darte una idea de como formar tu proyecto.
 
 ## Instalación con Package Control
 Instala el empaquetado de Reviw para Sublime Text, para ello ejecuta Command Palette: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>.
