@@ -6,7 +6,13 @@ Reviw es un lenguaje de marcado de código abierto, escrito en HTML, diseñado p
 
 Reviw lo utiliza el editor [Sublime Text](https://github.com/sublimehq) y próximamente muchas otras aplicaciones.
 
-No acepto donaciones para Reviw. Preferiría que gastaras tu dinero en [Donar a los testigos de Jehová](https://donate.jw.org/). Si [Donar a los testigos de Jehová](https://donate.jw.org/) no se ofrece en su región, le sugiero donar a una organización sin fines de lucro como el [Proyecto Tor](https://donate.torproject.org/).
+No acepto donaciones para Reviw. Preferiría que gastaras tu dinero en [Donar a los testigos de Jehová](https://donate.jw.org/). Si [Donar a los testigos de Jehová](https://donate.jw.org/) no se ofrece en su región, le sugiero donar a una organización sin fines de lucro como el [Proyecto Tor](https://donate.torproject.org/) o [Tails](https://tails.net/).
+
+## Contribuciones
+
+¡Agradecemos tu interés en contribuir al proyecto Reviw! Si deseas hacer contribuciones, por favor, lee nuestra [guía de contribución](CONTRIBUTING.md) para obtener más detalles sobre cómo puedes ayudar en diferentes aspectos del proyecto.
+
+Esperamos con interés trabajar contigo y mejorar juntos Reviw. ¡Gracias por ser parte de nuestra comunidad!
 
 ## Guía Básica para Programar con Reviw
 
