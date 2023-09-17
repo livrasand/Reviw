@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Reviw: Crear paquete JWPUB",
+        "command": "create_zip_package"
+    },
+    {
+        "caption": "Reviw: Crear proyecto",
+        "command": "create_project"
+    }
+]

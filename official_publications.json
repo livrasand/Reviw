@@ -1,0 +1,4748 @@
+[
+  {
+    "Symbol": 502014144,
+    "Year": "",
+    "Language": 0,
+    "Id": 126
+  },
+  {
+    "Symbol": 502016521,
+    "Year": "",
+    "Language": 0,
+    "Id": 310
+  },
+  {
+    "Symbol": "CA-BRPGM2017",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 270
+  },
+  {
+    "Symbol": "CA-COPGM2017",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 271
+  },
+  {
+    "Symbol": "CA-brpgm17",
+    "Year": 2017,
+    "Language": 0,
+    "Id": 265
+  },
+  {
+    "Symbol": "CA-brpgm18",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 351
+  },
+  {
+    "Symbol": "CA-brpgm19",
+    "Year": 2019,
+    "Language": 0,
+    "Id": 397
+  },
+  {
+    "Symbol": "CA-brpgm20",
+    "Year": 2020,
+    "Language": 0,
+    "Id": 443
+  },
+  {
+    "Symbol": "CA-brpgm21",
+    "Year": 2021,
+    "Language": 0,
+    "Id": 704
+  },
+  {
+    "Symbol": "CA-brpgm22",
+    "Year": 2022,
+    "Language": 0,
+    "Id": 809
+  },
+  {
+    "Symbol": "CA-brpgm23",
+    "Year": 2023,
+    "Language": 0,
+    "Id": 851
+  },
+  {
+    "Symbol": "CA-brpgm24",
+    "Year": 2024,
+    "Language": 0,
+    "Id": 865
+  },
+  {
+    "Symbol": "CA-brtk21",
+    "Year": 2021,
+    "Language": 0,
+    "Id": 707
+  },
+  {
+    "Symbol": "CA-brtk22",
+    "Year": 2022,
+    "Language": 0,
+    "Id": 813
+  },
+  {
+    "Symbol": "CA-copgm17",
+    "Year": 2017,
+    "Language": 0,
+    "Id": 266
+  },
+  {
+    "Symbol": "CA-copgm18",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 352
+  },
+  {
+    "Symbol": "CA-copgm19",
+    "Year": 2019,
+    "Language": 0,
+    "Id": 398
+  },
+  {
+    "Symbol": "CA-copgm20",
+    "Year": 2020,
+    "Language": 0,
+    "Id": 441
+  },
+  {
+    "Symbol": "CA-copgm2018",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 365
+  },
+  {
+    "Symbol": "CA-copgm21",
+    "Year": 2021,
+    "Language": 0,
+    "Id": 705
+  },
+  {
+    "Symbol": "CA-copgm22",
+    "Year": 2022,
+    "Language": 0,
+    "Id": 810
+  },
+  {
+    "Symbol": "CA-copgm23",
+    "Year": 2023,
+    "Language": 0,
+    "Id": 850
+  },
+  {
+    "Symbol": "CA-copgm24",
+    "Year": 2024,
+    "Language": 0,
+    "Id": 866
+  },
+  {
+    "Symbol": "CA-cotk20",
+    "Year": 2020,
+    "Language": 0,
+    "Id": 442
+  },
+  {
+    "Symbol": "CO-PGM2016_SW",
+    "Year": 2016,
+    "Language": 0,
+    "Id": 273
+  },
+  {
+    "Symbol": "CO-brpgm17",
+    "Year": 2016,
+    "Language": 0,
+    "Id": 276
+  },
+  {
+    "Symbol": "CO-copgm17",
+    "Year": 2016,
+    "Language": 0,
+    "Id": 275
+  },
+  {
+    "Symbol": "CO-inv18",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 386
+  },
+  {
+    "Symbol": "CO-inv19",
+    "Year": 2019,
+    "Language": 0,
+    "Id": 425
+  },
+  {
+    "Symbol": "CO-inv20",
+    "Year": 2020,
+    "Language": 0,
+    "Id": 464
+  },
+  {
+    "Symbol": "CO-inv2018",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 390
+  },
+  {
+    "Symbol": "CO-inv21",
+    "Year": 2021,
+    "Language": 0,
+    "Id": 777
+  },
+  {
+    "Symbol": "CO-inv22",
+    "Year": 2022,
+    "Language": 0,
+    "Id": 839
+  },
+  {
+    "Symbol": "CO-inv23",
+    "Year": 2023,
+    "Language": 0,
+    "Id": 863
+  },
+  {
+    "Symbol": "CO-invpw17",
+    "Year": 2017,
+    "Language": 0,
+    "Id": 344
+  },
+  {
+    "Symbol": "CO-invpw18",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 389
+  },
+  {
+    "Symbol": "CO-invpw22",
+    "Year": 2022,
+    "Language": 0,
+    "Id": 849
+  },
+  {
+    "Symbol": "CO-invpwsl17",
+    "Year": 2017,
+    "Language": 0,
+    "Id": 350
+  },
+  {
+    "Symbol": "CO-pgm16",
+    "Year": 2016,
+    "Language": 0,
+    "Id": 250
+  },
+  {
+    "Symbol": "CO-pgm17",
+    "Year": 2017,
+    "Language": 0,
+    "Id": 314
+  },
+  {
+    "Symbol": "CO-pgm178",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 400
+  },
+  {
+    "Symbol": "CO-pgm18",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 387
+  },
+  {
+    "Symbol": "CO-pgm19",
+    "Year": 2019,
+    "Language": 0,
+    "Id": 427
+  },
+  {
+    "Symbol": "CO-pgm20",
+    "Year": 2020,
+    "Language": 0,
+    "Id": 687
+  },
+  {
+    "Symbol": "CO-pgm2016",
+    "Year": 2016,
+    "Language": 0,
+    "Id": 286
+  },
+  {
+    "Symbol": "CO-pgm2019",
+    "Year": 2019,
+    "Language": 0,
+    "Id": 432
+  },
+  {
+    "Symbol": "CO-pgm21",
+    "Year": 2021,
+    "Language": 0,
+    "Id": 793
+  },
+  {
+    "Symbol": "CO-pgm22",
+    "Year": 2022,
+    "Language": 0,
+    "Id": 845
+  },
+  {
+    "Symbol": "CO-pgm23",
+    "Year": 2023,
+    "Language": 0,
+    "Id": 864
+  },
+  {
+    "Symbol": "CO-pgmpo17",
+    "Year": 2017,
+    "Language": 0,
+    "Id": 364
+  },
+  {
+    "Symbol": "CO-r21",
+    "Year": "",
+    "Language": 0,
+    "Id": 814
+  },
+  {
+    "Symbol": "CO-tk19",
+    "Year": 2019,
+    "Language": 0,
+    "Id": 433
+  },
+  {
+    "Symbol": "CO-tk20",
+    "Year": 2020,
+    "Language": 0,
+    "Id": 690
+  },
+  {
+    "Symbol": "CO-vr15",
+    "Year": "",
+    "Language": 0,
+    "Id": 171
+  },
+  {
+    "Symbol": "CO-vr18",
+    "Year": "",
+    "Language": 0,
+    "Id": 395
+  },
+  {
+    "Symbol": "CO-vr19",
+    "Year": "",
+    "Language": 0,
+    "Id": 439
+  },
+  {
+    "Symbol": "CO?inv22",
+    "Year": 2022,
+    "Language": 0,
+    "Id": 854
+  },
+  {
+    "Symbol": "CUV-T",
+    "Year": 1919,
+    "Language": 0,
+    "Id": 431
+  },
+  {
+    "Symbol": "KRQ",
+    "Year": 2014,
+    "Language": 0,
+    "Id": 362
+  },
+  {
+    "Symbol": "LSB",
+    "Year": 2008,
+    "Language": 0,
+    "Id": 299
+  },
+  {
+    "Symbol": "Lmn",
+    "Year": 1986,
+    "Language": 0,
+    "Id": 522
+  },
+  {
+    "Symbol": "MO-tk20r",
+    "Year": "",
+    "Language": 0,
+    "Id": 697
+  },
+  {
+    "Symbol": "PSS_PN",
+    "Year": 2019,
+    "Language": 0,
+    "Id": 581
+  },
+  {
+    "Symbol": "Rbi8",
+    "Year": 1984,
+    "Language": 0,
+    "Id": 84
+  },
+  {
+    "Symbol": "S-31",
+    "Year": 2019,
+    "Language": 0,
+    "Id": 456
+  },
+  {
+    "Symbol": "S-319-20",
+    "Year": 2019,
+    "Language": 0,
+    "Id": 444
+  },
+  {
+    "Symbol": "S-32",
+    "Year": 2019,
+    "Language": 0,
+    "Id": 457
+  },
+  {
+    "Symbol": "S-335-20",
+    "Year": 2019,
+    "Language": 0,
+    "Id": 458
+  },
+  {
+    "Symbol": "S-341-20",
+    "Year": 2019,
+    "Language": 0,
+    "Id": 462
+  },
+  {
+    "Symbol": "S-38",
+    "Year": 2016,
+    "Language": 0,
+    "Id": 309
+  },
+  {
+    "Symbol": "S-401",
+    "Year": 2019,
+    "Language": 0,
+    "Id": 691
+  },
+  {
+    "Symbol": "SP-tk20r",
+    "Year": "",
+    "Language": 0,
+    "Id": 696
+  },
+  {
+    "Symbol": "Ssb",
+    "Year": 1984,
+    "Language": 0,
+    "Id": 545
+  },
+  {
+    "Symbol": "T-13",
+    "Year": 1987,
+    "Language": 0,
+    "Id": 548
+  },
+  {
+    "Symbol": "T-14",
+    "Year": 1987,
+    "Language": 0,
+    "Id": 549
+  },
+  {
+    "Symbol": "T-15",
+    "Year": 1994,
+    "Language": 0,
+    "Id": 550
+  },
+  {
+    "Symbol": "T-16",
+    "Year": 1987,
+    "Language": 0,
+    "Id": 551
+  },
+  {
+    "Symbol": "T-17",
+    "Year": 1992,
+    "Language": 0,
+    "Id": 552
+  },
+  {
+    "Symbol": "T-18",
+    "Year": 1992,
+    "Language": 0,
+    "Id": 553
+  },
+  {
+    "Symbol": "T-19",
+    "Year": 2005,
+    "Language": 0,
+    "Id": 554
+  },
+  {
+    "Symbol": "T-20",
+    "Year": 2000,
+    "Language": 0,
+    "Id": 555
+  },
+  {
+    "Symbol": "T-21",
+    "Year": 1998,
+    "Language": 0,
+    "Id": 556
+  },
+  {
+    "Symbol": "T-22",
+    "Year": 1992,
+    "Language": 0,
+    "Id": 557
+  },
+  {
+    "Symbol": "T-23",
+    "Year": 2001,
+    "Language": 0,
+    "Id": 454
+  },
+  {
+    "Symbol": "T-24",
+    "Year": 1999,
+    "Language": 0,
+    "Id": 558
+  },
+  {
+    "Symbol": "T-25",
+    "Year": 2001,
+    "Language": 0,
+    "Id": 559
+  },
+  {
+    "Symbol": "T-26",
+    "Year": 2001,
+    "Language": 0,
+    "Id": 560
+  },
+  {
+    "Symbol": "T-27",
+    "Year": 2005,
+    "Language": 0,
+    "Id": 561
+  },
+  {
+    "Symbol": "T-30",
+    "Year": 2013,
+    "Language": 0,
+    "Id": 67
+  },
+  {
+    "Symbol": "T-31",
+    "Year": 2013,
+    "Language": 0,
+    "Id": 68
+  },
+  {
+    "Symbol": "T-32",
+    "Year": 2013,
+    "Language": 0,
+    "Id": 69
+  },
+  {
+    "Symbol": "T-33",
+    "Year": 2013,
+    "Language": 0,
+    "Id": 70
+  },
+  {
+    "Symbol": "T-34",
+    "Year": 2013,
+    "Language": 0,
+    "Id": 71
+  },
+  {
+    "Symbol": "T-35",
+    "Year": 2013,
+    "Language": 0,
+    "Id": 72
+  },
+  {
+    "Symbol": "T-36",
+    "Year": 2014,
+    "Language": 0,
+    "Id": 99
+  },
+  {
+    "Symbol": "T-37",
+    "Year": 2014,
+    "Language": 0,
+    "Id": 73
+  },
+  {
+    "Symbol": "T-71",
+    "Year": 2001,
+    "Language": 0,
+    "Id": 562
+  },
+  {
+    "Symbol": "T-73",
+    "Year": 2001,
+    "Language": 0,
+    "Id": 563
+  },
+  {
+    "Symbol": "T-74",
+    "Year": 2001,
+    "Language": 0,
+    "Id": 564
+  },
+  {
+    "Symbol": "T-82",
+    "Year": 2007,
+    "Language": 0,
+    "Id": 290
+  },
+  {
+    "Symbol": "T-83",
+    "Year": 2010,
+    "Language": 207,
+    "Id": 699
+  },
+  {
+    "Symbol": "T?30",
+    "Year": 2013,
+    "Language": 0,
+    "Id": 846
+  },
+  {
+    "Symbol": "ad",
+    "Year": 1971,
+    "Language": 0,
+    "Id": 797
+  },
+  {
+    "Symbol": "apv",
+    "Year": "",
+    "Language": 0,
+    "Id": 337
+  },
+  {
+    "Symbol": "ba",
+    "Year": 1997,
+    "Language": 0,
+    "Id": 465
+  },
+  {
+    "Symbol": "bcs",
+    "Year": "",
+    "Language": 0,
+    "Id": 394
+  },
+  {
+    "Symbol": "be",
+    "Year": 2002,
+    "Language": 0,
+    "Id": 85
+  },
+  {
+    "Symbol": "bh",
+    "Year": 2005,
+    "Language": 0,
+    "Id": 77
+  },
+  {
+    "Symbol": "bh3",
+    "Year": 1977,
+    "Language": 82,
+    "Id": 291
+  },
+  {
+    "Symbol": "bhat",
+    "Year": "",
+    "Language": 0,
+    "Id": 420
+  },
+  {
+    "Symbol": "bhs",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 210
+  },
+  {
+    "Symbol": "bhssm",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 269
+  },
+  {
+    "Symbol": "bi",
+    "Year": 1984,
+    "Language": 0,
+    "Id": 175
+  },
+  {
+    "Symbol": "bi10",
+    "Year": 1611,
+    "Language": 0,
+    "Id": 80
+  },
+  {
+    "Symbol": "bi12",
+    "Year": 1984,
+    "Language": 0,
+    "Id": 116
+  },
+  {
+    "Symbol": "bi1938",
+    "Year": 1938,
+    "Language": 36,
+    "Id": 293
+  },
+  {
+    "Symbol": "bi22",
+    "Year": 1901,
+    "Language": 0,
+    "Id": 81
+  },
+  {
+    "Symbol": "bi7",
+    "Year": 1991,
+    "Language": 0,
+    "Id": 198
+  },
+  {
+    "Symbol": "bk",
+    "Year": 1976,
+    "Language": 0,
+    "Id": 693
+  },
+  {
+    "Symbol": "bm",
+    "Year": 2009,
+    "Language": 0,
+    "Id": 259
+  },
+  {
+    "Symbol": "bp",
+    "Year": 1993,
+    "Language": 0,
+    "Id": 466
+  },
+  {
+    "Symbol": "bq",
+    "Year": 1977,
+    "Language": 0,
+    "Id": 467
+  },
+  {
+    "Symbol": "br78",
+    "Year": 1989,
+    "Language": 0,
+    "Id": 468
+  },
+  {
+    "Symbol": "br84",
+    "Year": 1984,
+    "Language": 0,
+    "Id": 469
+  },
+  {
+    "Symbol": "brwp",
+    "Year": 2013,
+    "Language": 0,
+    "Id": 803
+  },
+  {
+    "Symbol": "bsi00",
+    "Year": 2000,
+    "Language": 0,
+    "Id": 736
+  },
+  {
+    "Symbol": "bsi01",
+    "Year": 2001,
+    "Language": 0,
+    "Id": 737
+  },
+  {
+    "Symbol": "bsi02-1",
+    "Year": 2002,
+    "Language": 0,
+    "Id": 738
+  },
+  {
+    "Symbol": "bsi04",
+    "Year": 2004,
+    "Language": 0,
+    "Id": 739
+  },
+  {
+    "Symbol": "bsi05",
+    "Year": 2005,
+    "Language": 0,
+    "Id": 740
+  },
+  {
+    "Symbol": "bsi06",
+    "Year": 2006,
+    "Language": 0,
+    "Id": 741
+  },
+  {
+    "Symbol": "bsi07",
+    "Year": 2007,
+    "Language": 0,
+    "Id": 742
+  },
+  {
+    "Symbol": "bsi08-1",
+    "Year": 2008,
+    "Language": 0,
+    "Id": 743
+  },
+  {
+    "Symbol": "bsi08-2",
+    "Year": 2008,
+    "Language": 0,
+    "Id": 744
+  },
+  {
+    "Symbol": "bt",
+    "Year": 2009,
+    "Language": 0,
+    "Id": 418
+  },
+  {
+    "Symbol": "bw",
+    "Year": 1979,
+    "Language": 0,
+    "Id": 470
+  },
+  {
+    "Symbol": "by",
+    "Year": 1972,
+    "Language": 0,
+    "Id": 82
+  },
+  {
+    "Symbol": "ce",
+    "Year": 1985,
+    "Language": 0,
+    "Id": 471
+  },
+  {
+    "Symbol": "cf",
+    "Year": 2007,
+    "Language": 0,
+    "Id": 194
+  },
+  {
+    "Symbol": "cfc",
+    "Year": 2016,
+    "Language": 420,
+    "Id": 316
+  },
+  {
+    "Symbol": "ciw",
+    "Year": "",
+    "Language": 0,
+    "Id": 303
+  },
+  {
+    "Symbol": "cl",
+    "Year": 2014,
+    "Language": 0,
+    "Id": 64
+  },
+  {
+    "Symbol": "co-r20",
+    "Year": "",
+    "Language": 0,
+    "Id": 733
+  },
+  {
+    "Symbol": "cph",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 292
+  },
+  {
+    "Symbol": "cpw",
+    "Year": "",
+    "Language": 0,
+    "Id": 348
+  },
+  {
+    "Symbol": "ct",
+    "Year": 1998,
+    "Language": 0,
+    "Id": 472
+  },
+  {
+    "Symbol": "dg",
+    "Year": 2001,
+    "Language": 0,
+    "Id": 473
+  },
+  {
+    "Symbol": "dlf",
+    "Year": "",
+    "Language": 0,
+    "Id": 818
+  },
+  {
+    "Symbol": "dn",
+    "Year": 1972,
+    "Language": 0,
+    "Id": 474
+  },
+  {
+    "Symbol": "dns",
+    "Year": "",
+    "Language": 0,
+    "Id": 243
+  },
+  {
+    "Symbol": "dp",
+    "Year": 1999,
+    "Language": 0,
+    "Id": 475
+  },
+  {
+    "Symbol": "ds",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 289
+  },
+  {
+    "Symbol": "dt",
+    "Year": 1980,
+    "Language": 0,
+    "Id": 476
+  },
+  {
+    "Symbol": "dy",
+    "Year": 1973,
+    "Language": 0,
+    "Id": 477
+  },
+  {
+    "Symbol": "ebtv",
+    "Year": "",
+    "Language": 0,
+    "Id": 692
+  },
+  {
+    "Symbol": "ed",
+    "Year": 2002,
+    "Language": 0,
+    "Id": 430
+  },
+  {
+    "Symbol": "edj",
+    "Year": "",
+    "Language": 0,
+    "Id": 373
+  },
+  {
+    "Symbol": "es14",
+    "Year": 2013,
+    "Language": 0,
+    "Id": 86
+  },
+  {
+    "Symbol": "es15",
+    "Year": 2014,
+    "Language": 0,
+    "Id": 74
+  },
+  {
+    "Symbol": "es16",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 215
+  },
+  {
+    "Symbol": "es17",
+    "Year": 2016,
+    "Language": 0,
+    "Id": 267
+  },
+  {
+    "Symbol": "es18",
+    "Year": 2017,
+    "Language": 0,
+    "Id": 363
+  },
+  {
+    "Symbol": "es19",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 404
+  },
+  {
+    "Symbol": "es20",
+    "Year": 2019,
+    "Language": 0,
+    "Id": 446
+  },
+  {
+    "Symbol": "es21",
+    "Year": 2020,
+    "Language": 0,
+    "Id": 783
+  },
+  {
+    "Symbol": "es22",
+    "Year": 2021,
+    "Language": 0,
+    "Id": 824
+  },
+  {
+    "Symbol": "es23",
+    "Year": 2022,
+    "Language": 0,
+    "Id": 859
+  },
+  {
+    "Symbol": "fg",
+    "Year": 2012,
+    "Language": 0,
+    "Id": 65
+  },
+  {
+    "Symbol": "fl",
+    "Year": 1978,
+    "Language": 0,
+    "Id": 478
+  },
+  {
+    "Symbol": "fmh",
+    "Year": "",
+    "Language": 0,
+    "Id": 815
+  },
+  {
+    "Symbol": "fmo",
+    "Year": "",
+    "Language": 0,
+    "Id": 789
+  },
+  {
+    "Symbol": "foa",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 460
+  },
+  {
+    "Symbol": "fu",
+    "Year": 1975,
+    "Language": 0,
+    "Id": 479
+  },
+  {
+    "Symbol": "fy",
+    "Year": 1996,
+    "Language": 0,
+    "Id": 205
+  },
+  {
+    "Symbol": "g",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 115
+  },
+  {
+    "Symbol": "g00",
+    "Year": 2000,
+    "Language": 0,
+    "Id": 264
+  },
+  {
+    "Symbol": "g01",
+    "Year": 2001,
+    "Language": 0,
+    "Id": 263
+  },
+  {
+    "Symbol": "g02",
+    "Year": 2002,
+    "Language": 0,
+    "Id": 262
+  },
+  {
+    "Symbol": "g03",
+    "Year": 2003,
+    "Language": 0,
+    "Id": 261
+  },
+  {
+    "Symbol": "g04",
+    "Year": 2004,
+    "Language": 0,
+    "Id": 260
+  },
+  {
+    "Symbol": "g05",
+    "Year": 2005,
+    "Language": 0,
+    "Id": 253
+  },
+  {
+    "Symbol": "g06",
+    "Year": 2006,
+    "Language": 0,
+    "Id": 254
+  },
+  {
+    "Symbol": "g07",
+    "Year": 2007,
+    "Language": 0,
+    "Id": 255
+  },
+  {
+    "Symbol": "g08",
+    "Year": 2008,
+    "Language": 0,
+    "Id": 256
+  },
+  {
+    "Symbol": "g09",
+    "Year": 2009,
+    "Language": 0,
+    "Id": 257
+  },
+  {
+    "Symbol": "g10",
+    "Year": 2010,
+    "Language": 0,
+    "Id": 251
+  },
+  {
+    "Symbol": "g11",
+    "Year": 2011,
+    "Language": 0,
+    "Id": 252
+  },
+  {
+    "Symbol": "g12",
+    "Year": 2012,
+    "Language": 0,
+    "Id": 249
+  },
+  {
+    "Symbol": "g13",
+    "Year": 2013,
+    "Language": 0,
+    "Id": 208
+  },
+  {
+    "Symbol": "g14",
+    "Year": 2014,
+    "Language": 0,
+    "Id": 204
+  },
+  {
+    "Symbol": "g15",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 200
+  },
+  {
+    "Symbol": "g16",
+    "Year": 2016,
+    "Language": 0,
+    "Id": 216
+  },
+  {
+    "Symbol": "g17",
+    "Year": 2017,
+    "Language": 0,
+    "Id": 285
+  },
+  {
+    "Symbol": "g18",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 378
+  },
+  {
+    "Symbol": "g19",
+    "Year": 2019,
+    "Language": 0,
+    "Id": 417
+  },
+  {
+    "Symbol": "g20",
+    "Year": 2020,
+    "Language": 0,
+    "Id": 463
+  },
+  {
+    "Symbol": "g21",
+    "Year": 2021,
+    "Language": 0,
+    "Id": 808
+  },
+  {
+    "Symbol": "g22",
+    "Year": 2022,
+    "Language": 0,
+    "Id": 847
+  },
+  {
+    "Symbol": "g23",
+    "Year": 2023,
+    "Language": 0,
+    "Id": 872
+  },
+  {
+    "Symbol": "g70",
+    "Year": 1970,
+    "Language": 0,
+    "Id": 626
+  },
+  {
+    "Symbol": "g71",
+    "Year": 1971,
+    "Language": 0,
+    "Id": 627
+  },
+  {
+    "Symbol": "g72",
+    "Year": 1972,
+    "Language": 0,
+    "Id": 628
+  },
+  {
+    "Symbol": "g73",
+    "Year": 1973,
+    "Language": 0,
+    "Id": 629
+  },
+  {
+    "Symbol": "g74",
+    "Year": 1974,
+    "Language": 0,
+    "Id": 630
+  },
+  {
+    "Symbol": "g75",
+    "Year": 1975,
+    "Language": 0,
+    "Id": 631
+  },
+  {
+    "Symbol": "g76",
+    "Year": 1976,
+    "Language": 0,
+    "Id": 632
+  },
+  {
+    "Symbol": "g77",
+    "Year": 1977,
+    "Language": 0,
+    "Id": 633
+  },
+  {
+    "Symbol": "g78",
+    "Year": 1978,
+    "Language": 0,
+    "Id": 634
+  },
+  {
+    "Symbol": "g79",
+    "Year": 1979,
+    "Language": 0,
+    "Id": 635
+  },
+  {
+    "Symbol": "g80",
+    "Year": 1980,
+    "Language": 0,
+    "Id": 636
+  },
+  {
+    "Symbol": "g81",
+    "Year": 1981,
+    "Language": 0,
+    "Id": 637
+  },
+  {
+    "Symbol": "g82",
+    "Year": 1982,
+    "Language": 0,
+    "Id": 638
+  },
+  {
+    "Symbol": "g83",
+    "Year": 1983,
+    "Language": 0,
+    "Id": 639
+  },
+  {
+    "Symbol": "g84",
+    "Year": 1984,
+    "Language": 0,
+    "Id": 640
+  },
+  {
+    "Symbol": "g85",
+    "Year": 1985,
+    "Language": 0,
+    "Id": 641
+  },
+  {
+    "Symbol": "g86",
+    "Year": 1986,
+    "Language": 0,
+    "Id": 642
+  },
+  {
+    "Symbol": "g87",
+    "Year": 1987,
+    "Language": 0,
+    "Id": 643
+  },
+  {
+    "Symbol": "g88",
+    "Year": 1988,
+    "Language": 0,
+    "Id": 644
+  },
+  {
+    "Symbol": "g89",
+    "Year": 1989,
+    "Language": 0,
+    "Id": 645
+  },
+  {
+    "Symbol": "g90",
+    "Year": 1990,
+    "Language": 0,
+    "Id": 646
+  },
+  {
+    "Symbol": "g91",
+    "Year": 1991,
+    "Language": 0,
+    "Id": 647
+  },
+  {
+    "Symbol": "g92",
+    "Year": 1992,
+    "Language": 0,
+    "Id": 648
+  },
+  {
+    "Symbol": "g93",
+    "Year": 1993,
+    "Language": 0,
+    "Id": 649
+  },
+  {
+    "Symbol": "g94",
+    "Year": 1994,
+    "Language": 0,
+    "Id": 650
+  },
+  {
+    "Symbol": "g95",
+    "Year": 1995,
+    "Language": 0,
+    "Id": 651
+  },
+  {
+    "Symbol": "g96",
+    "Year": 1996,
+    "Language": 0,
+    "Id": 652
+  },
+  {
+    "Symbol": "g97",
+    "Year": 1997,
+    "Language": 0,
+    "Id": 653
+  },
+  {
+    "Symbol": "g98",
+    "Year": 1998,
+    "Language": 0,
+    "Id": 654
+  },
+  {
+    "Symbol": "g99",
+    "Year": 1999,
+    "Language": 0,
+    "Id": 428
+  },
+  {
+    "Symbol": "gNP",
+    "Year": 2007,
+    "Language": 0,
+    "Id": 848
+  },
+  {
+    "Symbol": "gc",
+    "Year": 1975,
+    "Language": 0,
+    "Id": 480
+  },
+  {
+    "Symbol": "gf",
+    "Year": 2000,
+    "Language": 0,
+    "Id": 297
+  },
+  {
+    "Symbol": "gh",
+    "Year": 1976,
+    "Language": 0,
+    "Id": 481
+  },
+  {
+    "Symbol": "ghj",
+    "Year": "",
+    "Language": 0,
+    "Id": 450
+  },
+  {
+    "Symbol": "gl",
+    "Year": 2003,
+    "Language": 0,
+    "Id": 482
+  },
+  {
+    "Symbol": "gm",
+    "Year": 1989,
+    "Language": 0,
+    "Id": 483
+  },
+  {
+    "Symbol": "gn",
+    "Year": 1965,
+    "Language": 0,
+    "Id": 745
+  },
+  {
+    "Symbol": "go",
+    "Year": 1977,
+    "Language": 0,
+    "Id": 484
+  },
+  {
+    "Symbol": "gt",
+    "Year": 1991,
+    "Language": 0,
+    "Id": 322
+  },
+  {
+    "Symbol": "hb",
+    "Year": 1990,
+    "Language": 0,
+    "Id": 485
+  },
+  {
+    "Symbol": "hdu",
+    "Year": 2020,
+    "Language": 0,
+    "Id": 711
+  },
+  {
+    "Symbol": "hf",
+    "Year": 2014,
+    "Language": 0,
+    "Id": 96
+  },
+  {
+    "Symbol": "hl",
+    "Year": 2013,
+    "Language": 0,
+    "Id": 284
+  },
+  {
+    "Symbol": "hp",
+    "Year": 1980,
+    "Language": 0,
+    "Id": 486
+  },
+  {
+    "Symbol": "hs",
+    "Year": 1976,
+    "Language": 0,
+    "Id": 487
+  },
+  {
+    "Symbol": "ht",
+    "Year": 1994,
+    "Language": 0,
+    "Id": 870
+  },
+  {
+    "Symbol": "hu",
+    "Year": 1974,
+    "Language": 0,
+    "Id": 488
+  },
+  {
+    "Symbol": "hw",
+    "Year": 1992,
+    "Language": 0,
+    "Id": 784
+  },
+  {
+    "Symbol": "ia",
+    "Year": 2013,
+    "Language": 0,
+    "Id": 78
+  },
+  {
+    "Symbol": "iabdo",
+    "Year": "",
+    "Language": 0,
+    "Id": 60
+  },
+  {
+    "Symbol": "iacu",
+    "Year": "",
+    "Language": 0,
+    "Id": 56
+  },
+  {
+    "Symbol": "iacyf",
+    "Year": "",
+    "Language": 0,
+    "Id": 59
+  },
+  {
+    "Symbol": "iada",
+    "Year": "",
+    "Language": 0,
+    "Id": 55
+  },
+  {
+    "Symbol": "iaeb",
+    "Year": "",
+    "Language": 0,
+    "Id": 46
+  },
+  {
+    "Symbol": "iaey",
+    "Year": "",
+    "Language": 0,
+    "Id": 49
+  },
+  {
+    "Symbol": "iafyh",
+    "Year": "",
+    "Language": 0,
+    "Id": 62
+  },
+  {
+    "Symbol": "iagwa",
+    "Year": "",
+    "Language": 0,
+    "Id": 63
+  },
+  {
+    "Symbol": "iajj",
+    "Year": "",
+    "Language": 0,
+    "Id": 47
+  },
+  {
+    "Symbol": "iajn",
+    "Year": "",
+    "Language": 0,
+    "Id": 48
+  },
+  {
+    "Symbol": "iajtg",
+    "Year": "",
+    "Language": 0,
+    "Id": 110
+  },
+  {
+    "Symbol": "iam-1",
+    "Year": "",
+    "Language": 0,
+    "Id": 36
+  },
+  {
+    "Symbol": "iam-2",
+    "Year": "",
+    "Language": 0,
+    "Id": 37
+  },
+  {
+    "Symbol": "iam-3",
+    "Year": "",
+    "Language": 0,
+    "Id": 38
+  },
+  {
+    "Symbol": "iam-4",
+    "Year": "",
+    "Language": 0,
+    "Id": 39
+  },
+  {
+    "Symbol": "iam-5",
+    "Year": "",
+    "Language": 0,
+    "Id": 40
+  },
+  {
+    "Symbol": "iam-6",
+    "Year": "",
+    "Language": 0,
+    "Id": 41
+  },
+  {
+    "Symbol": "iam-9",
+    "Year": "",
+    "Language": 0,
+    "Id": 42
+  },
+  {
+    "Symbol": "iame",
+    "Year": "",
+    "Language": 0,
+    "Id": 50
+  },
+  {
+    "Symbol": "iangv",
+    "Year": "",
+    "Language": 0,
+    "Id": 61
+  },
+  {
+    "Symbol": "iantg",
+    "Year": "",
+    "Language": 0,
+    "Id": 57
+  },
+  {
+    "Symbol": "iaoh",
+    "Year": "",
+    "Language": 0,
+    "Id": 43
+  },
+  {
+    "Symbol": "iapv",
+    "Year": "",
+    "Language": 0,
+    "Id": 51
+  },
+  {
+    "Symbol": "iarhp",
+    "Year": "",
+    "Language": 0,
+    "Id": 58
+  },
+  {
+    "Symbol": "iart",
+    "Year": "",
+    "Language": 0,
+    "Id": 45
+  },
+  {
+    "Symbol": "iaru",
+    "Year": "",
+    "Language": 0,
+    "Id": 52
+  },
+  {
+    "Symbol": "iasn",
+    "Year": "",
+    "Language": 0,
+    "Id": 29
+  },
+  {
+    "Symbol": "iasnm",
+    "Year": "",
+    "Language": 0,
+    "Id": 224
+  },
+  {
+    "Symbol": "iasnv1",
+    "Year": "",
+    "Language": 0,
+    "Id": 35
+  },
+  {
+    "Symbol": "iasnv2",
+    "Year": "",
+    "Language": 0,
+    "Id": 33
+  },
+  {
+    "Symbol": "iasnv3",
+    "Year": "",
+    "Language": 0,
+    "Id": 34
+  },
+  {
+    "Symbol": "iasnv4",
+    "Year": "",
+    "Language": 0,
+    "Id": 32
+  },
+  {
+    "Symbol": "iasnv5",
+    "Year": "",
+    "Language": 0,
+    "Id": 31
+  },
+  {
+    "Symbol": "iasnv6",
+    "Year": "",
+    "Language": 0,
+    "Id": 30
+  },
+  {
+    "Symbol": "iath",
+    "Year": "",
+    "Language": 0,
+    "Id": 54
+  },
+  {
+    "Symbol": "iawx",
+    "Year": "",
+    "Language": 0,
+    "Id": 53
+  },
+  {
+    "Symbol": "iaze",
+    "Year": "",
+    "Language": 0,
+    "Id": 44
+  },
+  {
+    "Symbol": "ie",
+    "Year": 1998,
+    "Language": 0,
+    "Id": 489
+  },
+  {
+    "Symbol": "igw",
+    "Year": 2014,
+    "Language": 0,
+    "Id": 112
+  },
+  {
+    "Symbol": "ijwan",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 802
+  },
+  {
+    "Symbol": "ijwbq",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 409
+  },
+  {
+    "Symbol": "ijwbt",
+    "Year": 2012,
+    "Language": 0,
+    "Id": 788
+  },
+  {
+    "Symbol": "ijwbv",
+    "Year": 2020,
+    "Language": 0,
+    "Id": 686
+  },
+  {
+    "Symbol": "ijwcl",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 410
+  },
+  {
+    "Symbol": "ijwex",
+    "Year": 2019,
+    "Language": 0,
+    "Id": 440
+  },
+  {
+    "Symbol": "ijwfq",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 411
+  },
+  {
+    "Symbol": "ijwhf",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 412
+  },
+  {
+    "Symbol": "ijwia",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 413
+  },
+  {
+    "Symbol": "ijwif",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 447
+  },
+  {
+    "Symbol": "ijwm",
+    "Year": "",
+    "Language": 0,
+    "Id": 4
+  },
+  {
+    "Symbol": "ijwnews20",
+    "Year": 2020,
+    "Language": 0,
+    "Id": 747
+  },
+  {
+    "Symbol": "ijwnews21",
+    "Year": 2021,
+    "Language": 0,
+    "Id": 801
+  },
+  {
+    "Symbol": "ijwnews22",
+    "Year": 2022,
+    "Language": 0,
+    "Id": 842
+  },
+  {
+    "Symbol": "ijwnews23",
+    "Year": 2023,
+    "Language": 0,
+    "Id": 867
+  },
+  {
+    "Symbol": "ijwnw",
+    "Year": 2017,
+    "Language": 0,
+    "Id": 698
+  },
+  {
+    "Symbol": "ijwpkat",
+    "Year": 2013,
+    "Language": 0,
+    "Id": 857
+  },
+  {
+    "Symbol": "ijwps",
+    "Year": 2013,
+    "Language": 0,
+    "Id": 844
+  },
+  {
+    "Symbol": "ijwwb",
+    "Year": 2013,
+    "Language": 0,
+    "Id": 871
+  },
+  {
+    "Symbol": "ijwwd",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 414
+  },
+  {
+    "Symbol": "ijwyp",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 415
+  },
+  {
+    "Symbol": "imv",
+    "Year": "",
+    "Language": 0,
+    "Id": 295
+  },
+  {
+    "Symbol": "int",
+    "Year": 1985,
+    "Language": 0,
+    "Id": 83
+  },
+  {
+    "Symbol": "ip-1",
+    "Year": 2000,
+    "Language": 0,
+    "Id": 452
+  },
+  {
+    "Symbol": "ip-2",
+    "Year": 2001,
+    "Language": 0,
+    "Id": 453
+  },
+  {
+    "Symbol": "irn",
+    "Year": "",
+    "Language": 0,
+    "Id": 217
+  },
+  {
+    "Symbol": "ism",
+    "Year": "",
+    "Language": 0,
+    "Id": 402
+  },
+  {
+    "Symbol": "it",
+    "Year": 1988,
+    "Language": 0,
+    "Id": 87
+  },
+  {
+    "Symbol": "it-1",
+    "Year": 1988,
+    "Language": 0,
+    "Id": 100
+  },
+  {
+    "Symbol": "it-2",
+    "Year": "",
+    "Language": 0,
+    "Id": 367
+  },
+  {
+    "Symbol": "ivae",
+    "Year": "",
+    "Language": 0,
+    "Id": 195
+  },
+  {
+    "Symbol": "ivas",
+    "Year": "",
+    "Language": 0,
+    "Id": 20
+  },
+  {
+    "Symbol": "ivbdo",
+    "Year": "",
+    "Language": 0,
+    "Id": 150
+  },
+  {
+    "Symbol": "ivbesl",
+    "Year": 2015,
+    "Language": 420,
+    "Id": 426
+  },
+  {
+    "Symbol": "ivbkh",
+    "Year": "",
+    "Language": 0,
+    "Id": 18
+  },
+  {
+    "Symbol": "ivbo",
+    "Year": "",
+    "Language": 0,
+    "Id": 132
+  },
+  {
+    "Symbol": "ivcyf",
+    "Year": "",
+    "Language": 0,
+    "Id": 154
+  },
+  {
+    "Symbol": "ivdd",
+    "Year": "",
+    "Language": 0,
+    "Id": 5
+  },
+  {
+    "Symbol": "ivdl",
+    "Year": "",
+    "Language": 0,
+    "Id": 135
+  },
+  {
+    "Symbol": "ivdnlsl",
+    "Year": "",
+    "Language": 0,
+    "Id": 147
+  },
+  {
+    "Symbol": "ivea",
+    "Year": "",
+    "Language": 0,
+    "Id": 22
+  },
+  {
+    "Symbol": "ivfa1",
+    "Year": "",
+    "Language": 0,
+    "Id": 23
+  },
+  {
+    "Symbol": "ivfa2",
+    "Year": "",
+    "Language": 0,
+    "Id": 24
+  },
+  {
+    "Symbol": "ivfe",
+    "Year": "",
+    "Language": 0,
+    "Id": 7
+  },
+  {
+    "Symbol": "ivfyh",
+    "Year": "",
+    "Language": 0,
+    "Id": 156
+  },
+  {
+    "Symbol": "ivgwa",
+    "Year": "",
+    "Language": 0,
+    "Id": 152
+  },
+  {
+    "Symbol": "ivib",
+    "Year": 2011,
+    "Language": 420,
+    "Id": 318
+  },
+  {
+    "Symbol": "ivjss",
+    "Year": 2011,
+    "Language": 420,
+    "Id": 317
+  },
+  {
+    "Symbol": "ivjtg",
+    "Year": "",
+    "Language": 0,
+    "Id": 219
+  },
+  {
+    "Symbol": "ivjtgsl",
+    "Year": "",
+    "Language": 0,
+    "Id": 230
+  },
+  {
+    "Symbol": "ivjwo",
+    "Year": "",
+    "Language": 0,
+    "Id": 21
+  },
+  {
+    "Symbol": "ivlwmsl",
+    "Year": "",
+    "Language": 0,
+    "Id": 146
+  },
+  {
+    "Symbol": "ivmisl17",
+    "Year": 2017,
+    "Language": 0,
+    "Id": 336
+  },
+  {
+    "Symbol": "ivnb",
+    "Year": "",
+    "Language": 0,
+    "Id": 196
+  },
+  {
+    "Symbol": "ivndosl",
+    "Year": "",
+    "Language": 0,
+    "Id": 157
+  },
+  {
+    "Symbol": "ivngv",
+    "Year": "",
+    "Language": 0,
+    "Id": 151
+  },
+  {
+    "Symbol": "ivno",
+    "Year": "",
+    "Language": 0,
+    "Id": 6
+  },
+  {
+    "Symbol": "ivnr",
+    "Year": "",
+    "Language": 0,
+    "Id": 197
+  },
+  {
+    "Symbol": "ivntg",
+    "Year": "",
+    "Language": 0,
+    "Id": 148
+  },
+  {
+    "Symbol": "ivnwf",
+    "Year": "",
+    "Language": 0,
+    "Id": 221
+  },
+  {
+    "Symbol": "ivnwfsl",
+    "Year": "",
+    "Language": 0,
+    "Id": 155
+  },
+  {
+    "Symbol": "ivoh",
+    "Year": "",
+    "Language": 0,
+    "Id": 158
+  },
+  {
+    "Symbol": "ivou",
+    "Year": "",
+    "Language": 0,
+    "Id": 138
+  },
+  {
+    "Symbol": "ivprd",
+    "Year": "",
+    "Language": 0,
+    "Id": 136
+  },
+  {
+    "Symbol": "ivpro",
+    "Year": "",
+    "Language": 0,
+    "Id": 9
+  },
+  {
+    "Symbol": "ivpsg",
+    "Year": "",
+    "Language": 0,
+    "Id": 10
+  },
+  {
+    "Symbol": "ivpyh",
+    "Year": "",
+    "Language": 0,
+    "Id": 134
+  },
+  {
+    "Symbol": "ivrch",
+    "Year": 2012,
+    "Language": 420,
+    "Id": 319
+  },
+  {
+    "Symbol": "ivrhp",
+    "Year": "",
+    "Language": 0,
+    "Id": 149
+  },
+  {
+    "Symbol": "ivru",
+    "Year": "",
+    "Language": 0,
+    "Id": 25
+  },
+  {
+    "Symbol": "ivsa",
+    "Year": "",
+    "Language": 0,
+    "Id": 141
+  },
+  {
+    "Symbol": "ivsy",
+    "Year": "",
+    "Language": 0,
+    "Id": 111
+  },
+  {
+    "Symbol": "ivtlv",
+    "Year": "",
+    "Language": 0,
+    "Id": 140
+  },
+  {
+    "Symbol": "ivtng",
+    "Year": "",
+    "Language": 0,
+    "Id": 17
+  },
+  {
+    "Symbol": "ivtru",
+    "Year": "",
+    "Language": 0,
+    "Id": 172
+  },
+  {
+    "Symbol": "ivtwr",
+    "Year": "",
+    "Language": 0,
+    "Id": 137
+  },
+  {
+    "Symbol": "ivun",
+    "Year": "",
+    "Language": 0,
+    "Id": 15
+  },
+  {
+    "Symbol": "ivwc",
+    "Year": "",
+    "Language": 0,
+    "Id": 383
+  },
+  {
+    "Symbol": "ivwf",
+    "Year": "",
+    "Language": 0,
+    "Id": 26
+  },
+  {
+    "Symbol": "ivwrd",
+    "Year": "",
+    "Language": 0,
+    "Id": 88
+  },
+  {
+    "Symbol": "ivwwk",
+    "Year": "",
+    "Language": 0,
+    "Id": 133
+  },
+  {
+    "Symbol": "ivwx",
+    "Year": "",
+    "Language": 0,
+    "Id": 27
+  },
+  {
+    "Symbol": "ivyf",
+    "Year": "",
+    "Language": 0,
+    "Id": 8
+  },
+  {
+    "Symbol": "ivyng",
+    "Year": "",
+    "Language": 0,
+    "Id": 139
+  },
+  {
+    "Symbol": "jcm",
+    "Year": "",
+    "Language": 0,
+    "Id": 393
+  },
+  {
+    "Symbol": "jcr",
+    "Year": "",
+    "Language": 0,
+    "Id": 732
+  },
+  {
+    "Symbol": "jd",
+    "Year": 2006,
+    "Language": 0,
+    "Id": 125
+  },
+  {
+    "Symbol": "jdp",
+    "Year": "",
+    "Language": 0,
+    "Id": 354
+  },
+  {
+    "Symbol": "je",
+    "Year": 1986,
+    "Language": 0,
+    "Id": 490
+  },
+  {
+    "Symbol": "jjs",
+    "Year": "",
+    "Language": 0,
+    "Id": 735
+  },
+  {
+    "Symbol": "jl",
+    "Year": 2014,
+    "Language": 0,
+    "Id": 66
+  },
+  {
+    "Symbol": "jlj",
+    "Year": "",
+    "Language": 0,
+    "Id": 438
+  },
+  {
+    "Symbol": "jr",
+    "Year": 2010,
+    "Language": 0,
+    "Id": 127
+  },
+  {
+    "Symbol": "jt",
+    "Year": 2000,
+    "Language": 0,
+    "Id": 491
+  },
+  {
+    "Symbol": "jv",
+    "Year": 1993,
+    "Language": 0,
+    "Id": 492
+  },
+  {
+    "Symbol": "jwb",
+    "Year": "",
+    "Language": 0,
+    "Id": 1
+  },
+  {
+    "Symbol": "jwb-080",
+    "Year": "",
+    "Language": 0,
+    "Id": 807
+  },
+  {
+    "Symbol": "jwb-081",
+    "Year": "",
+    "Language": 0,
+    "Id": 811
+  },
+  {
+    "Symbol": "jwb-082",
+    "Year": "",
+    "Language": 0,
+    "Id": 821
+  },
+  {
+    "Symbol": "jwb-083",
+    "Year": "",
+    "Language": 0,
+    "Id": 825
+  },
+  {
+    "Symbol": "jwb-084",
+    "Year": "",
+    "Language": 0,
+    "Id": 829
+  },
+  {
+    "Symbol": "jwb-085",
+    "Year": "",
+    "Language": 0,
+    "Id": 834
+  },
+  {
+    "Symbol": "jwbai",
+    "Year": "",
+    "Language": 0,
+    "Id": 93
+  },
+  {
+    "Symbol": "jwbam",
+    "Year": "",
+    "Language": 0,
+    "Id": 14
+  },
+  {
+    "Symbol": "jwban",
+    "Year": "",
+    "Language": 0,
+    "Id": 89
+  },
+  {
+    "Symbol": "jwbcov",
+    "Year": "",
+    "Language": 0,
+    "Id": 220
+  },
+  {
+    "Symbol": "jwbcov20",
+    "Year": "",
+    "Language": 0,
+    "Id": 776
+  },
+  {
+    "Symbol": "jwbcov21",
+    "Year": "",
+    "Language": 0,
+    "Id": 822
+  },
+  {
+    "Symbol": "jwbgg",
+    "Year": "",
+    "Language": 0,
+    "Id": 13
+  },
+  {
+    "Symbol": "jwbiv",
+    "Year": "",
+    "Language": 0,
+    "Id": 95
+  },
+  {
+    "Symbol": "jwbkm",
+    "Year": "",
+    "Language": 0,
+    "Id": 19
+  },
+  {
+    "Symbol": "jwbls",
+    "Year": "",
+    "Language": 0,
+    "Id": 129
+  },
+  {
+    "Symbol": "jwbmw",
+    "Year": "",
+    "Language": 0,
+    "Id": 12
+  },
+  {
+    "Symbol": "jwbnw",
+    "Year": "",
+    "Language": 0,
+    "Id": 123
+  },
+  {
+    "Symbol": "jwbon",
+    "Year": "",
+    "Language": 0,
+    "Id": 90
+  },
+  {
+    "Symbol": "jwbrad",
+    "Year": "",
+    "Language": 0,
+    "Id": 11
+  },
+  {
+    "Symbol": "jwbrd",
+    "Year": "",
+    "Language": 0,
+    "Id": 91
+  },
+  {
+    "Symbol": "jwbtor",
+    "Year": "",
+    "Language": 0,
+    "Id": 16
+  },
+  {
+    "Symbol": "jwbur",
+    "Year": "",
+    "Language": 0,
+    "Id": 92
+  },
+  {
+    "Symbol": "jwbvs",
+    "Year": "",
+    "Language": 0,
+    "Id": 94
+  },
+  {
+    "Symbol": "jy",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 124
+  },
+  {
+    "Symbol": "jyq",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 392
+  },
+  {
+    "Symbol": "k1",
+    "Year": 1995,
+    "Language": 0,
+    "Id": 710
+  },
+  {
+    "Symbol": "ka",
+    "Year": 1973,
+    "Language": 0,
+    "Id": 493
+  },
+  {
+    "Symbol": "kc",
+    "Year": 1981,
+    "Language": 0,
+    "Id": 494
+  },
+  {
+    "Symbol": "kj",
+    "Year": 1971,
+    "Language": 0,
+    "Id": 495
+  },
+  {
+    "Symbol": "kl",
+    "Year": 1995,
+    "Language": 0,
+    "Id": 496
+  },
+  {
+    "Symbol": "km",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 120
+  },
+  {
+    "Symbol": "km00",
+    "Year": 2000,
+    "Language": 0,
+    "Id": 761
+  },
+  {
+    "Symbol": "km01",
+    "Year": 2001,
+    "Language": 0,
+    "Id": 765
+  },
+  {
+    "Symbol": "km02",
+    "Year": 2002,
+    "Language": 0,
+    "Id": 762
+  },
+  {
+    "Symbol": "km03",
+    "Year": 2003,
+    "Language": 0,
+    "Id": 763
+  },
+  {
+    "Symbol": "km04",
+    "Year": 2004,
+    "Language": 0,
+    "Id": 764
+  },
+  {
+    "Symbol": "km05",
+    "Year": 2005,
+    "Language": 0,
+    "Id": 758
+  },
+  {
+    "Symbol": "km06",
+    "Year": 2006,
+    "Language": 0,
+    "Id": 787
+  },
+  {
+    "Symbol": "km07",
+    "Year": 2007,
+    "Language": 0,
+    "Id": 759
+  },
+  {
+    "Symbol": "km08",
+    "Year": 2008,
+    "Language": 0,
+    "Id": 794
+  },
+  {
+    "Symbol": "km09",
+    "Year": 2009,
+    "Language": 0,
+    "Id": 760
+  },
+  {
+    "Symbol": "km10",
+    "Year": 2010,
+    "Language": 0,
+    "Id": 781
+  },
+  {
+    "Symbol": "km11",
+    "Year": 2011,
+    "Language": 0,
+    "Id": 782
+  },
+  {
+    "Symbol": "km12",
+    "Year": 2012,
+    "Language": 0,
+    "Id": 779
+  },
+  {
+    "Symbol": "km13",
+    "Year": 2013,
+    "Language": 0,
+    "Id": 403
+  },
+  {
+    "Symbol": "km14",
+    "Year": 2014,
+    "Language": 0,
+    "Id": 778
+  },
+  {
+    "Symbol": "km15",
+    "Year": 2015,
+    "Language": 212,
+    "Id": 206
+  },
+  {
+    "Symbol": "km88",
+    "Year": 1988,
+    "Language": 0,
+    "Id": 869
+  },
+  {
+    "Symbol": "km89",
+    "Year": 1989,
+    "Language": 0,
+    "Id": 868
+  },
+  {
+    "Symbol": "km91",
+    "Year": 1991,
+    "Language": 0,
+    "Id": 773
+  },
+  {
+    "Symbol": "km92",
+    "Year": 1992,
+    "Language": 0,
+    "Id": 772
+  },
+  {
+    "Symbol": "km93",
+    "Year": 1993,
+    "Language": 0,
+    "Id": 771
+  },
+  {
+    "Symbol": "km94",
+    "Year": 1994,
+    "Language": 0,
+    "Id": 770
+  },
+  {
+    "Symbol": "km95",
+    "Year": 1995,
+    "Language": 0,
+    "Id": 774
+  },
+  {
+    "Symbol": "km96",
+    "Year": 1996,
+    "Language": 0,
+    "Id": 769
+  },
+  {
+    "Symbol": "km97",
+    "Year": 1997,
+    "Language": 0,
+    "Id": 768
+  },
+  {
+    "Symbol": "km98",
+    "Year": 1998,
+    "Language": 0,
+    "Id": 767
+  },
+  {
+    "Symbol": "km99",
+    "Year": 1999,
+    "Language": 0,
+    "Id": 766
+  },
+  {
+    "Symbol": "kn-16",
+    "Year": 1973,
+    "Language": 0,
+    "Id": 694
+  },
+  {
+    "Symbol": "kn16",
+    "Year": 1973,
+    "Language": 0,
+    "Id": 497
+  },
+  {
+    "Symbol": "kn17",
+    "Year": 1973,
+    "Language": 0,
+    "Id": 498
+  },
+  {
+    "Symbol": "kn18",
+    "Year": 1974,
+    "Language": 0,
+    "Id": 499
+  },
+  {
+    "Symbol": "kn19",
+    "Year": 1974,
+    "Language": 0,
+    "Id": 500
+  },
+  {
+    "Symbol": "kn20",
+    "Year": 1975,
+    "Language": 0,
+    "Id": 501
+  },
+  {
+    "Symbol": "kn21",
+    "Year": 1975,
+    "Language": 0,
+    "Id": 502
+  },
+  {
+    "Symbol": "kn22",
+    "Year": 1976,
+    "Language": 0,
+    "Id": 503
+  },
+  {
+    "Symbol": "kn23",
+    "Year": 1976,
+    "Language": 0,
+    "Id": 504
+  },
+  {
+    "Symbol": "kn24",
+    "Year": 1977,
+    "Language": 0,
+    "Id": 505
+  },
+  {
+    "Symbol": "kn25",
+    "Year": 1978,
+    "Language": 0,
+    "Id": 506
+  },
+  {
+    "Symbol": "kn26",
+    "Year": 1978,
+    "Language": 0,
+    "Id": 507
+  },
+  {
+    "Symbol": "kn27",
+    "Year": 1979,
+    "Language": 0,
+    "Id": 508
+  },
+  {
+    "Symbol": "kn28",
+    "Year": 1980,
+    "Language": 0,
+    "Id": 509
+  },
+  {
+    "Symbol": "kn29",
+    "Year": 1981,
+    "Language": 0,
+    "Id": 510
+  },
+  {
+    "Symbol": "kn30",
+    "Year": 1981,
+    "Language": 0,
+    "Id": 511
+  },
+  {
+    "Symbol": "kn31",
+    "Year": 1982,
+    "Language": 0,
+    "Id": 512
+  },
+  {
+    "Symbol": "kn32",
+    "Year": 1983,
+    "Language": 0,
+    "Id": 513
+  },
+  {
+    "Symbol": "kn33",
+    "Year": 1985,
+    "Language": 0,
+    "Id": 514
+  },
+  {
+    "Symbol": "kn34",
+    "Year": 1995,
+    "Language": 0,
+    "Id": 515
+  },
+  {
+    "Symbol": "kn35",
+    "Year": 1997,
+    "Language": 0,
+    "Id": 516
+  },
+  {
+    "Symbol": "kn36",
+    "Year": 2000,
+    "Language": 0,
+    "Id": 517
+  },
+  {
+    "Symbol": "kn37",
+    "Year": 2006,
+    "Language": 0,
+    "Id": 518
+  },
+  {
+    "Symbol": "kn95",
+    "Year": 1995,
+    "Language": 0,
+    "Id": 835
+  },
+  {
+    "Symbol": "kn97",
+    "Year": 1997,
+    "Language": 0,
+    "Id": 836
+  },
+  {
+    "Symbol": "kp",
+    "Year": 2004,
+    "Language": 0,
+    "Id": 519
+  },
+  {
+    "Symbol": "kr",
+    "Year": 2014,
+    "Language": 0,
+    "Id": 113
+  },
+  {
+    "Symbol": "ks10",
+    "Year": 2010,
+    "Language": 0,
+    "Id": 315
+  },
+  {
+    "Symbol": "ksl",
+    "Year": "",
+    "Language": 0,
+    "Id": 437
+  },
+  {
+    "Symbol": "ksy",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 207
+  },
+  {
+    "Symbol": "kt",
+    "Year": 2008,
+    "Language": 0,
+    "Id": 236
+  },
+  {
+    "Symbol": "ku",
+    "Year": 1983,
+    "Language": 0,
+    "Id": 520
+  },
+  {
+    "Symbol": "kyc",
+    "Year": "",
+    "Language": 0,
+    "Id": 118
+  },
+  {
+    "Symbol": "la",
+    "Year": 2001,
+    "Language": 0,
+    "Id": 323
+  },
+  {
+    "Symbol": "lc",
+    "Year": 2010,
+    "Language": 0,
+    "Id": 294
+  },
+  {
+    "Symbol": "ld",
+    "Year": 2011,
+    "Language": 0,
+    "Id": 248
+  },
+  {
+    "Symbol": "le",
+    "Year": 1982,
+    "Language": 0,
+    "Id": 521
+  },
+  {
+    "Symbol": "lf",
+    "Year": 2010,
+    "Language": 0,
+    "Id": 366
+  },
+  {
+    "Symbol": "lfb",
+    "Year": 2017,
+    "Language": 0,
+    "Id": 311
+  },
+  {
+    "Symbol": "lff",
+    "Year": 2021,
+    "Language": 0,
+    "Id": 806
+  },
+  {
+    "Symbol": "lffi",
+    "Year": 2020,
+    "Language": 0,
+    "Id": 795
+  },
+  {
+    "Symbol": "lffv",
+    "Year": "",
+    "Language": 0,
+    "Id": 790
+  },
+  {
+    "Symbol": "lfs",
+    "Year": 2021,
+    "Language": 0,
+    "Id": 828
+  },
+  {
+    "Symbol": "ll",
+    "Year": 2011,
+    "Language": 0,
+    "Id": 247
+  },
+  {
+    "Symbol": "lmd",
+    "Year": 2023,
+    "Language": 0,
+    "Id": 873
+  },
+  {
+    "Symbol": "lp",
+    "Year": 1977,
+    "Language": 0,
+    "Id": 523
+  },
+  {
+    "Symbol": "lr",
+    "Year": 2003,
+    "Language": 0,
+    "Id": 272
+  },
+  {
+    "Symbol": "lrc",
+    "Year": "",
+    "Language": 0,
+    "Id": 242
+  },
+  {
+    "Symbol": "lv",
+    "Year": 2014,
+    "Language": 0,
+    "Id": 117
+  },
+  {
+    "Symbol": "lvs",
+    "Year": 2017,
+    "Language": 0,
+    "Id": 391
+  },
+  {
+    "Symbol": "ma",
+    "Year": 1984,
+    "Language": 0,
+    "Id": 695
+  },
+  {
+    "Symbol": "mb",
+    "Year": 2013,
+    "Language": 0,
+    "Id": 524
+  },
+  {
+    "Symbol": "mi18",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 385
+  },
+  {
+    "Symbol": "mi22",
+    "Year": 2022,
+    "Language": 0,
+    "Id": 831
+  },
+  {
+    "Symbol": "mi22m",
+    "Year": 2022,
+    "Language": 0,
+    "Id": 833
+  },
+  {
+    "Symbol": "mi23",
+    "Year": 2023,
+    "Language": 0,
+    "Id": 860
+  },
+  {
+    "Symbol": "minv",
+    "Year": 2019,
+    "Language": 0,
+    "Id": 419
+  },
+  {
+    "Symbol": "minvpw",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 421
+  },
+  {
+    "Symbol": "mipw17",
+    "Year": 2017,
+    "Language": 0,
+    "Id": 334
+  },
+  {
+    "Symbol": "mipw18",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 388
+  },
+  {
+    "Symbol": "mipwsl17",
+    "Year": 2017,
+    "Language": 0,
+    "Id": 335
+  },
+  {
+    "Symbol": "ml",
+    "Year": 1975,
+    "Language": 0,
+    "Id": 525
+  },
+  {
+    "Symbol": "mn",
+    "Year": 1970,
+    "Language": 0,
+    "Id": 526
+  },
+  {
+    "Symbol": "mrt",
+    "Year": 2021,
+    "Language": 0,
+    "Id": 812
+  },
+  {
+    "Symbol": "mtw",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 791
+  },
+  {
+    "Symbol": "mwb",
+    "Year": 2016,
+    "Language": 0,
+    "Id": 218
+  },
+  {
+    "Symbol": "mwb16",
+    "Year": 2016,
+    "Language": 0,
+    "Id": 213
+  },
+  {
+    "Symbol": "mwb17",
+    "Year": 2017,
+    "Language": 0,
+    "Id": 277
+  },
+  {
+    "Symbol": "mwb18",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 371
+  },
+  {
+    "Symbol": "mwb19",
+    "Year": 2019,
+    "Language": 0,
+    "Id": 408
+  },
+  {
+    "Symbol": "mwb20",
+    "Year": 2020,
+    "Language": 0,
+    "Id": 459
+  },
+  {
+    "Symbol": "mwb21",
+    "Year": 2021,
+    "Language": 0,
+    "Id": 755
+  },
+  {
+    "Symbol": "mwb22",
+    "Year": 2022,
+    "Language": 0,
+    "Id": 819
+  },
+  {
+    "Symbol": "mwb23",
+    "Year": 2023,
+    "Language": 0,
+    "Id": 855
+  },
+  {
+    "Symbol": "mwbv",
+    "Year": "",
+    "Language": 0,
+    "Id": 235
+  },
+  {
+    "Symbol": "mwt",
+    "Year": 2013,
+    "Language": 0,
+    "Id": 121
+  },
+  {
+    "Symbol": "my",
+    "Year": 2004,
+    "Language": 0,
+    "Id": 130
+  },
+  {
+    "Symbol": "na",
+    "Year": 1984,
+    "Language": 0,
+    "Id": 527
+  },
+  {
+    "Symbol": "nc",
+    "Year": 1971,
+    "Language": 0,
+    "Id": 528
+  },
+  {
+    "Symbol": "nwt",
+    "Year": 2013,
+    "Language": 0,
+    "Id": 79
+  },
+  {
+    "Symbol": "nwtrv-atl",
+    "Year": 2014,
+    "Language": 0,
+    "Id": 203
+  },
+  {
+    "Symbol": "nwtstg",
+    "Year": 2016,
+    "Language": 0,
+    "Id": 382
+  },
+  {
+    "Symbol": "nwtsty",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 375
+  },
+  {
+    "Symbol": "nwtsv",
+    "Year": "",
+    "Language": 0,
+    "Id": 212
+  },
+  {
+    "Symbol": "od",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 211
+  },
+  {
+    "Symbol": "og",
+    "Year": 1975,
+    "Language": 0,
+    "Id": 529
+  },
+  {
+    "Symbol": "ojs",
+    "Year": "",
+    "Language": 0,
+    "Id": 360
+  },
+  {
+    "Symbol": "ol",
+    "Year": 2002,
+    "Language": 0,
+    "Id": 368
+  },
+  {
+    "Symbol": "op",
+    "Year": 1990,
+    "Language": 0,
+    "Id": 530
+  },
+  {
+    "Symbol": "osg",
+    "Year": "",
+    "Language": 0,
+    "Id": 353
+  },
+  {
+    "Symbol": "p0",
+    "Year": 1974,
+    "Language": 0,
+    "Id": 689
+  },
+  {
+    "Symbol": "pa",
+    "Year": 1958,
+    "Language": 0,
+    "Id": 830
+  },
+  {
+    "Symbol": "pc",
+    "Year": 2009,
+    "Language": 0,
+    "Id": 361
+  },
+  {
+    "Symbol": "pcr",
+    "Year": "",
+    "Language": 0,
+    "Id": 268
+  },
+  {
+    "Symbol": "pe",
+    "Year": 1989,
+    "Language": 0,
+    "Id": 531
+  },
+  {
+    "Symbol": "ph",
+    "Year": 2010,
+    "Language": 0,
+    "Id": 399
+  },
+  {
+    "Symbol": "pk",
+    "Year": "",
+    "Language": 0,
+    "Id": 2
+  },
+  {
+    "Symbol": "pkon",
+    "Year": "",
+    "Language": 0,
+    "Id": 122
+  },
+  {
+    "Symbol": "pksjj",
+    "Year": "",
+    "Language": 0,
+    "Id": 287
+  },
+  {
+    "Symbol": "pksn",
+    "Year": "",
+    "Language": 0,
+    "Id": 3
+  },
+  {
+    "Symbol": "pm",
+    "Year": 1972,
+    "Language": 0,
+    "Id": 532
+  },
+  {
+    "Symbol": "po",
+    "Year": 1974,
+    "Language": 0,
+    "Id": 533
+  },
+  {
+    "Symbol": "pr",
+    "Year": 1993,
+    "Language": 0,
+    "Id": 534
+  },
+  {
+    "Symbol": "psgsl",
+    "Year": "",
+    "Language": 0,
+    "Id": 142
+  },
+  {
+    "Symbol": "pss",
+    "Year": 2019,
+    "Language": 0,
+    "Id": 449
+  },
+  {
+    "Symbol": "pt14",
+    "Year": 2014,
+    "Language": 0,
+    "Id": 237
+  },
+  {
+    "Symbol": "re",
+    "Year": 1988,
+    "Language": 0,
+    "Id": 535
+  },
+  {
+    "Symbol": "rh",
+    "Year": 1897,
+    "Language": 0,
+    "Id": 817
+  },
+  {
+    "Symbol": "rj",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 119
+  },
+  {
+    "Symbol": "rk",
+    "Year": 2010,
+    "Language": 0,
+    "Id": 288
+  },
+  {
+    "Symbol": "rp",
+    "Year": 1990,
+    "Language": 0,
+    "Id": 536
+  },
+  {
+    "Symbol": "rpasl",
+    "Year": "",
+    "Language": 0,
+    "Id": 144
+  },
+  {
+    "Symbol": "rph",
+    "Year": 1990,
+    "Language": 0,
+    "Id": 688
+  },
+  {
+    "Symbol": "rpuv",
+    "Year": "",
+    "Language": 0,
+    "Id": 823
+  },
+  {
+    "Symbol": "rq",
+    "Year": 1996,
+    "Language": 0,
+    "Id": 537
+  },
+  {
+    "Symbol": "rql",
+    "Year": 1996,
+    "Language": 0,
+    "Id": 706
+  },
+  {
+    "Symbol": "rr",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 416
+  },
+  {
+    "Symbol": "rrv",
+    "Year": "",
+    "Language": 0,
+    "Id": 785
+  },
+  {
+    "Symbol": "rs",
+    "Year": 1989,
+    "Language": 0,
+    "Id": 538
+  },
+  {
+    "Symbol": "rsg16",
+    "Year": 2016,
+    "Language": 0,
+    "Id": 843
+  },
+  {
+    "Symbol": "rsg17",
+    "Year": 2017,
+    "Language": 0,
+    "Id": 377
+  },
+  {
+    "Symbol": "rsg18",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 401
+  },
+  {
+    "Symbol": "rsg19",
+    "Year": 2019,
+    "Language": 0,
+    "Id": 709
+  },
+  {
+    "Symbol": "rwl",
+    "Year": "",
+    "Language": 0,
+    "Id": 355
+  },
+  {
+    "Symbol": "sbi1",
+    "Year": 1878,
+    "Language": 232,
+    "Id": 325
+  },
+  {
+    "Symbol": "sbi1p",
+    "Year": 2018,
+    "Language": 564,
+    "Id": 832
+  },
+  {
+    "Symbol": "sbi2",
+    "Year": 2017,
+    "Language": 393,
+    "Id": 345
+  },
+  {
+    "Symbol": "sc",
+    "Year": 1983,
+    "Language": 0,
+    "Id": 539
+  },
+  {
+    "Symbol": "sceli",
+    "Year": 2020,
+    "Language": 0,
+    "Id": 700
+  },
+  {
+    "Symbol": "scelmp",
+    "Year": 2020,
+    "Language": 0,
+    "Id": 701
+  },
+  {
+    "Symbol": "scels",
+    "Year": 2020,
+    "Language": 0,
+    "Id": 702
+  },
+  {
+    "Symbol": "sg",
+    "Year": 1992,
+    "Language": 0,
+    "Id": 540
+  },
+  {
+    "Symbol": "sgbk",
+    "Year": 1989,
+    "Language": 0,
+    "Id": 734
+  },
+  {
+    "Symbol": "sgd",
+    "Year": 2014,
+    "Language": 0,
+    "Id": 258
+  },
+  {
+    "Symbol": "sh",
+    "Year": 1990,
+    "Language": 0,
+    "Id": 541
+  },
+  {
+    "Symbol": "si",
+    "Year": 1990,
+    "Language": 0,
+    "Id": 542
+  },
+  {
+    "Symbol": "sj",
+    "Year": 1983,
+    "Language": 0,
+    "Id": 543
+  },
+  {
+    "Symbol": "sjj",
+    "Year": 2016,
+    "Language": 0,
+    "Id": 280
+  },
+  {
+    "Symbol": "sjjc",
+    "Year": "",
+    "Language": 0,
+    "Id": 369
+  },
+  {
+    "Symbol": "sjji",
+    "Year": "",
+    "Language": 0,
+    "Id": 380
+  },
+  {
+    "Symbol": "sjjm",
+    "Year": "",
+    "Language": 0,
+    "Id": 283
+  },
+  {
+    "Symbol": "sjjyls",
+    "Year": 2017,
+    "Language": 0,
+    "Id": 356
+  },
+  {
+    "Symbol": "sl",
+    "Year": 1975,
+    "Language": 0,
+    "Id": 544
+  },
+  {
+    "Symbol": "sn",
+    "Year": 2014,
+    "Language": 0,
+    "Id": 75
+  },
+  {
+    "Symbol": "snnw",
+    "Year": "",
+    "Language": 0,
+    "Id": 28
+  },
+  {
+    "Symbol": "snv",
+    "Year": "",
+    "Language": 0,
+    "Id": 282
+  },
+  {
+    "Symbol": "sny55",
+    "Year": 2009,
+    "Language": 404,
+    "Id": 128
+  },
+  {
+    "Symbol": "sp",
+    "Year": 2005,
+    "Language": 0,
+    "Id": 320
+  },
+  {
+    "Symbol": "su",
+    "Year": 1984,
+    "Language": 0,
+    "Id": 546
+  },
+  {
+    "Symbol": "sv",
+    "Year": 1970,
+    "Language": 0,
+    "Id": 547
+  },
+  {
+    "Symbol": "syr15",
+    "Year": 2016,
+    "Language": 0,
+    "Id": 346
+  },
+  {
+    "Symbol": "syr16",
+    "Year": 2017,
+    "Language": 0,
+    "Id": 313
+  },
+  {
+    "Symbol": "syr17",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 381
+  },
+  {
+    "Symbol": "syr18",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 424
+  },
+  {
+    "Symbol": "syr19",
+    "Year": 2019,
+    "Language": 0,
+    "Id": 685
+  },
+  {
+    "Symbol": "syr20",
+    "Year": 2020,
+    "Language": 0,
+    "Id": 786
+  },
+  {
+    "Symbol": "syr21",
+    "Year": 2021,
+    "Language": 0,
+    "Id": 840
+  },
+  {
+    "Symbol": "syr22",
+    "Year": 2023,
+    "Language": 0,
+    "Id": 862
+  },
+  {
+    "Symbol": "talk",
+    "Year": 2019,
+    "Language": 0,
+    "Id": 461
+  },
+  {
+    "Symbol": "td",
+    "Year": 1997,
+    "Language": 0,
+    "Id": 565
+  },
+  {
+    "Symbol": "te",
+    "Year": 1971,
+    "Language": 0,
+    "Id": 566
+  },
+  {
+    "Symbol": "th",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 406
+  },
+  {
+    "Symbol": "thv",
+    "Year": "",
+    "Language": 0,
+    "Id": 422
+  },
+  {
+    "Symbol": "ti",
+    "Year": 1989,
+    "Language": 0,
+    "Id": 567
+  },
+  {
+    "Symbol": "tiy",
+    "Year": "",
+    "Language": 0,
+    "Id": 244
+  },
+  {
+    "Symbol": "tp",
+    "Year": 1986,
+    "Language": 0,
+    "Id": 569
+  },
+  {
+    "Symbol": "tp73",
+    "Year": 1973,
+    "Language": 0,
+    "Id": 568
+  },
+  {
+    "Symbol": "tr",
+    "Year": 1981,
+    "Language": 0,
+    "Id": 570
+  },
+  {
+    "Symbol": "ts",
+    "Year": 1974,
+    "Language": 0,
+    "Id": 571
+  },
+  {
+    "Symbol": "us",
+    "Year": 1978,
+    "Language": 0,
+    "Id": 572
+  },
+  {
+    "Symbol": "uw",
+    "Year": 1983,
+    "Language": 0,
+    "Id": 573
+  },
+  {
+    "Symbol": "vi",
+    "Year": 1986,
+    "Language": 0,
+    "Id": 574
+  },
+  {
+    "Symbol": "vrg",
+    "Year": 2020,
+    "Language": 0,
+    "Id": 708
+  },
+  {
+    "Symbol": "w00",
+    "Year": 2000,
+    "Language": 0,
+    "Id": 241
+  },
+  {
+    "Symbol": "w01",
+    "Year": 2001,
+    "Language": 0,
+    "Id": 240
+  },
+  {
+    "Symbol": "w02",
+    "Year": 2002,
+    "Language": 0,
+    "Id": 239
+  },
+  {
+    "Symbol": "w03",
+    "Year": 2003,
+    "Language": 0,
+    "Id": 238
+  },
+  {
+    "Symbol": "w04",
+    "Year": 2004,
+    "Language": 0,
+    "Id": 233
+  },
+  {
+    "Symbol": "w05",
+    "Year": 2005,
+    "Language": 0,
+    "Id": 234
+  },
+  {
+    "Symbol": "w06",
+    "Year": 2006,
+    "Language": 0,
+    "Id": 232
+  },
+  {
+    "Symbol": "w07",
+    "Year": 2007,
+    "Language": 0,
+    "Id": 231
+  },
+  {
+    "Symbol": "w08",
+    "Year": 2008,
+    "Language": 0,
+    "Id": 229
+  },
+  {
+    "Symbol": "w09",
+    "Year": 2009,
+    "Language": 0,
+    "Id": 227
+  },
+  {
+    "Symbol": "w10",
+    "Year": 2010,
+    "Language": 0,
+    "Id": 226
+  },
+  {
+    "Symbol": "w11",
+    "Year": 2011,
+    "Language": 0,
+    "Id": 225
+  },
+  {
+    "Symbol": "w12",
+    "Year": 2012,
+    "Language": 0,
+    "Id": 223
+  },
+  {
+    "Symbol": "w124",
+    "Year": 2012,
+    "Language": 0,
+    "Id": 841
+  },
+  {
+    "Symbol": "w13",
+    "Year": 2013,
+    "Language": 0,
+    "Id": 202
+  },
+  {
+    "Symbol": "w14",
+    "Year": 2014,
+    "Language": 0,
+    "Id": 201
+  },
+  {
+    "Symbol": "w15",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 114
+  },
+  {
+    "Symbol": "w16",
+    "Year": 2016,
+    "Language": 0,
+    "Id": 209
+  },
+  {
+    "Symbol": "w17",
+    "Year": 2017,
+    "Language": 0,
+    "Id": 278
+  },
+  {
+    "Symbol": "w18",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 370
+  },
+  {
+    "Symbol": "w19",
+    "Year": 2019,
+    "Language": 0,
+    "Id": 407
+  },
+  {
+    "Symbol": "w20",
+    "Year": 2020,
+    "Language": 0,
+    "Id": 451
+  },
+  {
+    "Symbol": "w21",
+    "Year": 2021,
+    "Language": 0,
+    "Id": 780
+  },
+  {
+    "Symbol": "w22",
+    "Year": 2022,
+    "Language": 0,
+    "Id": 826
+  },
+  {
+    "Symbol": "w23",
+    "Year": 2023,
+    "Language": 0,
+    "Id": 858
+  },
+  {
+    "Symbol": "w50",
+    "Year": 1950,
+    "Language": 0,
+    "Id": 712
+  },
+  {
+    "Symbol": "w51",
+    "Year": 1951,
+    "Language": 0,
+    "Id": 713
+  },
+  {
+    "Symbol": "w52",
+    "Year": 1952,
+    "Language": 0,
+    "Id": 714
+  },
+  {
+    "Symbol": "w53",
+    "Year": 1953,
+    "Language": 0,
+    "Id": 715
+  },
+  {
+    "Symbol": "w54",
+    "Year": 1954,
+    "Language": 0,
+    "Id": 716
+  },
+  {
+    "Symbol": "w55",
+    "Year": 1955,
+    "Language": 0,
+    "Id": 717
+  },
+  {
+    "Symbol": "w56",
+    "Year": 1956,
+    "Language": 0,
+    "Id": 718
+  },
+  {
+    "Symbol": "w57",
+    "Year": 1957,
+    "Language": 0,
+    "Id": 719
+  },
+  {
+    "Symbol": "w58",
+    "Year": 1958,
+    "Language": 0,
+    "Id": 720
+  },
+  {
+    "Symbol": "w59",
+    "Year": 1959,
+    "Language": 0,
+    "Id": 721
+  },
+  {
+    "Symbol": "w60",
+    "Year": 1960,
+    "Language": 0,
+    "Id": 722
+  },
+  {
+    "Symbol": "w61",
+    "Year": 1961,
+    "Language": 0,
+    "Id": 723
+  },
+  {
+    "Symbol": "w62",
+    "Year": 1962,
+    "Language": 0,
+    "Id": 724
+  },
+  {
+    "Symbol": "w63",
+    "Year": 1963,
+    "Language": 0,
+    "Id": 725
+  },
+  {
+    "Symbol": "w64",
+    "Year": 1964,
+    "Language": 0,
+    "Id": 726
+  },
+  {
+    "Symbol": "w65",
+    "Year": 1965,
+    "Language": 0,
+    "Id": 727
+  },
+  {
+    "Symbol": "w66",
+    "Year": 1966,
+    "Language": 0,
+    "Id": 728
+  },
+  {
+    "Symbol": "w67",
+    "Year": 1967,
+    "Language": 0,
+    "Id": 729
+  },
+  {
+    "Symbol": "w68",
+    "Year": 1968,
+    "Language": 0,
+    "Id": 730
+  },
+  {
+    "Symbol": "w69",
+    "Year": 1969,
+    "Language": 0,
+    "Id": 731
+  },
+  {
+    "Symbol": "w70",
+    "Year": 1970,
+    "Language": 0,
+    "Id": 655
+  },
+  {
+    "Symbol": "w71",
+    "Year": 1971,
+    "Language": 0,
+    "Id": 656
+  },
+  {
+    "Symbol": "w72",
+    "Year": 1972,
+    "Language": 0,
+    "Id": 657
+  },
+  {
+    "Symbol": "w73",
+    "Year": 1973,
+    "Language": 0,
+    "Id": 658
+  },
+  {
+    "Symbol": "w74",
+    "Year": 1974,
+    "Language": 0,
+    "Id": 659
+  },
+  {
+    "Symbol": "w75",
+    "Year": 1975,
+    "Language": 0,
+    "Id": 660
+  },
+  {
+    "Symbol": "w76",
+    "Year": 1976,
+    "Language": 0,
+    "Id": 661
+  },
+  {
+    "Symbol": "w77",
+    "Year": 1977,
+    "Language": 0,
+    "Id": 662
+  },
+  {
+    "Symbol": "w78",
+    "Year": 1978,
+    "Language": 0,
+    "Id": 663
+  },
+  {
+    "Symbol": "w79",
+    "Year": 1979,
+    "Language": 0,
+    "Id": 664
+  },
+  {
+    "Symbol": "w80",
+    "Year": 1980,
+    "Language": 0,
+    "Id": 665
+  },
+  {
+    "Symbol": "w81",
+    "Year": 1981,
+    "Language": 0,
+    "Id": 666
+  },
+  {
+    "Symbol": "w82",
+    "Year": 1982,
+    "Language": 0,
+    "Id": 667
+  },
+  {
+    "Symbol": "w83",
+    "Year": 1983,
+    "Language": 0,
+    "Id": 668
+  },
+  {
+    "Symbol": "w84",
+    "Year": 1984,
+    "Language": 0,
+    "Id": 669
+  },
+  {
+    "Symbol": "w85",
+    "Year": 1985,
+    "Language": 0,
+    "Id": 670
+  },
+  {
+    "Symbol": "w86",
+    "Year": 1986,
+    "Language": 0,
+    "Id": 671
+  },
+  {
+    "Symbol": "w87",
+    "Year": 1987,
+    "Language": 0,
+    "Id": 672
+  },
+  {
+    "Symbol": "w88",
+    "Year": 1988,
+    "Language": 0,
+    "Id": 673
+  },
+  {
+    "Symbol": "w89",
+    "Year": 1989,
+    "Language": 0,
+    "Id": 674
+  },
+  {
+    "Symbol": "w90",
+    "Year": 1990,
+    "Language": 0,
+    "Id": 675
+  },
+  {
+    "Symbol": "w91",
+    "Year": 1991,
+    "Language": 0,
+    "Id": 676
+  },
+  {
+    "Symbol": "w92",
+    "Year": 1992,
+    "Language": 0,
+    "Id": 677
+  },
+  {
+    "Symbol": "w93",
+    "Year": 1993,
+    "Language": 0,
+    "Id": 678
+  },
+  {
+    "Symbol": "w94",
+    "Year": 1994,
+    "Language": 0,
+    "Id": 679
+  },
+  {
+    "Symbol": "w95",
+    "Year": 1995,
+    "Language": 0,
+    "Id": 680
+  },
+  {
+    "Symbol": "w96",
+    "Year": 1996,
+    "Language": 0,
+    "Id": 681
+  },
+  {
+    "Symbol": "w97",
+    "Year": 1997,
+    "Language": 0,
+    "Id": 682
+  },
+  {
+    "Symbol": "w98",
+    "Year": 1998,
+    "Language": 0,
+    "Id": 683
+  },
+  {
+    "Symbol": "w99",
+    "Year": 1999,
+    "Language": 0,
+    "Id": 684
+  },
+  {
+    "Symbol": "wNP",
+    "Year": 2007,
+    "Language": 0,
+    "Id": 853
+  },
+  {
+    "Symbol": "we",
+    "Year": 2005,
+    "Language": 0,
+    "Id": 321
+  },
+  {
+    "Symbol": "wfg",
+    "Year": 2022,
+    "Language": 0,
+    "Id": 856
+  },
+  {
+    "Symbol": "wfssl",
+    "Year": "",
+    "Language": 0,
+    "Id": 143
+  },
+  {
+    "Symbol": "whbs",
+    "Year": "",
+    "Language": 0,
+    "Id": 308
+  },
+  {
+    "Symbol": "whkh",
+    "Year": "",
+    "Language": 0,
+    "Id": 306
+  },
+  {
+    "Symbol": "wi",
+    "Year": 1992,
+    "Language": 0,
+    "Id": 396
+  },
+  {
+    "Symbol": "wj",
+    "Year": 1993,
+    "Language": 0,
+    "Id": 455
+  },
+  {
+    "Symbol": "wmt",
+    "Year": "",
+    "Language": 0,
+    "Id": 445
+  },
+  {
+    "Symbol": "wp04",
+    "Year": 2004,
+    "Language": 0,
+    "Id": 837
+  },
+  {
+    "Symbol": "wp08",
+    "Year": 2008,
+    "Language": 0,
+    "Id": 804
+  },
+  {
+    "Symbol": "wp09",
+    "Year": 2009,
+    "Language": 0,
+    "Id": 799
+  },
+  {
+    "Symbol": "wp10",
+    "Year": 2010,
+    "Language": 0,
+    "Id": 805
+  },
+  {
+    "Symbol": "wp11",
+    "Year": 2011,
+    "Language": 0,
+    "Id": 800
+  },
+  {
+    "Symbol": "wp12",
+    "Year": 2012,
+    "Language": 296,
+    "Id": 379
+  },
+  {
+    "Symbol": "wp13",
+    "Year": 2013,
+    "Language": 0,
+    "Id": 792
+  },
+  {
+    "Symbol": "wp14",
+    "Year": 2014,
+    "Language": 0,
+    "Id": 796
+  },
+  {
+    "Symbol": "wp15",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 757
+  },
+  {
+    "Symbol": "wp16",
+    "Year": 2016,
+    "Language": 0,
+    "Id": 214
+  },
+  {
+    "Symbol": "wp17",
+    "Year": 2017,
+    "Language": 0,
+    "Id": 274
+  },
+  {
+    "Symbol": "wp18",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 374
+  },
+  {
+    "Symbol": "wp19",
+    "Year": 2019,
+    "Language": 0,
+    "Id": 405
+  },
+  {
+    "Symbol": "wp20",
+    "Year": 2020,
+    "Language": 0,
+    "Id": 448
+  },
+  {
+    "Symbol": "wp2011",
+    "Year": 2011,
+    "Language": 0,
+    "Id": 816
+  },
+  {
+    "Symbol": "wp21",
+    "Year": 2021,
+    "Language": 0,
+    "Id": 746
+  },
+  {
+    "Symbol": "wp22",
+    "Year": 2022,
+    "Language": 0,
+    "Id": 838
+  },
+  {
+    "Symbol": "wp23",
+    "Year": 2023,
+    "Language": 0,
+    "Id": 861
+  },
+  {
+    "Symbol": "wpNP",
+    "Year": 2011,
+    "Language": 0,
+    "Id": 820
+  },
+  {
+    "Symbol": "wqu18",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 423
+  },
+  {
+    "Symbol": "ws",
+    "Year": 1986,
+    "Language": 0,
+    "Id": 575
+  },
+  {
+    "Symbol": "ws15",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 199
+  },
+  {
+    "Symbol": "ws16",
+    "Year": 2016,
+    "Language": 0,
+    "Id": 246
+  },
+  {
+    "Symbol": "ws17",
+    "Year": 2017,
+    "Language": 0,
+    "Id": 279
+  },
+  {
+    "Symbol": "ws18",
+    "Year": 2018,
+    "Language": 0,
+    "Id": 372
+  },
+  {
+    "Symbol": "wsb",
+    "Year": "",
+    "Language": 0,
+    "Id": 307
+  },
+  {
+    "Symbol": "wt",
+    "Year": 2002,
+    "Language": 0,
+    "Id": 576
+  },
+  {
+    "Symbol": "wxdsl",
+    "Year": "",
+    "Language": 0,
+    "Id": 145
+  },
+  {
+    "Symbol": "wys",
+    "Year": "",
+    "Language": 0,
+    "Id": 827
+  },
+  {
+    "Symbol": "yb",
+    "Year": 2017,
+    "Language": 0,
+    "Id": 324
+  },
+  {
+    "Symbol": "yb00",
+    "Year": 2000,
+    "Language": 0,
+    "Id": 582
+  },
+  {
+    "Symbol": "yb01",
+    "Year": 2001,
+    "Language": 0,
+    "Id": 583
+  },
+  {
+    "Symbol": "yb02",
+    "Year": 2002,
+    "Language": 0,
+    "Id": 584
+  },
+  {
+    "Symbol": "yb03",
+    "Year": 2003,
+    "Language": 0,
+    "Id": 585
+  },
+  {
+    "Symbol": "yb04",
+    "Year": 2004,
+    "Language": 0,
+    "Id": 586
+  },
+  {
+    "Symbol": "yb05",
+    "Year": 2005,
+    "Language": 0,
+    "Id": 587
+  },
+  {
+    "Symbol": "yb06",
+    "Year": 2006,
+    "Language": 0,
+    "Id": 588
+  },
+  {
+    "Symbol": "yb07",
+    "Year": 2007,
+    "Language": 0,
+    "Id": 589
+  },
+  {
+    "Symbol": "yb08",
+    "Year": 2008,
+    "Language": 0,
+    "Id": 590
+  },
+  {
+    "Symbol": "yb09",
+    "Year": 2009,
+    "Language": 0,
+    "Id": 591
+  },
+  {
+    "Symbol": "yb10",
+    "Year": 2010,
+    "Language": 0,
+    "Id": 592
+  },
+  {
+    "Symbol": "yb11",
+    "Year": 2011,
+    "Language": 0,
+    "Id": 593
+  },
+  {
+    "Symbol": "yb12",
+    "Year": 2012,
+    "Language": 0,
+    "Id": 594
+  },
+  {
+    "Symbol": "yb13",
+    "Year": 2013,
+    "Language": 0,
+    "Id": 595
+  },
+  {
+    "Symbol": "yb14",
+    "Year": 2014,
+    "Language": 0,
+    "Id": 76
+  },
+  {
+    "Symbol": "yb15",
+    "Year": 2015,
+    "Language": 0,
+    "Id": 97
+  },
+  {
+    "Symbol": "yb16",
+    "Year": 2016,
+    "Language": 0,
+    "Id": 222
+  },
+  {
+    "Symbol": "yb17",
+    "Year": 2017,
+    "Language": 0,
+    "Id": 300
+  },
+  {
+    "Symbol": "yb70",
+    "Year": 1970,
+    "Language": 0,
+    "Id": 596
+  },
+  {
+    "Symbol": "yb71",
+    "Year": 1971,
+    "Language": 0,
+    "Id": 597
+  },
+  {
+    "Symbol": "yb72",
+    "Year": 1972,
+    "Language": 0,
+    "Id": 598
+  },
+  {
+    "Symbol": "yb73",
+    "Year": 1973,
+    "Language": 0,
+    "Id": 599
+  },
+  {
+    "Symbol": "yb74",
+    "Year": 1974,
+    "Language": 0,
+    "Id": 600
+  },
+  {
+    "Symbol": "yb75",
+    "Year": 1975,
+    "Language": 0,
+    "Id": 601
+  },
+  {
+    "Symbol": "yb76",
+    "Year": 1976,
+    "Language": 0,
+    "Id": 602
+  },
+  {
+    "Symbol": "yb77",
+    "Year": 1977,
+    "Language": 0,
+    "Id": 603
+  },
+  {
+    "Symbol": "yb78",
+    "Year": 1978,
+    "Language": 0,
+    "Id": 604
+  },
+  {
+    "Symbol": "yb79",
+    "Year": 1979,
+    "Language": 0,
+    "Id": 605
+  },
+  {
+    "Symbol": "yb80",
+    "Year": 1980,
+    "Language": 0,
+    "Id": 606
+  },
+  {
+    "Symbol": "yb81",
+    "Year": 1981,
+    "Language": 0,
+    "Id": 607
+  },
+  {
+    "Symbol": "yb82",
+    "Year": 1982,
+    "Language": 0,
+    "Id": 608
+  },
+  {
+    "Symbol": "yb83",
+    "Year": 1983,
+    "Language": 0,
+    "Id": 609
+  },
+  {
+    "Symbol": "yb84",
+    "Year": 1984,
+    "Language": 0,
+    "Id": 610
+  },
+  {
+    "Symbol": "yb85",
+    "Year": 1985,
+    "Language": 0,
+    "Id": 611
+  },
+  {
+    "Symbol": "yb86",
+    "Year": 1986,
+    "Language": 0,
+    "Id": 612
+  },
+  {
+    "Symbol": "yb87",
+    "Year": 1987,
+    "Language": 0,
+    "Id": 613
+  },
+  {
+    "Symbol": "yb88",
+    "Year": 1988,
+    "Language": 0,
+    "Id": 614
+  },
+  {
+    "Symbol": "yb89",
+    "Year": 1989,
+    "Language": 0,
+    "Id": 615
+  },
+  {
+    "Symbol": "yb90",
+    "Year": 1990,
+    "Language": 0,
+    "Id": 616
+  },
+  {
+    "Symbol": "yb91",
+    "Year": 1991,
+    "Language": 0,
+    "Id": 617
+  },
+  {
+    "Symbol": "yb92",
+    "Year": 1992,
+    "Language": 0,
+    "Id": 618
+  },
+  {
+    "Symbol": "yb92, yb94",
+    "Year": 1992,
+    "Language": 0,
+    "Id": 852
+  },
+  {
+    "Symbol": "yb93",
+    "Year": 1993,
+    "Language": 0,
+    "Id": 619
+  },
+  {
+    "Symbol": "yb94",
+    "Year": 1994,
+    "Language": 0,
+    "Id": 620
+  },
+  {
+    "Symbol": "yb95",
+    "Year": 1995,
+    "Language": 0,
+    "Id": 621
+  },
+  {
+    "Symbol": "yb96",
+    "Year": 1996,
+    "Language": 0,
+    "Id": 622
+  },
+  {
+    "Symbol": "yb97",
+    "Year": 1997,
+    "Language": 0,
+    "Id": 623
+  },
+  {
+    "Symbol": "yb98",
+    "Year": 1998,
+    "Language": 0,
+    "Id": 624
+  },
+  {
+    "Symbol": "yb99",
+    "Year": 1999,
+    "Language": 0,
+    "Id": 625
+  },
+  {
+    "Symbol": "ybgb16",
+    "Year": 2016,
+    "Language": 0,
+    "Id": 347
+  },
+  {
+    "Symbol": "ybgb17",
+    "Year": 2017,
+    "Language": 0,
+    "Id": 312
+  },
+  {
+    "Symbol": "yc",
+    "Year": 2014,
+    "Language": 0,
+    "Id": 98
+  },
+  {
+    "Symbol": "yi",
+    "Year": 2002,
+    "Language": 0,
+    "Id": 577
+  },
+  {
+    "Symbol": "yp",
+    "Year": 1989,
+    "Language": 0,
+    "Id": 798
+  },
+  {
+    "Symbol": "yp1",
+    "Year": 2011,
+    "Language": 0,
+    "Id": 578
+  },
+  {
+    "Symbol": "yp2",
+    "Year": 2008,
+    "Language": 0,
+    "Id": 579
+  },
+  {
+    "Symbol": "ypq",
+    "Year": 2016,
+    "Language": 0,
+    "Id": 228
+  },
+  {
+    "Symbol": "yy",
+    "Year": 1976,
+    "Language": 0,
+    "Id": 580
+  },
+  {
+    "Symbol": "be",
+    "Year": 2002,
+    "Language": 0,
+    "Id": 245
+  },
+  {
+    "Symbol": "gf",
+    "Year": 2000,
+    "Language": 0,
+    "Id": 359
+  },
+  {
+    "Symbol": "jr",
+    "Year": 2010,
+    "Language": 0,
+    "Id": 349
+  }
+]

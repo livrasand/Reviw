@@ -1,1 +1,40 @@
-{"platforms": ["*"], "url": "https://github.com/livrasand/Reviw", "sublime_text": ">=3000", "description": "Reviw: diseñado para crear archivos JWPUB", "dependencies": [], "version": "V1"}
+{
+    "id": "io.github.livrasand.reviw",
+    "name": "Reviw",
+    "description": "Reviw: diseñado para crear archivos JWPUB",
+    "version": "1.0.0",
+    "author": "Livrädo Sandoval",
+    "email": "livrasand@outlook.com",
+    "website": "https://livrasand.github.io",
+    "repository": "https://github.com/livrasand/Reviw",
+    "license": "Licencia de tu elección (p. ej., MIT, GPL)",
+    "min_sublime_text": "3000",
+    "max_sublime_text": "4100",
+    "platforms": ["*"],
+    "releases": [
+	    {
+	        "sublime_text": ">=4000",
+	        "platforms": {
+	            "windows": true,
+	            "osx": true,
+	            "linux": true
+	        },
+	        "version": "1.0.0",
+	        "date": "2023-08-27",
+	        "url": "https://github.com/livrasand/Reviw/releases/download/v1.0.0/Reviw.sublime-package",
+	        "description": "Funcionalidad básica implementada"
+	    },
+	    {
+	        "sublime_text": ">=4000",
+	        "platforms": {
+	            "windows": true,
+	            "osx": true,
+	            "linux": true
+	        },
+	        "version": "1.1.0",
+	        "date": "2023-09-17",
+	        "url": "https://github.com/livrasand/Reviw/releases/download/v1.1.0/Reviw.sublime-package",
+	        "description": "Uniendo poder y simplicidad en un solo lugar"
+	    }
+    ]
+}
