@@ -1,9 +1,0 @@
-[core]
-	repositoryformatversion = 0
-	filemode = false
-	bare = true
-	ignorecase = true
-[remote "origin"]
-	url = C:/Users/livra/Reviw/.
-	fetch = +refs/*:refs/*
-	mirror = true
