@@ -26,17 +26,6 @@ Aprende a crear tu propio JWPUB en nuestra [wiki](https://github.com/livrasand/R
 
 Si es principiante, puede comenzar por [Getting started](https://github.com/livrasand/Reviw/wiki/Getting-started).
 
-### ⚠️ ¡Importante anuncio sobre "Reviw in Action"!
-En las próximas semanas, será lanzado un eBook titulado **"Reviw in Action"**. Una guía práctica y envolvente que promete llevarte a un emocionante viaje a través del mundo de Reviw, el lenguaje de marcado de código abierto diseñado para simplificar la creación de documentos y el desarrollo de archivos JWPUB.
-
-Es importante aclarar que **"Reviw in Action"** es un eBook creado por un editor tercero, independiente del proyecto Reviw. Aunque gran parte del contenido de este eBook se encuentra disponible de forma gratuita en la [wiki](https://github.com/livrasand/Reviw/wiki) del proyecto Reviw, el editor ha organizado y estructurado la información para brindar una experiencia más envolvente a los lectores.
-
-Es relevante destacar que **"Reviw in Action"** tiene un costo de $29 dólares debido a su naturaleza independiente. En cuanto a la cuestión de las donaciones, quiero aclarar que mi política personal es **no aceptar donaciones directas para Reviw**. En su lugar, siempre he alentado a aquellos que desean contribuir financieramente a considerar otras opciones. Es importante destacar que el autor tercero e independiente que creó **"Reviw in Action"** tomó la decisión de destinar un porcentaje de sus ganancias a la organización [Kingdom Hall Attendant](https://github.com/livrasand/Kingdom-Hall-Attendant) como muestra de apoyo y solidaridad. Esta elección es completamente independiente y no está relacionada con mis políticas personales ni con el proyecto Reviw en sí.
-
-Queremos subrayar que, aunque **"Reviw in Action"** puede ser una valiosa fuente de información para aquellos que buscan profundizar en el desarrollo de JWPUB con Reviw, no respaldamos ni promovemos su adquisición. La mayoría de la información que contiene está disponible de manera **gratuita** en la [wiki](https://github.com/livrasand/Reviw/wiki) del proyecto Reviw, y recomendamos encarecidamente consultar esta fuente si estás comenzando con Reviw o si tu objetivo es crear un único archivo JWPUB.
-
-Es importante para nosotros aclarar que el proyecto Reviw es de código abierto y su objetivo principal es proporcionar una herramienta útil para la comunidad sin fines de lucro. El costo de **"Reviw in Action"** es independiente del proyecto Reviw y *no representa una ganancia para el proyecto en sí*.
-
 ## Instalación con Package Control
 Instala el empaquetado de Reviw para Sublime Text, para ello ejecuta Command Palette: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>.
 
