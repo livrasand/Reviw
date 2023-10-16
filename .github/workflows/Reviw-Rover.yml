@@ -10,6 +10,15 @@ jobs:
     steps:
       - name: Clonar repositorio
         uses: actions/checkout@v2
+        
+      - name: Visitar repositorio del autor
+        run: |
+          git clone "${{ github.event.pull_request.head.repo.clone_url }}"
+      
+      - name: Obtener el archivo JSON del repositorio del autor
+        run: |
+          # Copiar el archivo JSON desde el repositorio clonado
+          cp -r <ruta del archivo JSON en el repositorio del usuario> publications.json
 
       - name: Extraer información de publications.js
         run: |
@@ -28,10 +37,6 @@ jobs:
             "year": "${year}"
           }
           ```" > publications.js
-
-      - name: Visitar repositorio del autor
-        run: |
-          git clone "${{ github.event.pull_request.head.repo.clone_url }}"
 
       - name: Crear archivo ZIP
         run: |
