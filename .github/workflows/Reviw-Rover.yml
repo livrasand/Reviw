@@ -22,14 +22,13 @@ jobs:
 
       - name: Extraer información de publications.js
         run: |
-          repositoryURL=$(jq -e -r '.repositoryURL' publications.json)
           language=$(jq -e -r '.language' publications.json)
           symbol=$(jq -e -r '.symbol' publications.json)
           year=$(jq -e -r '.year' publications.json)
           
           echo "```
           {
-            "repositoryURL": "${{repositoryURL}}",
+            "repositoryURL": "${{ github.event.pull_request.head.repo.html_url }}",
             "branch": "${{ github.event.pull_request.head.ref }}",
             "author": "${{ github.event.pull_request.head.user.login }}"
             "language": "${language}",
