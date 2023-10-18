@@ -12,6 +12,23 @@ Estoy dispuesto a colaborar de manera específica con aquellos que deseen contri
 
 Además, es importante tener en cuenta que cualquier colaboración de este tipo **no cuenta con el respaldo de Reviw ni de un servidor, y desalentamos a los usuarios de Reviw a adquirir o participar en proyectos que busquen beneficios económicos a costa de la comunidad Reviw**.
 
+## ¿Cómo funciona?
+Reviw es un lenguaje que empodera a los desarrolladores de JWPUB, simplificando la escritura de código HTML. Con Reviw, podrás crear expresiones (abreviaturas) de manera similar a una conversación y convertirlas en fragmentos de código con solo presionar una tecla. Por ejemplo, esta abreviatura:
+
+```html
+crear>copyright
+```
+
+...se expandirá en:
+
+```html
+<div class="copyrightInfo">
+   <p id="p$1" data-pid="$1" class="si">Impresión de abril de&nbsp;2023</p>
+   <p id="p$2" data-pid="$2" class="si">© 2021 WATCH TOWER BIBLE AND TRACT SOCIETY OF PENNSYLVANIA</p>
+</div>
+```
+
+
 ## 💕 Contribuciones
 
 ¡Agradecemos tu interés en contribuir al proyecto Reviw! Si deseas hacer contribuciones, por favor, lee nuestra [guía de contribución](CONTRIBUTING.md) para obtener más detalles sobre cómo puedes ayudar en diferentes aspectos del proyecto.
