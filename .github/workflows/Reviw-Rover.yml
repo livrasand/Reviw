@@ -8,12 +8,11 @@ on:
 
 jobs:
   create-zip:
+    if: contains(github.event.issue.labels.*.name, 'Nuevo JWPUB')  
     runs-on: ubuntu-latest
     steps:
       - name: Verificar etiqueta
-        if: contains(github.event.issue.labels.*.name, 'Nuevo JWPUB')
         run: |
-          # Comentario inicial en la conversación del Issue para solicitar información
           curl -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
           -H "Accept: application/vnd.github.v3+json" \
           https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/comments \
@@ -46,20 +45,36 @@ jobs:
           symbol=$(jq -r '.comment.body' ${{ steps.wait-for-user-response.outputs.response-file }} | grep -oP 'symbol:\s*\K[^\n]*')
           year=$(jq -r '.comment.body' ${{ steps.wait-for-user-response.outputs.response-file }} | grep -oP 'year:\s*\K[^\n]*')
 
-          # Descargar los archivos desde repositoryURL y crear el archivo ZIP
-          # Aquí debes implementar la lógica para descargar y crear el ZIP
+      - name: Descargar todos los archivos del repositorio y crear ZIP
+        run: |
+          git clone $repositoryURL repo
+      
+          repo_name=$(basename $repositoryURL)
+          
+          cd repo
+          git archive -o temp-files/repo_files.zip HEAD
+        env:
+          repositoryURL: ${{ steps.wait-for-user-response.outputs.repositoryURL }}
 
-          # Agregar el archivo ZIP a la conversación del Issue
-          # Aquí debes implementar la lógica para agregar el archivo ZIP a la conversación
-
-          # Marcar el Issue como resuelto
-          curl -X PATCH -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-          -H "Accept: application/vnd.github.v3+json" \
-          https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }} \
-          -d '{
-            "state": "closed"
-          }'
-
-      - name: Habilitar registros detallados
-        run: echo "::set-env name=ACTIONS_RUNNER_DEBUG::true"
-
+      - name: Agregar el archivo ZIP a la conversación del Issue
+        run: |      
+          # Subir el archivo ZIP a GitHub
+          response=$(curl -X POST \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Content-Type: application/zip" \
+            --data-binary @repo_files.zip \
+            "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/attachments")
+      
+          # Extraer la URL del archivo cargado
+          attachment_url=$(echo "$response" | jq -r .url)
+      
+          # Agregar un comentario con el enlace al archivo
+          comment="Aquí tienes el archivo ZIP: $attachment_url"
+      
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/comments" \
+            -d "{
+              \"body\": \"$comment\"
+            }"
