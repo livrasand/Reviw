@@ -20,11 +20,11 @@ Esperamos con interés trabajar contigo y mejorar juntos Reviw. ¡Gracias por se
 
 ## Comienza a Programar con Reviw
 
-Reviw es un plugin para Sublime Text que te permite crear archivos HTML y contribuir a la creación de archivos JWPUB para JW Library a través del repositorio Reviw_Channel. Mira nuestros JWPUB en HTML de ejemplo [aquí](https://github.com/livrasand/livrasand.github.io/tree/main/jwpub-catalog), solo ingresa al directorio del archivo deseado.
+Reviw es un plugin para Sublime Text que te permite crear archivos HTML y contribuir a la creación de archivos JWPUB para JW Library. Mira nuestros JWPUB en HTML de ejemplo [aquí](https://github.com/livrasand/livrasand.github.io/tree/main/jwpub-catalog), solo ingresa al directorio del archivo deseado.
 
-Aprende a crear tu propio JWPUB en nuestra [wiki](https://github.com/livrasand/Reviw/wiki), el documento Reviw [README](https://github.com/livrasand/Reviw#readme) contienen mucha información también, tómese su tiempo y lea atentamente estas instrucciones.
+Aprende a crear tu propio JWPUB en nuestra [guía de contribución](CONTRIBUTING.md), contienen mucha información, tómese su tiempo y lea atentamente estas instrucciones.
 
-Si es principiante, puede comenzar por [Getting started](https://github.com/livrasand/Reviw/wiki/Getting-started).
+Si es principiante en los JWPUB, puede comenzar por [Getting started](https://github.com/livrasand/Reviw/wiki/Getting-started), comprenda que es un JWPUB y como funciona.
 
 ## Instalación con Package Control
 Instala el empaquetado de Reviw para Sublime Text, para ello ejecuta Command Palette: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>.
@@ -40,6 +40,3 @@ Reviw
 ```
 
 Esto instalará Reviw en Sublime Text.
-
-## 🎨 Crea tu JWPUB personalizado
-Visita <a href="https://github.com/livrasand/Reviw_Channel/">Reviw_Channel</a>
