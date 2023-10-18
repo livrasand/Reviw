@@ -20,9 +20,7 @@ jobs:
             }'
 
       - name: Verificar etiqueta
-        run: |
-          is_issue=${{ steps.check-is-issue.outputs.is_issue }}
-          if [[ "$is_issue" == "true" ]]; then
+        run: |         
             comment_body=$(jq -r '.comment.body' ${{ github.event.client_payload_path }})
             # Comprobar si el comentario contiene la respuesta "Sí" (puedes ajustar esto según sea necesario)
             if [[ "$comment_body" == *Sí* ]]; then
@@ -35,7 +33,6 @@ jobs:
             else
               echo "De acuerdo, dime en qué podemos ayudarte."
             fi
-          fi
       
       - name: Esperar respuesta del usuario
         id: wait-for-user-response
