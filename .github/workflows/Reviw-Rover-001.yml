@@ -1,14 +1,15 @@
-name: Crear ZIP en respuesta a nuevo Issue
+name: Reviw Rover 1.0.0
 
 on:
   issue_comment:
     types:
       - created
       - edited
+      - labeled
 
 jobs:
   create-zip:
-    if: startsWith(github.event.comment.body, '/inicia')  # Verificar que el comentario comienza con '/inicia'
+    if: contains(github.event.issue.labels.*.name, 'Nuevo JWPUB')  # Verificar si se asignó la etiqueta
     runs-on: ubuntu-latest
     steps:
       - name: Verificar etiqueta
