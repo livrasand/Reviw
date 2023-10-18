@@ -3,28 +3,21 @@ name: Reviw Rover 1.0.0
 on:
   issue_comment:
     types:
-      - created
+      - opened
       - edited
 
 jobs:
   create-zip:
     runs-on: ubuntu-latest
     steps:
-      - name: Verificar si es un Issue
-        id: check-is-issue
-        run: echo ::set-output name=is_issue::$(jq -r '.issue != null' $GITHUB_EVENT_PATH)
-        
       - name: Paso 1
         run: |
-          is_issue=${{ steps.check-is-issue.outputs.is_issue }}
-          if [[ "$is_issue" == "true" ]]; then
             curl -X POST -H "Authorization: token ${{ secrets.Reviw_Rover_Token }}" \
             -H "Accept: application/vnd.github.v3+json" \
             https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/comments \
             -d '{
               "body": "Hola, gracias por crear este Issue. Vas a crear un archivo JWPUB nuevo o es una consulta:\n\n- Responde "Sí" si crearás un archivo JWPUB nuevo. \n- Responde "No" si solo es una consulta."
             }'
-          fi
 
       - name: Verificar etiqueta
         run: |
