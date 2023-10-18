@@ -39,7 +39,6 @@ jobs:
         run: echo "Esperando respuesta del usuario..."
 
       - name: Ejecutar bot si se activa
-        if: steps.check-command.outputs.activate == 'true'
         run: |
           # Recopilar los datos del usuario desde la conversación del Issue
           repositoryURL=$(jq -r '.comment.body' ${{ steps.wait-for-user-response.outputs.response-file }} | grep -oP 'repositoryURL:\s*\K[^\n]*')
