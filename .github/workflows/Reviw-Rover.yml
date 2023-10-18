@@ -1,0 +1,76 @@
+name: Reviw Rover 1.0.0
+
+on:
+  issue_comment:
+    types:
+      - created
+      - edited
+      - labeled
+
+jobs:
+  create-zip:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Paso 1
+        run: |
+          curl -X POST -H "Authorization: token ${{ secrets.Reviw_Rover_Token }}" \
+          -H "Accept: application/vnd.github.v3+json" \
+          https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/comments \
+          -d '{
+            "body": "Hola, gracias por crear este Issue. Vas a crear un archivo JWPUB nuevo o es una consulta:\n\n- Responde "Sí" si crearás un archivo JWPUB nuevo. \n- Responde "No" si solo es una consulta."
+          }'
+          
+      - name: Verificar etiqueta
+        run: |
+          comment_body=$(jq -r '.comment.body' ${{ github.event.client_payload_path }})
+          # Comprobar si el comentario contiene la respuesta "Sí" (puedes ajustar esto según sea necesario)
+          if [[ "$comment_body" == *Sí* ]]; then
+            curl -X POST -H "Authorization: token ${{ secrets.Reviw_Rover_Token }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/comments \
+            -d '{
+              "body": "Hola, gracias por crear este Issue. Por favor, proporciona los siguientes datos para generar el archivo ZIP:\n\n- repositoryURL: \n- language: \n- symbol: \n- year: "
+            }'
+          else
+            echo "De acuerdo, dime en qué podemos ayudarte."
+          fi'
+      
+      - name: Esperar respuesta del usuario
+        id: wait-for-user-response
+        run: echo "Esperando respuesta del usuario..."
+
+      - name: Ejecutar bot si se activa
+        if: steps.check-command.outputs.activate == 'true'
+        run: |
+          # Recopilar los datos del usuario desde la conversación del Issue
+          repositoryURL=$(jq -r '.comment.body' ${{ steps.wait-for-user-response.outputs.response-file }} | grep -oP 'repositoryURL:\s*\K[^\n]*')
+          language=$(jq -r '.comment.body' ${{ steps.wait-for-user-response.outputs.response-file }} | grep -oP 'language:\s*\K[^\n]*')
+          symbol=$(jq -r '.comment.body' ${{ steps.wait-for-user-response.outputs.response-file }} | grep -oP 'symbol:\s*\K[^\n]*')
+          year=$(jq -r '.comment.body' ${{ steps.wait-for-user-response.outputs.response-file }} | grep -oP 'year:\s*\K[^\n]*')
+
+          # Descargar todos los archivos del repositorio y crear ZIP
+          git clone $repositoryURL repo
+          repo_name=$(basename $repositoryURL)
+          cd repo
+          git archive -o temp-files/repo_files.zip HEAD
+
+          # Subir el archivo ZIP a GitHub
+          response=$(curl -X POST \
+            -H "Authorization: token ${{ secrets.Reviw_Rover_Token }}" \
+            -H "Content-Type: application/zip" \
+            --data-binary @repo_files.zip \
+            "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/attachments")
+
+          # Extraer la URL del archivo cargado
+          attachment_url=$(echo "$response" | jq -r .url)
+
+          # Agregar un comentario con el enlace al archivo
+          comment="Aquí tienes el archivo ZIP: $attachment_url"
+
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.Reviw_Rover_Token }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/comments" \
+            -d "{
+              \"body\": \"$comment\"
+            }"
