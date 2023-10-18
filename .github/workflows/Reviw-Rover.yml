@@ -43,8 +43,6 @@ jobs:
 
       - name: Ejecutar bot si se activa
         run: |
-          is_issue=${{ steps.check-is-issue.outputs.is_issue }}
-          if [[ "$is_issue" == "true" ]]; then
             # Recopilar los datos del usuario desde la conversación del Issue
             repositoryURL=$(jq -r '.comment.body' ${{ steps.wait-for-user-response.outputs.response-file }} | grep -oP 'repositoryURL:\s*\K[^\n]*')
             language=$(jq -r '.comment.body' ${{ steps.wait-for-user-response.outputs.response-file }} | grep -oP 'language:\s*\K[^\n]*')
@@ -77,4 +75,3 @@ jobs:
               -d "{
                 \"body\": \"$comment\"
               }"
-          fi
