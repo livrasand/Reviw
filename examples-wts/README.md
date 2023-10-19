@@ -1,5 +1,3 @@
-# examples-wts
-
 Este directorio contiene ejemplos de publicaciones digitales de JWPUBs para JW Library, en formato HTML, JSON y SQLite. Estos ejemplos se pueden utilizar para traducir las publicaciones a otros idiomas, o para tomar de ejemplo para tus propios proyectos.
 
 ## Contenido
