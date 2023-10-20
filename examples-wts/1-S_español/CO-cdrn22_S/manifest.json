@@ -1,0 +1,142 @@
+{
+	"name": "CO-pgm22_S.jwpub",
+	"hash": "e28213aed7ed387861414e7b35491acb8cfb1a89605633f7964593d6c85cc2df",
+	"timestamp": "2022-03-07T10:15:45Z",
+	"version": 1,
+	"expandedSize": 2257092,
+	"contentFormat": "z-a",
+	"htmlValidated": false,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 11132,
+	"publication": { 
+		"fileName": "CO-pgm22_S.db",
+		"type": 1,
+		"title": "Cuaderno de apuntes de la asamblea regional 2022",
+		"shortTitle": "Cuaderno de apuntes de la asamblea regional 2022",
+		"displayTitle": "Cuaderno de apuntes de la asamblea regional 2022",
+		"referenceTitle": "Cuaderno de apuntes de la asamblea regional 2022",
+		"undatedReferenceTitle": "Cuaderno de apuntes de la asamblea regional 2022",
+		"titleRich": "Cuaderno de apuntes de la asamblea regional 2022",
+		"displayTitleRich": "Cuaderno de apuntes de la asamblea regional 2022",
+		"referenceTitleRich": "Cuaderno de apuntes de la asamblea regional 2022",
+		"undatedReferenceTitleRich": "Cuaderno de apuntes de la asamblea regional 2022",
+		"symbol": "CO-pgm22",
+		"uniqueEnglishSymbol": "CO-pgm22",
+		"uniqueSymbol": "CO-pgm22",
+		"undatedSymbol": "CO-pgm22",
+		"englishSymbol": "CO-pgm22",
+		"language": 1,
+		"hash": "2c735b919041d9f9b96415302f3829d2150f7bdc",
+		"timestamp": "2022-03-07T10:15:45Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2022,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Book",
+		"rootSymbol": "CO-pgm22",
+		"rootYear": 2022,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "890622e0846c486920e5d4d501827c9b6050ea0a:1200:1810",
+				"fileName": "1102022194_S_cvr.jpg",
+				"type": "c",
+				"attribute": "r",
+				"width": 1200,
+				"height": 1810
+			},
+			{
+				"signature": "8177c553a675e8848a7974c18e53a146af738cd3:120:120",
+				"fileName": "1102022194_univ_sqr-120x120.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 120,
+				"height": 120
+			},
+			{
+				"signature": "8177c553a675e8848a7974c18e53a146af738cd3:270:270",
+				"fileName": "1102022194_univ_sqr-270x270.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 270,
+				"height": 270
+			},
+			{
+				"signature": "8177c553a675e8848a7974c18e53a146af738cd3:600:600",
+				"fileName": "1102022194_univ_sqr-600x600.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 600,
+				"height": 600
+			},
+			{
+				"signature": "b52e3b2355a331493c504f27a86a1c8bec4ae170:240:120",
+				"fileName": "1102022194_univ_lsr-240x120.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 240,
+				"height": 120
+			},
+			{
+				"signature": "b52e3b2355a331493c504f27a86a1c8bec4ae170:560:280",
+				"fileName": "1102022194_univ_lsr-560x280.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 560,
+				"height": 280
+			},
+			{
+				"signature": "b52e3b2355a331493c504f27a86a1c8bec4ae170:1200:600",
+				"fileName": "1102022194_univ_lsr-1200x600.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 1200,
+				"height": 600
+			},
+			{
+				"signature": "ef00e0ccaa7ea3c691b1373c26ec13ac5b5ab79e:360:120",
+				"fileName": "1102022194_univ_pnr-360x120.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 360,
+				"height": 120
+			},
+			{
+				"signature": "ef00e0ccaa7ea3c691b1373c26ec13ac5b5ab79e:810:270",
+				"fileName": "1102022194_univ_pnr-810x270.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 810,
+				"height": 270
+			},
+			{
+				"signature": "ef00e0ccaa7ea3c691b1373c26ec13ac5b5ab79e:1800:600",
+				"fileName": "1102022194_univ_pnr-1800x600.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 1800,
+				"height": 600
+			}
+		],
+		"categories": [ 
+				"book"
+		],
+		"attributes": [ 
+				"Convention"
+		],
+		"issueAttributes": [ 
+		],
+		"issueProperties": { 
+				"title": "",
+				"undatedTitle": "",
+				"coverTitle": "",
+				"titleRich": "",
+				"undatedTitleRich": "",
+				"coverTitleRich": "",
+				"symbol": "",
+				"undatedSymbol": ""
+		}
+	}
+}
