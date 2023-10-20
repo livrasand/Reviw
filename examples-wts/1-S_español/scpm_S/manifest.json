@@ -1,0 +1,69 @@
+{
+	"name": "scpm_S.jwpub",
+	"hash": "1e82764882e88cc40a0df02b6a85789b1626316c248b168728561decd101e3f7",
+	"timestamp": "2023-02-27T15:33:57Z",
+	"version": 1,
+	"expandedSize": 1355808,
+	"contentFormat": "z-a",
+	"htmlValidated": false,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 11937,
+	"publication": { 
+		"fileName": "scpm_S.db",
+		"type": 1,
+		"title": "Bosquejos para las reuniones",
+		"shortTitle": "Bosquejos para las reuniones",
+		"displayTitle": "Bosquejos para las reuniones  (scpm)",
+		"referenceTitle": "Bosquejos para las reuniones",
+		"undatedReferenceTitle": "Bosquejos para las reuniones",
+		"titleRich": "Bosquejos para las reuniones",
+		"displayTitleRich": "Bosquejos para las reuniones  (scpm)",
+		"referenceTitleRich": "Bosquejos para las reuniones",
+		"undatedReferenceTitleRich": "Bosquejos para las reuniones",
+		"symbol": "scpm",
+		"uniqueEnglishSymbol": "scpm",
+		"uniqueSymbol": "scpm",
+		"undatedSymbol": "scpm",
+		"englishSymbol": "scpm",
+		"language": 1,
+		"hash": "18989b881486e6ab72f1d3f7a8d4cfdfd8942ab3",
+		"timestamp": "2023-02-27T15:33:57Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2022,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Talk",
+		"rootSymbol": "scpm",
+		"rootYear": 2022,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "753ae6a0e8ddf94db40509b5c45b7229edb42ef4:400:400",
+				"fileName": "programs-events_univ_pnr_lg.png",
+				"type": "t",
+				"attribute": "r",
+				"width": 400,
+				"height": 400	
+			}
+		],
+		"categories": [ 
+				"talk"
+		],
+		"attributes": [ 
+		],
+		"issueAttributes": [ 
+		],
+		"issueProperties": { 
+				"title": "",
+				"undatedTitle": "",
+				"coverTitle": "",
+				"titleRich": "",
+				"undatedTitleRich": "",
+				"coverTitleRich": "",
+				"symbol": "",
+				"undatedSymbol": ""
+		}
+	}
+}

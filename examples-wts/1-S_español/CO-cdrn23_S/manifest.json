@@ -1,0 +1,134 @@
+{
+	"name": "CO-cdrn23_S.jwpub",
+	"hash": "92609091b29a58d08d185401e4d43cf1e4bb93565e13538673149ffc842ec781",
+	"timestamp": "2023-05-10T07:31:23Z",
+	"version": 1,
+	"expandedSize": 4467740,
+	"contentFormat": "z-a",
+	"htmlValidated": false,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 11937,
+	"publication": { 
+		"fileName": "CO-cdrn23_S.db",
+		"type": 1,
+		"title": "Cuaderno de apuntes para la asamblea regional 2023",
+		"shortTitle": "Cuaderno de apuntes para la asamblea regional 2023",
+		"displayTitle": "Cuaderno de apuntes para la asamblea regional 2023",
+		"referenceTitle": "Cuaderno de apuntes para la asamblea regional 2023",
+		"undatedReferenceTitle": "Cuaderno de apuntes para la asamblea regional 2023",
+		"titleRich": "Cuaderno de apuntes para la asamblea regional 2023",
+		"displayTitleRich": "Cuaderno de apuntes para la asamblea regional 2023",
+		"referenceTitleRich": "Cuaderno de apuntes para la asamblea regional 2023",
+		"undatedReferenceTitleRich": "Cuaderno de apuntes para la asamblea regional 2023",
+		"symbol": "CO-cdrn23",
+		"uniqueEnglishSymbol": "CO-cdrn23",
+		"uniqueSymbol": "CO-cdrn23",
+		"undatedSymbol": "CO-cdrn23",
+		"englishSymbol": "CO-cdrn23",
+		"language": 1,
+		"hash": "18b56e817fff66ecd7479684aa3886e9a6263f74",
+		"timestamp": "2023-05-10T07:31:23Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2023,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Book",
+		"rootSymbol": "CO-cdrn23",
+		"rootYear": 2023,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "50c47c2216493e17c48c1a12fd4a073aeb8d23c2:120:120",
+				"fileName": "1102023194_univ_sqr-120x120.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 120,
+				"height": 120
+			},
+			{
+				"signature": "50c47c2216493e17c48c1a12fd4a073aeb8d23c2:270:270",
+				"fileName": "1102023194_univ_sqr-270x270.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 270,
+				"height": 270
+			},
+			{
+				"signature": "50c47c2216493e17c48c1a12fd4a073aeb8d23c2:600:600",
+				"fileName": "1102023194_univ_sqr-600x600.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 600,
+				"height": 600
+			},
+			{
+				"signature": "b2083b504a42d784f54970a65de4892e6a0f81b3:240:120",
+				"fileName": "1102023194_univ_lsr-240x120.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 240,
+				"height": 120
+			},
+			{
+				"signature": "b2083b504a42d784f54970a65de4892e6a0f81b3:560:280",
+				"fileName": "1102023194_univ_lsr-560x280.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 560,
+				"height": 280
+			},
+			{
+				"signature": "b2083b504a42d784f54970a65de4892e6a0f81b3:1200:600",
+				"fileName": "1102023194_univ_lsr-1200x600.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 1200,
+				"height": 600
+			},
+			{
+				"signature": "0c96be3c8fb5a9f5be64a5e3121efa74a79adbc8:360:120",
+				"fileName": "1102023194_univ_pnr-360x120.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 360,
+				"height": 120
+			},
+			{
+				"signature": "0c96be3c8fb5a9f5be64a5e3121efa74a79adbc8:810:270",
+				"fileName": "1102023194_univ_pnr-810x270.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 810,
+				"height": 270
+			},
+			{
+				"signature": "0c96be3c8fb5a9f5be64a5e3121efa74a79adbc8:1800:600",
+				"fileName": "1102023194_univ_pnr-1800x600.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 1800,
+				"height": 600
+			}
+		],
+		"categories": [ 
+				"bk"
+		],
+		"attributes": [ 
+				"Convention"
+		],
+		"issueAttributes": [ 
+		],
+		"issueProperties": { 
+				"title": "",
+				"undatedTitle": "",
+				"coverTitle": "",
+				"titleRich": "",
+				"undatedTitleRich": "",
+				"coverTitleRich": "",
+				"symbol": "",
+				"undatedSymbol": ""
+		}
+	}
+}
