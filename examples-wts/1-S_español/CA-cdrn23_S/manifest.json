@@ -1,0 +1,134 @@
+{
+	"name": "CA-cdrn23_S.jwpub",
+	"hash": "1848e9894ebc99d6ad5b511e713a2edfdcba2bc262d9226bcca276e6acf84d74",
+	"timestamp": "2022-09-30T22:53:27Z",
+	"version": 1,
+	"expandedSize": 1011293,
+	"contentFormat": "z-a",
+	"htmlValidated": false,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 11258,
+	"publication": { 
+		"fileName": "CA-cdrn23_S.db",
+		"type": 1,
+		"title": "Cuaderno de apuntes para la asamblea de circuito 2022-2023 (con representante de la sucursal)",
+		"shortTitle": "Cuaderno de apuntes para la asamblea de circuito 2022-2023 (con representante de la sucursal)",
+		"displayTitle": "Cuaderno de apuntes para la asamblea de circuito 2022-2023 (con representante de la sucursal)  (CA-cdrn23)",
+		"referenceTitle": "Cuaderno de apuntes para la asamblea de circuito 2022-2023 (con representante de la sucursal)",
+		"undatedReferenceTitle": "Cuaderno de apuntes para la asamblea de circuito 2022-2023 (con representante de la sucursal)",
+		"titleRich": "Cuaderno de apuntes para la asamblea de circuito 2022-2023 (con representante de la sucursal)",
+		"displayTitleRich": "Cuaderno de apuntes para la asamblea de circuito 2022-2023 (con representante de la sucursal)  (CA-cdrn23)",
+		"referenceTitleRich": "Cuaderno de apuntes para la asamblea de circuito 2022-2023 (con representante de la sucursal)",
+		"undatedReferenceTitleRich": "Cuaderno de apuntes para la asamblea de circuito 2022-2023 (con representante de la sucursal)",
+		"symbol": "CA-cdrn23",
+		"uniqueEnglishSymbol": "CA-cdrn23",
+		"uniqueSymbol": "CA-cdrn23",
+		"undatedSymbol": "CA-cdrn23",
+		"englishSymbol": "CA-cdrn23",
+		"language": 1,
+		"hash": "56170f03ff2af32a75c4c07fc20432cfc1d56fd2",
+		"timestamp": "2022-09-30T22:53:27Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2023,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Book",
+		"rootSymbol": "CA-cdrn23",
+		"rootYear": 2023,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "87ac8497f4abb65094f8fd57c8be29ebf859ce19:120:120",
+				"fileName": "1102023241_univ_sqr-120x120.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 120,
+				"height": 120
+			},
+			{
+				"signature": "87ac8497f4abb65094f8fd57c8be29ebf859ce19:270:270",
+				"fileName": "1102023241_univ_sqr-270x270.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 270,
+				"height": 270
+			},
+			{
+				"signature": "87ac8497f4abb65094f8fd57c8be29ebf859ce19:600:600",
+				"fileName": "1102023241_univ_sqr-600x600.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 600,
+				"height": 600
+			},
+			{
+				"signature": "28494e076bf76f97f6ede53a9107330b057d7db3:240:120",
+				"fileName": "1102023241_univ_lsr-240x120.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 240,
+				"height": 120
+			},
+			{
+				"signature": "28494e076bf76f97f6ede53a9107330b057d7db3:560:280",
+				"fileName": "1102023241_univ_lsr-560x280.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 560,
+				"height": 280
+			},
+			{
+				"signature": "28494e076bf76f97f6ede53a9107330b057d7db3:1200:600",
+				"fileName": "1102023241_univ_lsr-1200x600.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 1200,
+				"height": 600
+			},
+			{
+				"signature": "8ee3f8dd39de165ce4c5c054ec6c07b6c548e1d0:360:120",
+				"fileName": "1102023241_univ_pnr-360x120.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 360,
+				"height": 120
+			},
+			{
+				"signature": "8ee3f8dd39de165ce4c5c054ec6c07b6c548e1d0:810:270",
+				"fileName": "1102023241_univ_pnr-810x270.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 810,
+				"height": 270
+			},
+			{
+				"signature": "8ee3f8dd39de165ce4c5c054ec6c07b6c548e1d0:1800:600",
+				"fileName": "1102023241_univ_pnr-1800x600.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 1800,
+				"height": 600
+			}
+		],
+		"categories": [ 
+				"bk"
+		],
+		"attributes": [ 
+				"Circuit Assembly"
+		],
+		"issueAttributes": [ 
+		],
+		"issueProperties": { 
+				"title": "",
+				"undatedTitle": "",
+				"coverTitle": "",
+				"titleRich": "",
+				"undatedTitleRich": "",
+				"coverTitleRich": "",
+				"symbol": "",
+				"undatedSymbol": ""
+		}
+	}
+}
