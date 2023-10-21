@@ -1,0 +1,134 @@
+{
+	"name": "CA-cdrnbrpgm24_I.jwpub",
+	"hash": "28780D9F0C05DC0891E7BB01D8B5999188E70FD1C5A9E2BC02FDDE0237269A95",
+	"timestamp": "2023-10-21T13:59:01Z",
+	"version": 1,
+	"expandedSize": 1034443,
+	"contentFormat": "z-a",
+	"htmlValidated": false,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 12365,
+	"publication": { 
+		"fileName": "CA-cdrnbrpgm24_I.db",
+		"type": 1,
+		"title": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2023-2024 (con il rappresentante della filiale)",
+		"shortTitle": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2023-2024 (con il rappresentante della filiale)",
+		"displayTitle": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2023-2024 (con il rappresentante della filiale)  (CA-cdrnbrpgm24)",
+		"referenceTitle": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2023-2024 (con il rappresentante della filiale)",
+		"undatedReferenceTitle": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2023-2024 (con il rappresentante della filiale)",
+		"titleRich": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2023-2024 (con il rappresentante della filiale)",
+		"displayTitleRich": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2023-2024 (con il rappresentante della filiale)  (CA-cdrnbrpgm24)",
+		"referenceTitleRich": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2023-2024 (con il rappresentante della filiale)",
+		"undatedReferenceTitleRich": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2023-2024 (con il rappresentante della filiale)",
+		"symbol": "CA-cdrnbrpgm24",
+		"uniqueEnglishSymbol": "CA-cdrnbrpgm24",
+		"uniqueSymbol": "CA-cdrnbrpgm24",
+		"undatedSymbol": "CA-cdrnbrpgm24",
+		"englishSymbol": "CA-cdrnbrpgm24",
+		"language": 4,
+		"hash": "B880137E84C46D8CA9C967DF9A70887481FAB49A",
+		"timestamp": "2023-10-21T13:59:01Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2024,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Program",
+		"rootSymbol": "CA-cdrnbrpgm24",
+		"rootYear": 2024,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "88927b09ccbf3168007ac171b88ed51d8becc697:120:120",
+				"fileName": "1102024241_univ_sqr-120x120.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 120,
+				"height": 120
+			},
+			{
+				"signature": "88927b09ccbf3168007ac171b88ed51d8becc697:270:270",
+				"fileName": "1102024241_univ_sqr-270x270.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 270,
+				"height": 270
+			},
+			{
+				"signature": "88927b09ccbf3168007ac171b88ed51d8becc697:600:600",
+				"fileName": "1102024241_univ_sqr-600x600.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 600,
+				"height": 600
+			},
+			{
+				"signature": "fbaa3e89281c0ad463f8a74b1b7799d63ca5e52b:240:120",
+				"fileName": "1102024241_univ_lsr-240x120.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 240,
+				"height": 120
+			},
+			{
+				"signature": "fbaa3e89281c0ad463f8a74b1b7799d63ca5e52b:560:280",
+				"fileName": "1102024241_univ_lsr-560x280.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 560,
+				"height": 280
+			},
+			{
+				"signature": "fbaa3e89281c0ad463f8a74b1b7799d63ca5e52b:1200:600",
+				"fileName": "1102024241_univ_lsr-1200x600.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 1200,
+				"height": 600
+			},
+			{
+				"signature": "5369733fc29e8edef9100345074e2a2e1842a6ef:360:120",
+				"fileName": "1102024241_univ_pnr-360x120.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 360,
+				"height": 120
+			},
+			{
+				"signature": "5369733fc29e8edef9100345074e2a2e1842a6ef:810:270",
+				"fileName": "1102024241_univ_pnr-810x270.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 810,
+				"height": 270
+			},
+			{
+				"signature": "5369733fc29e8edef9100345074e2a2e1842a6ef:1800:600",
+				"fileName": "1102024241_univ_pnr-1800x600.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 1800,
+				"height": 600
+			}
+		],
+		"categories": [ 
+				"pgm"
+		],
+		"attributes": [ 
+				"Circuit Assembly"
+		],
+		"issueAttributes": [ 
+		],
+		"issueProperties": { 
+				"title": "",
+				"undatedTitle": "",
+				"coverTitle": "",
+				"titleRich": "",
+				"undatedTitleRich": "",
+				"coverTitleRich": "",
+				"symbol": "",
+				"undatedSymbol": ""
+		}
+	}
+}
