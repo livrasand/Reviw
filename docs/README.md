@@ -15,5 +15,5 @@ Como referencia, aquí están nuestros enlaces primarios CDN.
 
 | Descripción | URL |
 | ------------ | ---------- |
-| CSS | https://raw.githubusercontent.com/livrasand/livrasand.github.io/main/JW-Library-Visualizer-API/4a57204c696272617279.css | 
-| JS | https://raw.githubusercontent.com/livrasand/livrasand.github.io/main/JW-Library-Visualizer-API/4a57204c696272617279.js |   
+| CSS | [https://cdn.jsdelivr.net/gh/livrasand/livrasand.github.io@main/JW-Library-Visualizer-API/4a57204c696272617279.css](https://cdn.jsdelivr.net/gh/livrasand/livrasand.github.io@main/JW-Library-Visualizer-API/4a57204c696272617279.css) | 
+| JS | [https://cdn.jsdelivr.net/gh/livrasand/livrasand.github.io@main/JW-Library-Visualizer-API/4a57204c696272617279.js](https://cdn.jsdelivr.net/gh/livrasand/livrasand.github.io@main/JW-Library-Visualizer-API/4a57204c696272617279.js) |   
