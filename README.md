@@ -33,6 +33,8 @@ crear>copyright
 ```
 
 ## Comienza a programar
+Le recomiendo encarecidamente que consulte la [documentación de Reviw](https://livrasand.github.io/Reviw/). Allí encontrarás todos los componentes existentes de un JWPUB, colores, fuentes y más reglas.
+
 Aprende a crear tu propio JWPUB en nuestra [guía de contribución](CONTRIBUTING.md), contienen mucha información, tómese su tiempo y lea atentamente estas instrucciones.
 
 Si es principiante en los JWPUB, puede comenzar por [Getting started](https://github.com/livrasand/Reviw/wiki/Getting-started), comprenda que es un JWPUB y como funciona.
