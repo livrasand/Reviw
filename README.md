@@ -17,6 +17,11 @@ Reviw es una herramienta gratuita, sin publicidad y de código abierto que está
 ---
 
 ## ¿Cómo funciona?
+Nuestros CDNs actúan como intermediarios que permiten cargar y entregar tus archivos HTML con nuestra API **JWLV**, Reviw utiliza estos CDNs para proporcionar una representación precisa de tus archivos HTML en un entorno similar al de JW Library, permitiéndote tener una idea precisa de cómo se verán tus proyectos antes de publicarlos. Esto facilita la revisión y la optimización de tu trabajo durante el proceso de desarrollo.
+```html
+<link rel="steelsheet" href="https://cdn.jsdelivr.net/gh/livrasand/livrasand.github.io@main/JW-Library-Visualizer-API/4a57204c696272617279.css">
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/livrasand/livrasand.github.io@main/JW-Library-Visualizer-API/4a57204c696272617279.js"></script>
+```
 Reviw es un lenguaje que empodera a los desarrolladores de JWPUB, simplificando la escritura de código HTML. Con Reviw, podrás crear expresiones (abreviaturas) de manera similar a una conversación y convertirlas en fragmentos de código con solo presionar una tecla. Por ejemplo, esta abreviatura:
 
 ```html
