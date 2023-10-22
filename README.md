@@ -1,6 +1,8 @@
+<div align="center"><a href="README.md"><img src="https://custom-icon-badges.demolab.com/badge/Español-white.svg?logo=mexico-flag&"></a>&nbsp;&nbsp;<a href="README-en.md"><img src="https://custom-icon-badges.demolab.com/badge/English-white.svg?logo=usa-flag"></a>&nbsp;&nbsp;<a href="README-it.md"><img src="https://custom-icon-badges.demolab.com/badge/Italiano-white.svg?logo=italy-flag"></a>&nbsp;&nbsp;<a href="README-cn.md"><img src="https://custom-icon-badges.demolab.com/badge/中国人-white.svg?logo=china-flag"></a></div>
+<br>
+
 ![Reviw Logo](https://github.com/livrasand/Reviw/assets/104039397/3202a0b1-266c-4815-a4ba-35b470965e7a)
 > ##### Si consideras útil este proyecto, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
-
 
 ¿Te imaginas crear JWPUBs con un lenguaje tan sencillo como HTML? Reviw es un lenguaje de marcado de código abierto, escrito en HTML, que te permite crear documentos JWPUB con facilidad. Basado en la **API JWLV**, Reviw te ofrece una interfaz de alto nivel que te permite visualizar tus documentos de forma idéntica a como lo hace JW Library.
 
