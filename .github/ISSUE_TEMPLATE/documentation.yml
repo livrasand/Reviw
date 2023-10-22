@@ -1,0 +1,35 @@
+name: Documentación
+description: Informar problemas y sugerir ideas para la documentación
+labels: [docs]
+
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        Antes de abrir una nueva edición, asegúrese de que no esté cubierta por una edición existente.
+        Busque [problemas con la etiqueta `docs`][docs-issues] (incluidos
+        problemas cerrados) antes de continuar.
+
+
+        [docs-issues]: https://github.com/livrasand/Reviw/issues?q=is%3Aissue+label%3Adocs
+
+  - type: dropdown
+    attributes:
+      label: Tipo de problema
+      description: >-
+        Si su tipo de problema no está aquí, seleccione "otro" y explique en el
+        campo "Descripción" a continuación.
+      options: [Mejora, Error, Otro]
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Descripción
+      description: |
+        Incluya tantos detalles como sea posible, por ejemplo:
+         - Un (perma)link a los documentos en cuestión.
+         - Sugerencias sobre cómo cambiar los documentos.
+      placeholder: "Ejemplo: la documentación no cubre mi caso de uso..."
+    validations:
+      required: true

@@ -1,0 +1,45 @@
+name: Actualización de un JWPUB
+description: Ayúdanos a mejorar reportando JWPUBs obsoletos
+labels: [jwpubs outdated]
+
+body:
+  - type: markdown
+    attributes:
+      value: >-
+       Antes de abrir una nueva edición, asegúrese de que no esté cubierta por una edición existente. 
+       Busque [Issues con la etiqueta `jwpub outdated`][jwpub-outdated-issues] 
+       (incluidos los problemas cerrados) antes de continuar. 
+       Si encuentra uno para su JWPUB que está informando, deje un comentario o agregue una reacción.
+
+        [jwpub-outdated-issues]: https://github.com/livrasand/Reviw/issues?q=is%3Aissue+label%3A%22jwpub+outdated%22
+
+  - type: input
+    attributes:
+      label: Nombre del JWPUB
+      placeholder: 'Ejemplo: Discursos para las reuniones'
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Recursos oficiales
+      description: >-
+        Kits de medios, pautas de marca, archivos JPG, etc. 
+        No puedes dejar esto vacío o en "Blanco" si no puede encontrar ningún recurso.
+      placeholder: |
+        Example:
+        jpg: https://assetsnffrgf-a.akamaihd.net/assets/m/501100087/univ/art/501100087_univ_lsr_lg.jpg
+        repository: https://github.com/livrasand/Discursos-para-las-reuniones
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Comentarios adicionales
+      description: |
+        ¿Hay algo más que debamos saber sobre el JWPUB? Recuerda que no todo el mundo conoce
+        el JWPUB tan bien como tú. Por ejemplo:
+        - ¿Existen múltiples opciones para su uso o navegación?
+        - ¿El JWPUB se publica en algún otro sitio?
+        - Si cree que el JWPUB podría no ser aceptada, ¿por qué cree que debería considerarse?
+      placeholder: 'Ejemplo: Hay dos variantes de este JWPUB...'

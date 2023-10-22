@@ -1,0 +1,33 @@
+name: Eliminación de un JWPUB
+description: Informar de un JWPUB para su eliminación
+labels: [removal request]
+
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        Antes de abrir una nueva Issue, asegúrese de que no esté cubierta por una Issue existente.
+        Busque [Issues con la etiqueta `removal request` o `breaking change`][removal-issues]
+        (incluidos los problemas cerrados) antes de continuar. Si encuentras un JWPUB que tú
+        estás informando, entonces deja un comentario al respecto o agrega una reacción.
+
+
+        [removal-issues]: https://github.com/livrasand/Reviw/issues?q=is%3Aissue+label%3A%22removal+request%22%2C%22breaking+change%22
+
+  - type: input
+    attributes:
+      label: Nombre del JWPUB
+      placeholder: 'Ejemplo: Discursos para las reuniones'
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Motivo de eliminación
+      description: |
+        - Si el JWPUB ya no existe, incluya un enlace que respalde esa afirmación.
+        - Si se debe eliminar el JWPUB por otro motivo, explique por qué.
+      placeholder: >-
+        Ejemplo: [este JWPUB](https://example.com) anunció que ha sido descontinuado...
+    validations:
+      required: true
