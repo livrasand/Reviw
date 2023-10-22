@@ -1,5 +1,5 @@
 ---
-name: 'Issue: Sitio web'
+name: Sitio web
 about: Problemas y mejoras para el sitio web.
 title: ''
 labels: ''
