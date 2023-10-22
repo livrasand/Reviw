@@ -1,0 +1,4 @@
+contact_links:
+  - name: Sitio web
+    about: Problemas y mejoras para el sitio web.
+    url: https://github.com/livrasand/Reviw/issues/new?assignees=&labels=&template=sitio-web.md
