@@ -1,0 +1,87 @@
+name: Solicitud de un JWPUB
+description: Solicite un nuevo JWPUB para JWPUB Catalog
+labels: [new jwpub]
+
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        No agregaremos JWPUBs que no sean de uso teocrático ni nada que 
+        no esté relacionado con los principios o enseñanzas bíblicas. 
+        En caso de duda, abra un problema y lo echaremos un vistazo. 
+        Para obtener más detalles, consulte las [Pautas de contribución].
+
+
+        Antes de abrir una nueva Issue, asegúrese de que no esté cubierta 
+        por una Issue existente. Busque [Issues con la etiqueta "new jwpub"][new-jwpub-issues]
+        (incluidos los Issues cerrados) antes de continuar. 
+        Si encuentra uno para el que usted está solicitando, deje un comentario o agregue una reacción.
+
+
+        [contributing guidelines]: https://github.com/simple-icons/simple-icons/blob/develop/CONTRIBUTING.md
+
+        [new-jwpub-issues]: https://github.com/livrasand/Reviw/issues?q=is%3Aissue+label%3A%22new+jwpub%22
+
+  - type: input
+    attributes:
+      label: Nombre del JWPUB
+      placeholder: 'Ejemplo: Discursos para las reuniones'
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Repositorio
+      description: >-
+        Por favor, asegúrate de incluir un enlace web a tu repositorio del archivo JWPUB
+        para que podamos evaluarlo antes de empaquetarlo.
+      placeholder: 'Ejemplo: https://github.com/livrasand/Discursos-para-las-reuniones'
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: MepsLanguage
+      description: Ingresa el [código MEPS](https://github.com/livrasand/Reviw/wiki/Anexo-2:-N%C3%BAmero-de-%C3%ADndice-de-idioma-en-la-tabla-MepsLanguage) de tu idioma.
+      placeholder: ej. 1
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Año
+      description: Ingresa el año de creación de tu JWPUB.
+      placeholder: ej. 2023
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Symbol
+      description: Ingresa el Symbol de tu JWPUB.
+      placeholder: ej. scpm_S
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Recursos oficiales
+      description: >-
+        Kits de medios, pautas de marca, archivos JPG, etc. 
+        No puedes dejar esto vacío o en "Blanco" si no puede encontrar ningún recurso.
+      placeholder: |
+        Example:
+        jpg: https://assetsnffrgf-a.akamaihd.net/assets/m/501100087/univ/art/501100087_univ_lsr_lg.jpg
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Comentarios adicionales
+      description: |
+        ¿Hay algo más que debamos saber sobre el JWPUB? Recuerda que no todo el mundo conoce 
+        el JWPUB tan bien como tú. Por ejemplo:
+         - ¿Existen múltiples opciones para su uso o navegación?
+         - ¿El JWPUB se publica en algún otro sitio?
+         - Si cree que el JWPUB podría no ser aceptada, ¿por qué cree que debería considerarse?
+      placeholder: 'Ejemplo: Hay dos variantes de este JWPUB...'
