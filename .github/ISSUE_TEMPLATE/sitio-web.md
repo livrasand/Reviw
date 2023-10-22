@@ -1,12 +1,3 @@
----
-name: Sitio web
-about: Problemas y mejoras para el sitio web.
-title: ''
-labels: ''
-assignees: ''
-
----
-
 <!-- Antes de abrir un nuevo número, busque números duplicados o cerrados -->
 
 
