@@ -57,7 +57,6 @@ Sintaxis ayuda:
 manifest                Muestra información sobre el archivo manifest.json.
 lenguajes               Muestra los números MEPS de los idiomas.
 categorias              Muestra las categorías de publicaciones disponibles.
-jwtoken                 Muestra información sobre los JWTOKENS.
 
 ]]></content>
     <tabTrigger>ayuda</tabTrigger>

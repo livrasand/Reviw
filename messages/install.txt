@@ -25,9 +25,3 @@ Para usar Reviw, simplemente escribe la sintaxis deseada, por ejemplo: `crear>po
 Está prohibido alterar, expandir o modificar estos fragmentos sin permiso. Si tienes una idea para un fragmento útil o notas que falta alguno, por favor, contáctanos por correo electrónico (jwpubcatalog@gmail.com) para que podamos mejorarlo y compartirlo con todos. También puedes encontrar fragmentos adicionales en WOL.JW.ORG. ¡Gracias!
 
 Si consideras útil este proyecto, te animamos a que lo apoyes dándole una estrella (★) en el repositorio de GitHub. ¡Gracias!
-
-💕 Contribuciones
-
-¡Apreciamos tu interés en contribuir al proyecto Reviw! Si deseas realizar contribuciones, por favor, consulta nuestra guía de contribución para obtener más detalles sobre cómo puedes ayudar en diferentes aspectos del proyecto.
-
-Esperamos con interés trabajar contigo y mejorar juntos Reviw. ¡Gracias por ser parte de nuestra comunidad!

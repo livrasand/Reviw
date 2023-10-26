@@ -561,7 +561,7 @@ CREATE TABLE IF NOT EXISTS "VerseCommentaryMap" (
 CREATE TABLE IF NOT EXISTS "android_metadata" (
 	"locale"	TEXT DEFAULT 'en_US'
 );
-INSERT INTO "PublicationYear" VALUES (1,1,'');
+INSERT INTO "PublicationYear" VALUES (NULL, NULL, strftime('%Y', 'now'));
 INSERT INTO "PublicationView" VALUES (1,'Publication Documents','jwpub');
 INSERT INTO "PublicationViewSchema" VALUES (1,0,'name');
 INSERT INTO "android_metadata" VALUES ('en_US');
