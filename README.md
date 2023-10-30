@@ -1,4 +1,4 @@
-<div align="center"><a href="README.md"><img src="https://custom-icon-badges.demolab.com/badge/Español-white.svg?logo=mexico-flag&"></a>&nbsp;&nbsp;<a href="README-en.md"><img src="https://custom-icon-badges.demolab.com/badge/English-white.svg?logo=usa-flag"></a>&nbsp;&nbsp;<a href="README-it.md"><img src="https://custom-icon-badges.demolab.com/badge/Italiano-white.svg?logo=italy-flag"></a>&nbsp;&nbsp;<a href="README-cn.md"><img src="https://custom-icon-badges.demolab.com/badge/中国人-white.svg?logo=china-flag"></a></div>
+<div align="center"><a href="README.md"><img src="https://custom-icon-badges.demolab.com/badge/Español-white.svg?logo=mexico-flag&"></a>&nbsp;&nbsp;<a href="README-en.md"><img src="https://custom-icon-badges.demolab.com/badge/English-white.svg?logo=usa-flag"></a>&nbsp;&nbsp;<a href="README-it.md"><img src="https://custom-icon-badges.demolab.com/badge/Italiano-white.svg?logo=italy-flag"></a></div>
 <br>
 
 ![Reviw Logo](https://github.com/livrasand/Reviw/assets/104039397/3202a0b1-266c-4815-a4ba-35b470965e7a)
@@ -18,7 +18,27 @@ Reviw es una herramienta gratuita, sin publicidad y de código abierto que está
 
 ---
 
-## ¿Cómo funciona?
+## ¿Por qué Reviw?
+El propósito fundamental de Reviw es **tener control** sobre la creación de JWPUBs personalizados, **ser centralizado** y **revisar archivo por archivo** para evitar que los usuarios intenten interferir de manera no autorizada con los servicios de JW Library, modificar la aplicación JW Library de manera inapropiada o distribuir contenido que pueda ser perjudicial.
+
+Reviw se ha desarrollado con el fin de establecer **un sistema centralizado** con **revisión humana por parte de miembros Testigos de Jehová de reconocida fidelidad** y el respaldo de **inteligencia artificial**. Esta medida busca **prevenir la difusión de contenido inapropiado o potencialmente dañino**, como el contenido apostata, la distribución de sustancias controladas ilegales, armas, material pirateado, instrucciones para actividades ilegales, violaciones de derechos de autor, contenido perjudicial o cualquier tipo de contenido para adultos.
+
+**Control:** Reviw permite tener control sobre el contenido que se comparte en los servicios de JWPUB Catalog. Esto ayuda a proteger a los usuarios de contenido inapropiado o dañino.
+
+**Centralización:** Reviw es un sistema centralizado, lo que significa que todos los archivos son revisados por un equipo de Testigos de Jehová. Esto ayuda a garantizar que el proceso de revisión sea uniforme y eficiente.
+
+**Revisión archivo por archivo:** Reviw revisa cada archivo individualmente. Esto ayuda a garantizar que ningún archivo inapropiado o dañino se pase por alto.
+
+### 🔐 ¿Cómo funciona la seguridad?
+El siguiente es un ejemplo de cómo Reviw podría aplicarse a un archivo específico:
+
+Un usuario intenta cargar un JWPUB que contiene contenido apostata. El archivo es revisado por un equipo de Testigos de Jehová e inteligencia artificial, quienes determinan que el contenido es inapropiado. El archivo es rechazado y el usuario es notificado de que su cuenta ha sido fichada. El usuario queda identificado como un potencial infractor de los términos de servicio.
+
+A partir de este momento, el usuario tendrá prohibido volver a crear JWPUBs con Reviw. Además, su cuenta será identificada por los algoritmos de Reviw para reconocer patrones y encontrarlo en posibles cuentas falsas nuevas. En caso de que el usuario intente crear una nueva cuenta para evadir la prohibición, su nueva cuenta también será rechazada y su dirección IP será bloqueada. La política de Reviw es firme y explícita para disuadir a los usuarios de intentar compartir contenido inapropiado o dañino. Los usuarios que infrinjan los términos de servicio serán identificados y prohibidos de usar Reviw.
+
+**Reviw es una herramienta importante que ayuda a proteger a los usuarios de contenido inapropiado o dañino.**
+
+## ¿Cómo funciona Reviw?
 Nuestros CDNs actúan como intermediarios que permiten cargar y entregar tus archivos HTML con nuestra API **JWLV**, Reviw utiliza estos CDNs para proporcionar una representación precisa de tus archivos HTML en un entorno similar al de JW Library, permitiéndote tener una idea precisa de cómo se verán tus proyectos antes de publicarlos. Esto facilita la revisión y la optimización de tu trabajo durante el proceso de desarrollo.
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/livrasand/livrasand.github.io@main/JW-Library-Visualizer-API/4a57204c696272617279.css">
