@@ -61,11 +61,12 @@ crear>copyright
 ```
 
 ## Comienza a programar
-Le recomiendo encarecidamente que consulte la [documentación de Reviw](https://livrasand.github.io/Reviw/). Allí encontrarás todos los componentes existentes de un JWPUB, colores, fuentes y más reglas.
+Si es principiante en los JWPUB, puede comenzar por descargar el JWPUB [
+Reviw: Creación Profesional de Archivos JWPUB](https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/rasm_S.jwpub), para que comprenda que es un JWPUB y como funciona. 
 
-Aprende a crear tu propio JWPUB en nuestra [guía de contribución](CONTRIBUTING.md), contienen mucha información, tómese su tiempo y lea atentamente estas instrucciones.
+**NOTA:** Este nuevo JWPUB remplazó la wiki.
 
-Si es principiante en los JWPUB, puede comenzar por [Getting started](https://github.com/livrasand/Reviw/wiki/Getting-started), comprenda que es un JWPUB y como funciona.
+Aprende a crear tu propio JWPUB en nuestra [guía de contribución](CONTRIBUTING.md), contienen mucha información, tómese su tiempo y lea atentamente estas instrucciones. **SIGA PASO A PASO ESA GUÍA PARA CREAR UN JWPUB**.
 
 ## ⚙️ Instalación
 Instala el empaquetado de Reviw para Sublime Text, para ello ejecuta Command Palette: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>.
