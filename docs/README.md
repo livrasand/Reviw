@@ -21,7 +21,9 @@ Siga los siguientes pasos para solicitar su JWPUB empaquetado y enviarlo a JWPUB
 
 ### Paso 1: Revisión de los paquetes existentes
 - **Instala [Reviw](https://github.com/livrasand/Reviw) para Sublime Text.**.
-### ¿Cómo instalar Reviw?
+<details>
+<summary>¿Cómo instalar Reviw?</summary>
+   
 Sublime Text es un editor de texto que se usa para escribir código. Reviw es una extensión para Sublime Text que ayuda a crear archivos JWPUB.
 
 Para instalar Reviw, **primero debes descargar e instalar Sublime Text**. **Luego, debes instalar Package Control**, que es una herramienta que te permite instalar extensiones para Sublime Text. **Finalmente, debes instalar Reviw usando Package Control**.
@@ -85,6 +87,7 @@ Si no ves la opción "Package Control: Install Package" en la lista, es posible 
 **¡Listo! Reviw ya está instalado en tu Sublime Text.**
 
 Ahora sigue los siguientes pasos:
+</details>
 
 - **Visite la <a href="https://livrasand.github.io/jwpub-catalog.html">página de búsqueda</a> y busque JWPUB's similares.**
 - Antes de crear tu propio JWPUB, verifica si ya existe uno similar. Si existe, considera contribuir a mejorar ese paquete en lugar de crear uno nuevo. Esto ayuda a evitar la proliferación de paquetes similares.
@@ -99,6 +102,38 @@ Ahora sigue los siguientes pasos:
 ### Paso 3: Aloja tu JWPUB en GitHub
 
 En este punto del proceso, ya debes haber completado los archivos HTML que formarán parte de tu JWPUB y haber generado tu JWPUB utilizando la herramienta Reviw. Ahora, nos estamos preparando para agregar estos archivos al repositorio en GitHub, lo que permitirá que otros usuarios accedan y descarguen tu trabajo. **En este punto, ya puedes solicitar los BLOBs para tus HTMLs.** Pero antes de solicitar los BLOBs, sigue estos pasos:
+
+<details>
+<summary>¿Cómo solicito los BLOBs para mis HTMLs?</summary>
+   
+Para solicitar los BLOBs para tus HTMLs, sigue estos pasos detallados:
+
+**1. Accede a GitHub y encuentra el repositorio de Reviw:**
+Inicia sesión en tu cuenta de GitHub o regístrate si aún no tienes una. Luego, busca el repositorio de Reviw al que deseas enviar tu solicitud.
+
+**2. Crea una nueva Issue:**
+En el repositorio de Reviw, navega a la sección de "Issues" y haz clic en el botón "New Issue" para crear una nueva solicitud.
+
+**3. Selecciona la plantilla "Solicitud de un JWPUB":**
+Al crear la Issue, verás una opción para seleccionar una plantilla. Elige la plantilla de "Solicitud de un JWPUB" si está disponible. Esta plantilla debería estar diseñada para solicitar BLOBs para tus HTMLs.
+
+**4. Completa la solicitud:**
+Rellena los campos requeridos en la plantilla de solicitud. Aquí es donde debes proporcionar detalles sobre tus HTMLs y cualquier información adicional relevante. Asegúrate de ser claro y preciso en tu descripción para que el equipo de Reviw pueda entender tus necesidades.
+
+**5. Carga tus HTMLs:**
+Dentro de la Issue que estás creando, debería haber un lugar donde puedas cargar tus archivos HTML. Sube los archivos HTML que necesitas para que el equipo de Reviw pueda trabajar con ellos. **Los HTMLs debes empaquetarlos en un archivo ZIP para que puedas cargarlos.**
+
+**6. Explica tus necesidades específicas:**
+Añade cualquier información adicional o requisitos específicos que tengas para tus BLOBs. Cuanta más información proporciones, mejor será la respuesta que recibas.
+
+**7. Envía la solicitud:**
+Una vez que hayas completado todos los campos y cargado tus HTMLs, verifica que toda la información sea correcta y haz clic en el botón "Submit Issue" o su equivalente en la interfaz de GitHub para enviar la solicitud.
+
+**8. Espera la respuesta:**
+El equipo de Reviw revisará tu solicitud y proporcionará una respuesta con los BLOBs cargados, o cualquier información adicional que puedan necesitar de tu parte. Asegúrate de estar atento a las notificaciones en GitHub para recibir actualizaciones sobre tu solicitud.
+
+**Siguiendo estos pasos, podrás solicitar BLOBs para tus HTMLs de manera organizada y efectiva a través del repositorio de Reviw en GitHub.**
+</details>
 
 1. **Crea una cuenta de GitHub**: Si aún no tienes una cuenta, ve a [GitHub](https://github.com) y regístrate.
 
@@ -136,35 +171,6 @@ Una vez que hayas creado tu repositorio en GitHub, es hora de cargar los archivo
 
 ¡Eso es todo! Has cargado con éxito los archivos de tu paquete a tu repositorio en GitHub. Ahora, estos archivos estarán disponibles en tu repositorio para que otros usuarios los descarguen y utilicen.
 
-#### ¿Cómo solicito los BLOBs para mis HTMLs?
-Para solicitar los BLOBs para tus HTMLs, sigue estos pasos detallados:
-
-**1. Accede a GitHub y encuentra el repositorio de Reviw:**
-Inicia sesión en tu cuenta de GitHub o regístrate si aún no tienes una. Luego, busca el repositorio de Reviw al que deseas enviar tu solicitud.
-
-**2. Crea una nueva Issue:**
-En el repositorio de Reviw, navega a la sección de "Issues" y haz clic en el botón "New Issue" para crear una nueva solicitud.
-
-**3. Selecciona la plantilla "Solicitud de un JWPUB":**
-Al crear la Issue, verás una opción para seleccionar una plantilla. Elige la plantilla de "Solicitud de un JWPUB" si está disponible. Esta plantilla debería estar diseñada para solicitar BLOBs para tus HTMLs.
-
-**4. Completa la solicitud:**
-Rellena los campos requeridos en la plantilla de solicitud. Aquí es donde debes proporcionar detalles sobre tus HTMLs y cualquier información adicional relevante. Asegúrate de ser claro y preciso en tu descripción para que el equipo de Reviw pueda entender tus necesidades.
-
-**5. Carga tus HTMLs:**
-Dentro de la Issue que estás creando, debería haber un lugar donde puedas cargar tus archivos HTML. Sube los archivos HTML que necesitas para que el equipo de Reviw pueda trabajar con ellos. **Los HTMLs debes empaquetarlos en un archivo ZIP para que puedas cargarlos.**
-
-**6. Explica tus necesidades específicas:**
-Añade cualquier información adicional o requisitos específicos que tengas para tus BLOBs. Cuanta más información proporciones, mejor será la respuesta que recibas.
-
-**7. Envía la solicitud:**
-Una vez que hayas completado todos los campos y cargado tus HTMLs, verifica que toda la información sea correcta y haz clic en el botón "Submit Issue" o su equivalente en la interfaz de GitHub para enviar la solicitud.
-
-**8. Espera la respuesta:**
-El equipo de Reviw revisará tu solicitud y proporcionará una respuesta con los BLOBs cargados, o cualquier información adicional que puedan necesitar de tu parte. Asegúrate de estar atento a las notificaciones en GitHub para recibir actualizaciones sobre tu solicitud.
-
-**Siguiendo estos pasos, podrás solicitar BLOBs para tus HTMLs de manera organizada y efectiva a través del repositorio de Reviw en GitHub.**
-
 ### Paso 4: Elige una estrategia de versiones
 
 - Crea una etiqueta cada vez que desees lanzar una nueva versión de tu paquete. Las etiquetas deben seguir el formato de "número de versión semántica", por ejemplo, "v1.0.0".
@@ -181,7 +187,9 @@ El equipo de Reviw revisará tu solicitud y proporcionará una respuesta con los
       ```bash
      git clone https://github.com/<tu_nombre_de_usuario>/Reviw
      ```
-Si no tienes Git, sigue estos pasos para instalarlo:
+
+<details>
+<summary>Si no tienes Git, sigue estos pasos para instalarlo:</summary>
 
 **Instalación de Git en Windows:**
 
@@ -272,6 +280,7 @@ Si no tienes Git, sigue estos pasos para instalarlo:
 ---
 
 ¡Ahora tienes Git instalado en tu sistema operativo!
+</details>
 
 3. **Abre la carpeta de tu repositorio en Sublime Text**:
    - Abre Sublime Text y selecciona "File" > "Open Folder". Luego, selecciona la carpeta de tu repositorio.
