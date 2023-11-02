@@ -21,6 +21,7 @@ Siga los siguientes pasos para solicitar su JWPUB empaquetado y enviarlo a JWPUB
 
 ### Paso 1: Revisión de los paquetes existentes
 - **Instala [Reviw](https://github.com/livrasand/Reviw) para Sublime Text.**.
+  
 <details>
 <summary>¿Cómo instalar Reviw?</summary>
    
