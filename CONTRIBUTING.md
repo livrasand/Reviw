@@ -18,6 +18,71 @@ Siga los siguientes pasos para solicitar su JWPUB empaquetado y enviarlo a JWPUB
 
 ### Paso 1: Revisión de los paquetes existentes
 - **Instala [Reviw](https://github.com/livrasand/Reviw) para Sublime Text.**.
+### ¿Cómo instalar Reviw?
+Sublime Text es un editor de texto que se usa para escribir código. Reviw es una extensión para Sublime Text que ayuda a crear archivos JWPUB.
+
+Para instalar Reviw, **primero debes descargar e instalar Sublime Text**. **Luego, debes instalar Package Control**, que es una herramienta que te permite instalar extensiones para Sublime Text. **Finalmente, debes instalar Reviw usando Package Control**.
+
+**Instrucciones paso a paso**
+
+Paso 1: Descargar e instalar Sublime Text
+
+- Abre tu navegador web e ingresa a la página web de Sublime Text: https://www.sublimetext.com/
+- Haz clic en el botón "Download" para descargar el instalador de Sublime Text.
+- Abre el instalador y sigue las instrucciones en pantalla para instalar Sublime Text.
+
+**¿Qué pasa si no tengo un navegador web?**
+
+No te preocupes, **todos los sistemas operativos vienen con un navegador web por defecto**. En Windows, el navegador web por defecto es Microsoft Edge. En macOS, el navegador web por defecto es Safari. En Linux, el navegador web por defecto depende de la distribución que estés usando, pero suele ser Firefox o Chromium.
+
+**Cómo abrir un navegador web por defecto:**
+- En Windows, abre el menú Inicio y escribe "Edge". Haz clic en el icono de Edge para abrirlo.
+- En macOS, abre el Finder y haz clic en "Aplicaciones". Abre la carpeta "Internet" y haz doble clic en el icono de Safari para abrirlo.
+- En Linux, abre la terminal y usa el comando "xdg-open" para abrir el navegador web por defecto. Por ejemplo, para abrir Firefox, escribe:
+```shell
+xdg-open firefox
+```
+**Una vez que hayas abierto el navegador web por defecto, podrás usarlo para descargar e instalar Reviw.**
+
+**Paso 2: Instalar Package Control**
+Método 1:
+- Abre Sublime Text.
+- En el menú, ve a "Tools" > "Command Palette".
+- En la barra de búsqueda, escribe "Package Control: Install Package".
+- Haz clic en el resultado para instalar Package Control.
+
+Método 2:
+- Abre Sublime Text.
+- En el menú, ve a "Tools" > "Install Package Control…".
+
+Esto descargará la última versión de Package Control y verificará usando criptografía la clave pública. Si se produce un error, utilice el método **manual** en su lugar.
+
+Método manual:
+Si los métodos anteriores no es posible debido a un proxy en su red o porque está utilizando una versión antigua de Sublime Text, los siguientes pasos le ayudarán a instalar Package Control:
+
+- Haz clic en el menú, "Preferences" > "Browse Packages…"
+- Retroceda una carpeta y luego entre en la carpeta `Installed Packages/`
+- Descarge `[Package Control.sublime-package](https://packagecontrol.io/Package%20Control.sublime-package)` y cópielo en el directorio `Installed Packages/`
+- Reinicie Sublime Text
+
+¿Qué pasa si no veo la opción "Tools" en el menú?
+
+Si no ves la opción "Tools" en el menú, es posible que tu versión de Sublime Text no esté actualizada. Puedes actualizar Sublime Text desde la página web de Sublime Text.
+
+**Paso 3: Instalar Reviw**
+
+- En el menú, ve a "Tools" > "Command Palette".
+- En la barra de búsqueda, escribe "Package Control: Install Package".
+- Escribe "Reviw" en el campo de búsqueda y haz clic en el resultado.
+
+**¿Qué pasa si no veo la opción "Package Control: Install Package" en la lista?**
+
+Si no ves la opción "Package Control: Install Package" en la lista, es posible que no hayas instalado Package Control. Para instalar Package Control, sigue las instrucciones del Paso 2.
+
+**¡Listo! Reviw ya está instalado en tu Sublime Text.**
+
+Ahora sigue los siguientes pasos:
+
 - **Visite la <a href="https://livrasand.github.io/jwpub-catalog.html">página de búsqueda</a> y busque JWPUB's similares.**
 - Antes de crear tu propio JWPUB, verifica si ya existe uno similar. Si existe, considera contribuir a mejorar ese paquete en lugar de crear uno nuevo. Esto ayuda a evitar la proliferación de paquetes similares.
 
