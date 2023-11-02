@@ -1,27 +1,32 @@
 # Introducción a Reviw
+
 Reviw es una potente recopilación de componentes HTML, lleno de características. Construye cualquier documento JWPUB, desde prototipo hasta la producción en minutos.
 
 ## Inicio rápido
-Empieza incluyendo Reviw en tu producción a través de CDN sin necesidad de ningún paso de construcción. Véalo en la práctica con este [Reviw CodePen demo](https://codepen.io/livrasand/pen/rNPBqOM). 
 
-## Enlaces CDN 
+Empieza incluyendo Reviw en tu producción a través de CDN sin necesidad de ningún paso de construcción. Véalo en la práctica con este [Reviw CodePen demo](https://codepen.io/livrasand/pen/rNPBqOM).
+
+## Enlaces CDN
+
 Como referencia, aquí están nuestros enlaces primarios CDN.
 
-| Descripción | URL |
-| ------------ | ---------- |
-| CSS | [https://cdn.jsdelivr.net/gh/livrasand/livrasand.github.io@main/JW-Library-Visualizer-API/4a57204c696272617279.css](https://cdn.jsdelivr.net/gh/livrasand/livrasand.github.io@main/JW-Library-Visualizer-API/4a57204c696272617279.css) | 
-| JS | [https://cdn.jsdelivr.net/gh/livrasand/livrasand.github.io@main/JW-Library-Visualizer-API/4a57204c696272617279.js](https://cdn.jsdelivr.net/gh/livrasand/livrasand.github.io@main/JW-Library-Visualizer-API/4a57204c696272617279.js) |   
+| Descripción | URL                                                                                                                                                                                                                                    |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CSS         | [https://cdn.jsdelivr.net/gh/livrasand/livrasand.github.io@main/JW-Library-Visualizer-API/4a57204c696272617279.css](https://cdn.jsdelivr.net/gh/livrasand/livrasand.github.io@main/JW-Library-Visualizer-API/4a57204c696272617279.css) |
+| JS          | [https://cdn.jsdelivr.net/gh/livrasand/livrasand.github.io@main/JW-Library-Visualizer-API/4a57204c696272617279.js](https://cdn.jsdelivr.net/gh/livrasand/livrasand.github.io@main/JW-Library-Visualizer-API/4a57204c696272617279.js)   |
 
 # Guía Básica para Programar con Reviw
+
 Una de las mayores razones por las que los desarrolladores aman Reviw es por la el ecosistema que se ha desarrollado. Reviw no sólo ayuda al desarrollo de archivos JWPUB's más fácil, si no también tiene el objetivo de indexar todo de los JWPUB Customs disponibles.
 
-Si se ha tomado el tiempo para desarrollar un JWPUB, por favor considere añadirlo a el canal de <a href="https://livrasand.github.io/jwpub-catalog.html">JWPUB Catalog</a> predeterminado para que los usuarios puedan instalar y conservar fácilmente su JWPUB actualizado. 
+Si se ha tomado el tiempo para desarrollar un JWPUB, por favor considere añadirlo a el canal de <a href="https://livrasand.github.io/jwpub-catalog.html">JWPUB Catalog</a> predeterminado para que los usuarios puedan instalar y conservar fácilmente su JWPUB actualizado.
 
 Siga los siguientes pasos para solicitar su JWPUB empaquetado y enviarlo a JWPUB Catalog:
 
 ### Paso 1: Revisión de los paquetes existentes
+
 - **Instala [Reviw](https://github.com/livrasand/Reviw) para Sublime Text.**.
-  
+
 <details>
 <summary>¿Cómo instalar Reviw?</summary>
    
@@ -42,22 +47,27 @@ Paso 1: Descargar e instalar Sublime Text
 No te preocupes, **todos los sistemas operativos vienen con un navegador web por defecto**. En Windows, el navegador web por defecto es Microsoft Edge. En macOS, el navegador web por defecto es Safari. En Linux, el navegador web por defecto depende de la distribución que estés usando, pero suele ser Firefox o Chromium.
 
 **Cómo abrir un navegador web por defecto:**
+
 - En Windows, abre el menú Inicio y escribe "Edge". Haz clic en el icono de Edge para abrirlo.
 - En macOS, abre el Finder y haz clic en "Aplicaciones". Abre la carpeta "Internet" y haz doble clic en el icono de Safari para abrirlo.
 - En Linux, abre la terminal y usa el comando "xdg-open" para abrir el navegador web por defecto. Por ejemplo, para abrir Firefox, escribe:
+
 ```shell
 xdg-open firefox
 ```
+
 **Una vez que hayas abierto el navegador web por defecto, podrás usarlo para descargar e instalar Reviw.**
 
 **Paso 2: Instalar Package Control**
 Método 1:
+
 - Abre Sublime Text.
 - En el menú, ve a "Tools" > "Command Palette".
 - En la barra de búsqueda, escribe "Package Control: Install Package".
 - Haz clic en el resultado para instalar Package Control.
 
 Método 2:
+
 - Abre Sublime Text.
 - En el menú, ve a "Tools" > "Install Package Control…".
 
@@ -88,6 +98,7 @@ Si no ves la opción "Package Control: Install Package" en la lista, es posible 
 **¡Listo! Reviw ya está instalado en tu Sublime Text.**
 
 Ahora sigue los siguientes pasos:
+
 </details>
 
 - **Visite la <a href="https://livrasand.github.io/jwpub-catalog.html">página de búsqueda</a> y busque JWPUB's similares.**
@@ -98,7 +109,7 @@ Ahora sigue los siguientes pasos:
 - Evita usar "Reviw" en el nombre de tu paquete.
 - No uses un nombre demasiado similar a otro.
 - Evita el uso de puntos (.) en el nombre del paquete.
-- No uses caracteres especiales como "/", ":", "?", "*", etc.
+- No uses caracteres especiales como "/", ":", "?", "\*", etc.
 
 ### Paso 3: Aloja tu JWPUB en GitHub
 
@@ -134,11 +145,13 @@ Una vez que hayas completado todos los campos y cargado tus HTMLs, verifica que 
 El equipo de Reviw revisará tu solicitud y proporcionará una respuesta con los BLOBs cargados, o cualquier información adicional que puedan necesitar de tu parte. Asegúrate de estar atento a las notificaciones en GitHub para recibir actualizaciones sobre tu solicitud.
 
 **Siguiendo estos pasos, podrás solicitar BLOBs para tus HTMLs de manera organizada y efectiva a través del repositorio de Reviw en GitHub.**
+
 </details>
 
 1. **Crea una cuenta de GitHub**: Si aún no tienes una cuenta, ve a [GitHub](https://github.com) y regístrate.
 
 2. **Crea un repositorio de GitHub**:
+
    - Haz clic en el botón "New" en la página principal de GitHub.
    - Dale un nombre a tu repositorio, usa exactamente el mismo que tu proyecto hecho con Reviw.
    - Marca la opción "Public" para que sea visible para todos.
@@ -155,16 +168,20 @@ Una vez que hayas creado tu repositorio en GitHub, es hora de cargar los archivo
 3. **Navega a la pestaña "Code"**: Una vez que estés dentro de tu repositorio, verás varias pestañas justo debajo del nombre del repositorio. Haz clic en la pestaña que dice "Code". Esto te llevará a la página que te permite cargar archivos.
 
 4. **Arrastra y suelta archivos o elige archivos manualmente**:
+
    - Puedes arrastrar y soltar los archivos de tu paquete directamente desde tu computadora a la ventana de GitHub (recomiendo este).
    - También puedes hacer clic en el botón "Add file" y seleccionar "Upload files" para abrir un explorador de archivos y elegir los archivos de tu paquete uno por uno.
 
 5. **Confirma los cambios**:
+
    - Después de cargar los archivos, verás una sección donde puedes agregar un comentario para describir los cambios que estás realizando. Esto es útil para mantener un registro de las actualizaciones que haces en tu repositorio. Asegúrate de proporcionar una breve descripción de los archivos que estás cargando.
 
 6. **Realiza la carga**:
+
    - Una vez que hayas añadido los archivos y proporcionado un comentario, haz clic en el botón "Commit changes" o "Commit" para confirmar la carga de los archivos.
 
 7. **Espera a que los archivos se carguen**:
+
    - GitHub procesará la carga de tus archivos. Esto puede tomar un momento, especialmente si estás cargando varios archivos o archivos grandes.
 
 8. **Verifica los archivos cargados**:
@@ -179,13 +196,15 @@ Una vez que hayas creado tu repositorio en GitHub, es hora de cargar los archivo
 ### Paso 5: Prepara tu repositorio
 
 1. **Agrega tu repositorio al canal por defecto**:
+
    - Haz un "Fork" del repositorio **"Reviw"** desde [Reviw Repository](https://github.com/livrasand/Reviw) haciendo clic en el botón "Fork" en la esquina superior derecha de la página.
 
 2. **Clona tu repositorio a tu máquina**:
+
    - Abre la consola de comandos de tu sistema operativo. Dependiendo de tu sistema, puedes usar la consola de comandos de Windows, la terminal de macOS o la terminal de Linux.
    - Ejecuta el siguiente comando (sustituye `<tu_nombre_de_usuario>` por tu nombre de usuario de GitHub):
 
-      ```bash
+     ```bash
      git clone https://github.com/<tu_nombre_de_usuario>/Reviw
      ```
 
@@ -237,6 +256,7 @@ Una vez que hayas creado tu repositorio en GitHub, es hora de cargar los archivo
 1. **Instalación a través de Terminal:**
 
    - macOS generalmente viene con Git preinstalado. Puedes verificar si Git ya está instalado ejecutando el siguiente comando en la Terminal:
+
      ```
      git --version
      ```
@@ -263,6 +283,7 @@ Una vez que hayas creado tu repositorio en GitHub, es hora de cargar los archivo
 3. **Instala Git:**
 
    - Usa el siguiente comando para instalar Git:
+
      ```
      sudo apt install git
      ```
@@ -272,6 +293,7 @@ Una vez que hayas creado tu repositorio en GitHub, es hora de cargar los archivo
 4. **Verifica la instalación:**
 
    - Después de la instalación, verifica la versión de Git ejecutando el siguiente comando:
+
      ```
      git --version
      ```
@@ -281,9 +303,11 @@ Una vez que hayas creado tu repositorio en GitHub, es hora de cargar los archivo
 ---
 
 ¡Ahora tienes Git instalado en tu sistema operativo!
+
 </details>
 
 3. **Abre la carpeta de tu repositorio en Sublime Text**:
+
    - Abre Sublime Text y selecciona "File" > "Open Folder". Luego, selecciona la carpeta de tu repositorio.
 
 4. **Agrega información de tu paquete al archivo JSON**:
@@ -299,7 +323,7 @@ Una vez que hayas creado tu repositorio en GitHub, es hora de cargar los archivo
    "language":"1",
    "symbol":"ritf",
    "year":"2023"
-}, 
+},
 ```
 
 **La URL de descarga se añadirá automáticamente más adelante.**
@@ -307,16 +331,18 @@ Una vez que hayas creado tu repositorio en GitHub, es hora de cargar los archivo
 ### Paso 6: Ejecuta las pruebas
 
 1. **Instala el paquete "ReviwTools" en Sublime Text**:
+
    - Abre Sublime Text.
    - Ve a "Tools" > "Command Palette".
    - Escribe "Package Control: Install Package" y presiona Enter.
    - Busca "ReviwTools" y selecciónalo para instalarlo.
 
 2. **Ejecuta las pruebas**:
+
    - Ve a "Tools" > "Command Palette" nuevamente.
    - Escribe `ReviwTools: Test Default File` y presiona Enter.
    - Asegúrate de que las pruebas pasen sin errores.
-  
+
 3. **Sincroniza los cambios con tu repositorio:**
 
    - Una vez que hayas ejecutado las pruebas y estés seguro de que tu paquete funciona correctamente, es importante sincronizar los cambios con tu repositorio en GitHub para que otros puedan acceder a la última versión de tu JWPUB.
@@ -346,19 +372,22 @@ Una vez que hayas creado tu repositorio en GitHub, es hora de cargar los archivo
 ### Paso 7: Enviar un Pull Request
 
 1. **Navega a tu Fork en GitHub**:
+
    - Visita la página de tu repositorio en GitHub.
 
 2. **Crea un Pull Request**:
+
    - Haz clic en la pestaña "Pull Requests" en la parte superior.
    - Luego, haz clic en "New Pull Request".
 
 3. **Agrega una descripción**:
+
    - En el campo "Título", escribe una breve descripción de los cambios que estás proponiendo.
 
 4. **Crea el Pull Request**:
    - Haz clic en el botón "Create Pull Request" para enviar tus cambios para su revisión.
 
-¡Eso es todo! Has creado y contribuido con éxito a un JWPUB para JW Library utilizando GitHub, Git, Sublime Text y Reviw. Tu paquete estará disponible para otros usuarios una vez que se apruebe el Pull Request. 
+¡Eso es todo! Has creado y contribuido con éxito a un JWPUB para JW Library utilizando GitHub, Git, Sublime Text y Reviw. Tu paquete estará disponible para otros usuarios una vez que se apruebe el Pull Request.
 
 Por favor, tenga paciencia a medida que se revise su solicitud de tracción. Revisamos los cambios a tratar de prevenir JWPUB's duplicados, detectar errores comunes y ayudar a mejorar la experiencia del archivo para los usuarios. Cuando esté aprobado, verás tu JWPUB en <a href="https://livrasand.github.io/jwpub-catalog.html">JWPUB Catalog</a>.
 
