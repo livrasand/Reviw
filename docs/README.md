@@ -157,7 +157,7 @@ El equipo de Reviw revisará tu solicitud y proporcionará una respuesta con los
    - Marca la opción "Public" para que sea visible para todos.
    - No selecciones "Initialize this repository with a README" por ahora.
 
-3. **Carga tus HTML al repositorio en GitHub**
+3. **Carga tu proyecto local al repositorio en GitHub**
 
 Una vez que hayas creado tu repositorio en GitHub, es hora de cargar los archivos de tu paquete. Esto se hace a través de la interfaz web de GitHub, lo que significa que no necesitas usar la línea de comandos o herramientas adicionales para este paso. Sigue estos pasos:
 
@@ -192,6 +192,36 @@ Una vez que hayas creado tu repositorio en GitHub, es hora de cargar los archivo
 ### Paso 4: Elige una estrategia de versiones
 
 - Crea una etiqueta cada vez que desees lanzar una nueva versión de tu paquete. Las etiquetas deben seguir el formato de "número de versión semántica", por ejemplo, "v1.0.0".
+
+  <details>
+     <summary>Instrucciones para crear y publicar un paquete JWPUB</summary>
+<br>
+**Paso 1: Preparación del proyecto**
+Asegúrate de que tu proyecto esté completo y listo para ser empaquetado como un paquete JWPUB. Esto debe incluir imágenes, el archivo manifest, la base de datos y los archivos HTML. Además, asegúrate de haber solicitado los BLOBs necesarios y los hayas importado a la base de datos de tu proyecto.
+
+**Paso 2: Crear el paquete JWPUB**
+- Abre tu proyecto en Sublime Text si aún no lo tienes abierto.
+- Asegúrate de estar en la carpeta raíz de tu proyecto.
+- Abre la paleta de comandos de Sublime Text utilizando <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (o <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> en macOS).
+- Escribe `Reviw: Crear paquete JWPUB` y selecciona esa opción.
+
+**Paso 3: Configuración del paquete JWPUB**
+Se te pedirá que ingreses información sobre el paquete JWPUB, como el título, la descripción, la versión y otros detalles relevantes. Asegúrate de proporcionar esta información con precisión.
+
+**Paso 4: Empaquetar el proyecto**
+Una vez que hayas completado la configuración del paquete, Reviw empaquetará tu proyecto en un archivo JWPUB listo para ser distribuido.
+
+**Paso 5: Publicar en GitHub Releases con etiquetado Semver**
+- Accede a tu repositorio de GitHub donde tienes alojado el proyecto.
+- Ve a la sección "Releases" (Versiones) en tu repositorio.
+- Haz clic en **"Create a new release"** (Crear una nueva versión).
+- Completa los detalles de la versión, incluyendo la versión Semver (por ejemplo, "v1.0.0").
+- Carga el archivo JWPUB empaquetado que generaste en el paso 4.
+- Añade una descripción detallada de la versión, incluyendo cambios, mejoras o correcciones realizadas.
+- Publica la versión.
+
+Con estas instrucciones, habrás creado y publicado un paquete JWPUB utilizando Reviw en Sublime Text y lo habrás etiquetado utilizando la convención Semver en tu repositorio de GitHub. Los usuarios podrán descargar y utilizar tu paquete JWPUB para sus propios proyectos.
+  </details>
 
 ### Paso 5: Prepara tu repositorio
 
