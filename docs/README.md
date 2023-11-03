@@ -195,7 +195,6 @@ Una vez que hayas creado tu repositorio en GitHub, es hora de cargar los archivo
 
   <details>
      <summary>Instrucciones para crear y publicar un paquete JWPUB</summary>
-<br>
 **Paso 1: Preparación del proyecto**
 Asegúrate de que tu proyecto esté completo y listo para ser empaquetado como un paquete JWPUB. Esto debe incluir imágenes, el archivo manifest, la base de datos y los archivos HTML. Además, asegúrate de haber solicitado los BLOBs necesarios y los hayas importado a la base de datos de tu proyecto.
 
