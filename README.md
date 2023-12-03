@@ -61,11 +61,6 @@ crear>copyright
 ```
 
 ## Comienza a programar
-Si es principiante en los JWPUB, puede comenzar por descargar el JWPUB [
-Reviw: Creación Profesional de Archivos JWPUB](https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/rasm_S.jwpub), para que comprenda que es un JWPUB y como funciona. 
-
-**NOTA:** Este nuevo JWPUB remplazó la wiki.
-
 Aprende a crear tu propio JWPUB en nuestra [guía básica](https://livrasand.github.io/Reviw/), contienen mucha información, tómese su tiempo y lea atentamente estas instrucciones. **SIGA PASO A PASO ESA GUÍA PARA CREAR UN JWPUB**.
 
 ## ⚙️ Instalación
