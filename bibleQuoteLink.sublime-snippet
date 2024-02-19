@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[jwpub://b/NWTR/$1-$2]]></content>
-    <tabTrigger>insertar>citabiblica</tabTrigger>
-    <description>Enlace para una cita bíblica</description>
+    <content><![CDATA[jwpub://b/NWTR/1:1:1-1:1:1]]></content>
+    <tabTrigger>crear>citaBiblicaLink</tabTrigger>
+    <description>Enlace para cita bíblica</description>
     <scope>text.html</scope>
 </snippet>

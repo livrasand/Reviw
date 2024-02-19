@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[<h1 class="coverTtl" id="p$1" data-pid="$1"><span id="page$2" class="pageNum" aria-hidden="true" data-no="$2" data-before-text="$2" style="display: inline;"></span><strong>Título de la publicación</strong></h1>]]></content>
+    <content><![CDATA[<h1 class="coverTtl" id="p1" data-pid="1"><span id="page2" class="pageNum" aria-hidden="true" data-no="2" data-before-text="2" style="display: inline;"></span><strong>Título de la publicación</strong></h1>]]></content>
     <tabTrigger>crear>titulo>portada>numpag</tabTrigger>
     <description>Título de portada con número de página</description>
     <scope>text.html</scope>
