@@ -16,16 +16,16 @@
         "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_07/programs-events_univ_pnr_lg.png.e7adca68b5ba91f624d34770c60684ac.png", 
         "descargas": 1417, 
         "title": "Bosquejos para las reuniones"
-    },
+    }, 
     {
-       "imageURL": "https://raw.githubusercontent.com/livrasand/Reviw/main/examples-wts/5-T_Portugu%C3%AAs/CA-copgm24_T/contents%7E/1102024245_univ_sqr-600x600.jpg",
-       "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CA-cdrnbrpgm24_T.jwpub",
-       "repositoryURL": "https://github.com/livrasand/Reviw/tree/main/examples-wts/5-T_Portugu%C3%AAs/CA-copgm24_T",
-       "title": "Caderno de Anotações do Programa da Assembleia de Circuito de 2023-2024 com o Superintendente de Circuito",
-       "language": "5",
-       "symbol": "cabrcdrn24",
-       "year": "2024"
-    },  
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CA-cdrnbrpgm24_T.jwpub", 
+        "symbol": "cabrcdrn24", 
+        "year": "2024", 
+        "title": "Caderno de Anotações do Programa da Assembleia de Circuito de 2023-2024 com o Superintendente de Circuito", 
+        "imageURL": "https://raw.githubusercontent.com/livrasand/Reviw/main/examples-wts/5-T_Portugu%C3%AAs/CA-copgm24_T/contents%7E/1102024245_univ_sqr-600x600.jpg", 
+        "language": "5", 
+        "repositoryURL": "https://github.com/livrasand/Reviw/tree/main/examples-wts/5-T_Portugu%C3%AAs/CA-copgm24_T"
+    }, 
     {
         "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CA-cdrncpgm23_S.jwpub", 
         "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2022_10/1102023245_univ_sqr.jpg.914f3b85cafcb8eae4bb6bd797fe91ae.jpg", 
@@ -93,6 +93,12 @@
         "title": "La Torre del Vigía y Heraldo de la Presencia de Cristo Vol. XLVI, Marzo 1, 1925, No. 3"
     }, 
     {
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/mbrs24_S.jwpub", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_02/202023088_univ_sqr.jpg.f7bebcced5e0b9f003462b719cb5ea59.jpg", 
+        "descargas": 391, 
+        "title": "Lectura bíblica interactiva para la Conmemoración del 2024"
+    }, 
+    {
         "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/mbrs23_S.jwpub", 
         "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_04/202023088_univ_sqr.jpg.fde9587f54f3d5539be5a8f0d557f3cc.jpg", 
         "descargas": 34, 
@@ -129,17 +135,29 @@
         "title": "Programa de actividades para la adoración en familia (septiembre 2022)"
     }, 
     {
+        "downloadURL": "https://github.com/DeadalusNF/JWPUB/raw/main/CA-cdrnbrpgm24_I/CA-cdrnbrpgm24_I.jwpub", 
+        "imageURL": "https://raw.githubusercontent.com/DeadalusNF/JWPUB/main/CA-cdrnbrpgm24_I/1102024241_univ_sqr.jpg", 
+        "descargas": 245, 
+        "title": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2023-2024 (con il rappresentante della filiale)"
+    }, 
+    {
         "downloadURL": "https://github.com/DeadalusNF/JWPUB/raw/main/CA-cdrncopgm24_I/CA-cdrncopgm24_I.jwpub", 
         "imageURL": "https://raw.githubusercontent.com/DeadalusNF/JWPUB/main/CA-cdrncopgm24_I/1102024245_univ_sqr.jpg", 
-        "descargas": 0, 
+        "descargas": 134, 
         "title": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2023-2024 (con il Sorvegliante di circoscrizione)"
     }, 
     {
-        "downloadURL": "https://github.com/DeadalusNF/JWPUB/raw/main/CA-cdrnbrpgm24_I/CA-cdrnbrpgm24_I.jwpub", 
-        "imageURL": "https://raw.githubusercontent.com/DeadalusNF/JWPUB/main/CA-cdrnbrpgm24_I/1102024241_univ_sqr.jpg", 
+        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/ijwwt_I/ijwwt_I.jwpub", 
+        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/ijwwt_I/1011441_univ_sqr_lg.jpg", 
         "descargas": 0, 
-        "title": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2023-2024 (con il rappresentante della filiale)"
-    },
+        "title": "Schede per i ragazzi"
+    }, 
+    {
+        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/ijwbs_I/ijwbs_I.jwpub", 
+        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/ijwbs_I/1011257_univ_sqr_lg.jpg", 
+        "descargas": 0, 
+        "title": "Storie bibliche a fumetti"
+    }, 
     {
         "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/w_E_19250301.jwpub", 
         "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_04/w19250301_tile-600x600.jpg.9ae46c90c785714850515462ab005b0d.jpg", 

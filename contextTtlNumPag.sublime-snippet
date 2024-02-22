@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[<p class="contextTtl" id="p$1" data-pid="$1"><span id="page$2" class="pageNum" aria-hidden="true" data-no="$2" data-before-text="$2" style="display: inline;"></span><strong>Título de contexto con número de página</strong></p>]]></content>
+    <content><![CDATA[<p class="contextTtl" id="p1" data-pid="1"><span id="page2" class="pageNum" aria-hidden="true" data-no="2" data-before-text="2" style="display: inline;"></span><strong>Título de contexto con número de página</strong></p>]]></content>
     <tabTrigger>crear>titulo>contexto>numpag</tabTrigger>
     <description>Título de contexto con número de página</description>
     <scope>text.html</scope>
