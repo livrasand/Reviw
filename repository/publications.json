@@ -139,35 +139,41 @@
         "descargas": 805, 
         "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2022_09/46616d696c7920576f726b73686973_univ_sqr.jpg.d6da96b500cf193e3ec4cc199b686653.jpg", 
         "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/fws_S_202209.jwpub"
-    }, 
-    {
-        "title": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2023-2024 (con il rappresentante della filiale)", 
-        "descargas": 245, 
-        "imageURL": "https://raw.githubusercontent.com/DeadalusNF/JWPUB/main/CA-cdrnbrpgm24_I/1102024241_univ_sqr.jpg", 
-        "downloadURL": "https://github.com/DeadalusNF/JWPUB/raw/main/CA-cdrnbrpgm24_I/CA-cdrnbrpgm24_I.jwpub"
-    }, 
-    {
-        "title": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2023-2024 (con il Sorvegliante di circoscrizione)", 
-        "descargas": 134, 
-        "imageURL": "https://raw.githubusercontent.com/DeadalusNF/JWPUB/main/CA-cdrncopgm24_I/1102024245_univ_sqr.jpg", 
-        "downloadURL": "https://github.com/DeadalusNF/JWPUB/raw/main/CA-cdrncopgm24_I/CA-cdrncopgm24_I.jwpub"
-    }, 
-    {
-        "title": "Schede per i ragazzi", 
-        "descargas": 0, 
-        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/ijwwt_I/1011441_univ_sqr_lg.jpg", 
-        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/ijwwt_I/ijwwt_I.jwpub"
-    }, 
-    {
-        "title": "Storie bibliche a fumetti", 
-        "descargas": 0, 
-        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/ijwbs_I/1011257_univ_sqr_lg.jpg", 
-        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/ijwbs_I/ijwbs_I.jwpub"
-    }, 
+    },
     {
         "title": "The Watchtower and Herald of Christ's Presence — Birth Of The Nation", 
         "descargas": 0, 
         "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_04/w19250301_tile-600x600.jpg.9ae46c90c785714850515462ab005b0d.jpg", 
         "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/w_E_19250301.jwpub"
+    }
+    {
+        "title": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2023-2024 (con il rappresentante della filiale)", 
+        "descargas": 745, 
+        "imageURL": "https://raw.githubusercontent.com/DeadalusNF/JWPUB/main/CA-cdrnbrpgm24_I/1102024241_univ_sqr.jpg", 
+        "downloadURL": "https://github.com/DeadalusNF/JWPUB/raw/main/CA-cdrnbrpgm24_I/CA-cdrnbrpgm24_I.jwpub"
+    }, 
+    {
+        "title": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2023-2024 (con il Sorvegliante di circoscrizione)", 
+        "descargas": 534, 
+        "imageURL": "https://raw.githubusercontent.com/DeadalusNF/JWPUB/main/CA-cdrncopgm24_I/1102024245_univ_sqr.jpg", 
+        "downloadURL": "https://github.com/DeadalusNF/JWPUB/raw/main/CA-cdrncopgm24_I/CA-cdrncopgm24_I.jwpub"
+    }, 
+    {
+        "title": "Schede per i ragazzi", 
+        "descargas": 356, 
+        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/ijwwt_I/1011441_univ_sqr_lg.jpg", 
+        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/ijwwt_I/ijwwt_I.jwpub"
+    }, 
+    {
+        "title": "Storie bibliche a fumetti", 
+        "descargas": 123, 
+        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/ijwbs_I/1011257_univ_sqr_lg.jpg", 
+        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/ijwbs_I/ijwbs_I.jwpub"
+    }, 
+    {
+        "title": "Lettura biblica per la Commemorazione del 2024", 
+        "descargas": 0, 
+        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/mbrs24_I/1102024385_univ_sqr.jpg", 
+        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/mbrs24_I/mbrs24_I.jwpub"
     }
 ]
