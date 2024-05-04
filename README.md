@@ -8,7 +8,7 @@
 
 Reviw es una herramienta gratuita, sin publicidad y de código abierto que está disponible para todos.
 
-**¿Qué esperas para probarla?**
+**¿Qué esperas para probarla?** Visita la [wiki](https://github.com/livrasand/Reviw/wiki) para amprender a crear un JWPUB.
 
 ---
 

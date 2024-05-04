@@ -18,13 +18,13 @@
         "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/scpm_S.jwpub"
     }, 
     {
-        "imageURL": "https://raw.githubusercontent.com/livrasand/Reviw/main/examples-wts/5-T_Portugu%C3%AAs/CA-copgm24_T/contents%7E/1102024245_univ_sqr-600x600.jpg", 
         "title": "Caderno de Anotações do Programa da Assembleia de Circuito de 2023-2024 com o Superintendente de Circuito", 
         "language": "5", 
         "year": "2024", 
-        "repositoryURL": "https://github.com/livrasand/Reviw/tree/main/examples-wts/5-T_Portugu%C3%AAs/CA-copgm24_T", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CA-cdrnbrpgm24_T.jwpub", 
         "symbol": "cabrcdrn24", 
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CA-cdrnbrpgm24_T.jwpub"
+        "imageURL": "https://raw.githubusercontent.com/livrasand/Reviw/main/examples-wts/5-T_Portugu%C3%AAs/CA-copgm24_T/contents%7E/1102024245_univ_sqr-600x600.jpg", 
+        "repositoryURL": "https://github.com/livrasand/Reviw/tree/main/examples-wts/5-T_Portugu%C3%AAs/CA-copgm24_T"
     }, 
     {
         "title": "Cuaderno de apuntes para la asamblea de circuito 2022-2023 (con el superintendente de circuito)", 
@@ -109,6 +109,12 @@
         "descargas": 34, 
         "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_04/202023088_univ_sqr.jpg.fde9587f54f3d5539be5a8f0d557f3cc.jpg", 
         "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/mbrs23_S.jwpub"
+    }, 
+    {
+        "title": "Lettura biblica per la Commemorazione del 2024", 
+        "descargas": 0, 
+        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/mbrs24_I/1102024385_univ_sqr.jpg", 
+        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/mbrs24_I/mbrs24_I.jwpub"
     }, 
     {
         "title": "Programa de actividades para la adoración en familia (julio 2023)", 
