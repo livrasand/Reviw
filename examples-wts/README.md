@@ -17,7 +17,6 @@ Si desea contribuir a este directorio, puede enviar sus propios ejemplos de publ
 2. Coloque los archivos de sus ejemplos en la carpeta del JWPUB, si no existe, créalo.
 3. Envíe un Pull request a este repositorio.
 
-Aprende más en nuestra [guía de contribución](https://github.com/livrasand/Reviw/blob/main/CONTRIBUTING.md) para obtener más detalles.
 
 ## Agradecimientos
 
