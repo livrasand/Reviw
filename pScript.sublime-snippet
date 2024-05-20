@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[<p id="p$1" data-pid="$1" class="si">Photo Credits: Página&nbsp;15: Image © Homo Cosmicos/Shutterstock; página&nbsp;17: NASA, ESA and the Hubble Heritage Team (STScI/AURA)-ESA/Hubble Collaboration. Licensed under CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/). Source: https://esahubble.org/images/heic0702a/; página&nbsp;56: Photo by US Signal Corps/The LIFE Picture Collection via Getty Images; página&nbsp;76: Château de Versailles, France/Bridgeman Images; páginas 103 y 131: Based on NASA/Visible Earth imagery; página 163: ©&nbsp;SINGLECELL ANIMATION LLC/Science Source; página 183: Daniel Osterkamp/Moment/Getty Images</p>]]></content>
-    <tabTrigger>crear>parrafo>script</tabTrigger>
-    <description>Párrafo estilo script.</description>
-    <scope>text.html</scope>
-</snippet>

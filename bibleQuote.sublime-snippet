@@ -1,7 +1,0 @@
-<snippet>
-    <content><![CDATA[<p id="p1" data-pid="1" class="themeScrp">“Los que buscan a Jehová lo alabarán. Que ustedes vivan para siempre” (<a href="" data-bid="1-1" class="b">Salmo 22:26</a>).</p>]]></content>
-    <tabTrigger>crear>citabiblica</tabTrigger>
-
-    <description>Cita bíblica</description>
-    <scope>text.html</scope>
-</snippet>

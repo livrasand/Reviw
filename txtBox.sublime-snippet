@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-<div class="blockTxt"><p id="p52" data-pid="52" class="sc">La&nbsp;Biblia nos ayuda a&nbsp;acercarnos a Jehová.</p>
-</div>]]></content>
-    <tabTrigger>crear>recuadro>comentario</tabTrigger>
-    <description>Recuadro con un comentario</description>
-    <scope>text.html</scope>
-</snippet>
