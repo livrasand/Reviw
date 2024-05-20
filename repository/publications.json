@@ -12,6 +12,12 @@
         "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CO-cdrn23_E.jwpub"
     }, 
     {
+        "descargas": 0, 
+        "title": "Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_02/1102021805_univ_sqr-600x600.jpg.55e1f90ed6a04e20c34e0c216cd464cd.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/lffic_MYO.jwpub"
+    }, 
+    {
         "descargas": 1417, 
         "title": "Bosquejos para las reuniones", 
         "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_07/programs-events_univ_pnr_lg.png.e7adca68b5ba91f624d34770c60684ac.png", 
@@ -82,6 +88,12 @@
     }, 
     {
         "descargas": 0, 
+        "title": "Cuadérno jü Conmemoraciónta 2024ta bechïbo", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_02/1102023385_univ_sqr.jpg.61080ede739fe1589b7c1b3c0a36e14b.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/cdrn-mi24_MYO.jwpub"
+    }, 
+    {
+        "descargas": 0, 
         "title": "Examinando las Escrituras todos los días 2024 (con videos hasta agosto)", 
         "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_04/1102024216_univ_sqr-270x270.jpg.359a84dd8a35cf60ffee001aa04b0341.jpg.cc70b9457fd15358d3911203fa3aad73.jpg", 
         "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/es24_S.jwpub"
@@ -103,6 +115,12 @@
         "title": "Guía de estudio para los testigos de Jehová 2018", 
         "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_04/1204260_univ_sqr-600x600.jpg.e83c53b622e7b27bbe3170cf0604b61d.jpg", 
         "downloadURL": "https://www.recursosteocraticos.com/files/file/11038-jw-library-gu%C3%ADa-de-estudio-para-los-testigos-de-jehov%C3%A1-2018/?do=download"
+    }, 
+    {
+        "descargas": 0, 
+        "title": "Historias bíblicas ilustradas", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_06/1011257_univ_sqr_lg.jpg.970e78e813e2db062d2c969a1382001c.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/ibs_S.jwpub"
     }, 
     {
         "descargas": 171, 
@@ -199,5 +217,11 @@
         "title": "Triángulos Púrpuras: “Víctimas Olvidadas” del Régimen Nazi", 
         "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_04/1101999290_univ_sqr-600x600.jpg.99e8b030830d2978d36a8c254219aad4.jpg", 
         "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/brfi_S.jwpub"
+    }, 
+    {
+        "descargas": 0, 
+        "title": "¡Al’leake jiba bechïbo jiapsa! Ju Biblia enchi a bit’tuana jáchini", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_03/1102021352_univ_sqr-600x600.jpg.660fc3a04c60c59b9092fb7f450fbfaa.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/lffc_MYO.jwpub"
     }
 ]
