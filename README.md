@@ -44,7 +44,7 @@ Nuestros CDNs actúan como intermediarios que permiten cargar y entregar tus arc
 ```
 
 ## Comienza a programar
-Aprende a crear tu propio JWPUB en nuestra [Wiki](https://livrasand.github.io/Reviw/wiki), contiene mucha información, tómese su tiempo y lea atentamente estas instrucciones. **SIGA PASO A PASO ESA GUÍA PARA CREAR UN JWPUB**.
+Aprende a crear tu propio JWPUB en nuestra [Wiki](https://github.com/livrasand/Reviw/wiki), contiene mucha información, tómese su tiempo y lea atentamente estas instrucciones. **SIGA PASO A PASO ESA GUÍA PARA CREAR UN JWPUB**.
 
 ## ⚙️ Instalación
 Instala el empaquetado de Reviw para Sublime Text, para ello ejecuta Command Palette: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>.
