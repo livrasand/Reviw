@@ -1,0 +1,56 @@
+{
+	"name": "dta_X.jwpub",
+	"hash": "27ae4cdcaffc0c0dae6fc9d349e34c8d09b861036f762fb920695201da601949",
+	"timestamp": "2024-05-11T20:20:20Z",
+	"version": 1,
+	"expandedSize": 837310,
+	"contentFormat": "z-a",
+	"htmlValidated": false,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 11937,
+	"publication": { 
+		"fileName": "dta_X.db",
+		"type": 1,
+		"title": "",
+		"shortTitle": "Die Technickanweisungen für VSS",
+		"displayTitle": "Die Technickanweisungen (dta)",
+		"referenceTitle": "Die Technickanweisungen",
+		"undatedReferenceTitle": "Die Technickanweisungen",
+		"titleRich": "Die Technickanweisungen",
+		"displayTitleRich": "Die Technickanweisungen  (dta)",
+		"referenceTitleRich": "BDie Technickanweisungen",
+		"undatedReferenceTitleRich": "Die Technickanweisungen",
+		"symbol": "dta",
+		"uniqueEnglishSymbol": "dta",
+		"uniqueSymbol": "dta",
+		"undatedSymbol": "dta",
+		"englishSymbol": "dta",
+		"language": 2,
+		"hash": "18989b881486e6ab72f1d3f7a8d4cfdfd8942ab3",
+		"timestamp": "2024-05-11T20:20:20Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2024,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Book",
+		"rootSymbol": "dta",
+		"rootYear": 2024,
+		"rootLanguage": 2,
+		"images": [ 
+			{
+				"signature": "753ae6a0e8ddf94db40509b5c45b7229edb42ef4:400:400",
+				"fileName": "programs-events_univ_pnr_lg.png",
+				"type": "c",
+				"attribute": "r",
+				"width": 400,
+				"height": 400	
+			}
+		],
+		"categories": [ 
+				"bk"
+		],
+		
+	}
+}
