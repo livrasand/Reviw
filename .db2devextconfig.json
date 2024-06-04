@@ -1,0 +1,13 @@
+{
+    "create_database.sql": {
+        "execute": {
+            "connectionOptions": "UseNewConnection",
+            "onSuccessOptions": "CommitOnEachStmt",
+            "onErrorOptions": "OnErrContinue",
+            "terminator": ";",
+            "currentSchema": "",
+            "currentPath": "",
+            "useUpperCaseOption": true
+        }
+    }
+}
