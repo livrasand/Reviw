@@ -1,0 +1,131 @@
+{
+    "name": "CA-cdrnbrpgm24_T.jwpub", 
+    "hash": "5585d67605c19d6e0ef000cce95cbf157c31908f968d0fd22947b3ff616ecd1a", 
+    "timestamp": "2023-10-31T12:59:12Z", 
+    "version": 1, 
+    "expandedSize": 840780, 
+    "contentFormat": "z-a", 
+    "htmlValidated": false, 
+    "mepsPlatformVersion": 2.100000, 
+    "mepsBuildNumber": 12365, 
+    "publication": {
+        "fileName": "CA-cdrnbrpgm24_T.db", 
+        "type": 1, 
+        "title": "Caderno de Anotações do Programa da Assembleia de Circuito de 2023-2024 com o Superintendente de Circuito", 
+        "shortTitle": "Caderno de Anotações do Programa da Assembleia de Circuito de 2023-2024 com o Superintendente de Circuito", 
+        "displayTitle": "Caderno de Anotações do Programa da Assembleia de Circuito de 2023-2024 com o Superintendente de Circuito (CA-cdrnbrpgm24)", 
+        "referenceTitle": "Caderno de Anotações do Programa da Assembleia de Circuito de 2023-2024 com o Superintendente de Circuito", 
+        "undatedReferenceTitle": "Caderno de Anotações do Programa da Assembleia de Circuito de 2023-2024 com o Superintendente de Circuito", 
+        "titleRich": "Caderno de Anotações do Programa da Assembleia de Circuito de 2023-2024 com o Superintendente de Circuito", 
+        "displayTitleRich": "Caderno de Anotações do Programa da Assembleia de Circuito de 2023-2024 com o Superintendente de Circuito (CA-cdrnbrpgm24)", 
+        "referenceTitleRich": "Caderno de Anotações do Programa da Assembleia de Circuito de 2023-2024 com o Superintendente de Circuito", 
+        "undatedReferenceTitleRich": "Caderno de Anotações do Programa da Assembleia de Circuito de 2023-2024 com o Superintendente de Circuito", 
+        "symbol": "CA-cdrnbrpgm24", 
+        "uniqueEnglishSymbol": "CA-cdrnbrpgm24", 
+        "uniqueSymbol": "CA-cdrnbrpgm24", 
+        "undatedSymbol": "CA-cdrnbrpgm24", 
+        "englishSymbol": "CA-cdrnbrpgm24", 
+        "language": 5, 
+        "hash": "", 
+        "timestamp": "2023-10-31T12:59:12Z", 
+        "minPlatformVersion": 1, 
+        "schemaVersion": 8, 
+        "year": 2024, 
+        "issueId": 0, 
+        "issueNumber": 0, 
+        "variation": "", 
+        "publicationType": "Program", 
+        "rootSymbol": "CA-cdrnbrpgm24", 
+        "rootYear": 2024, 
+        "rootLanguage": 0, 
+        "images": [ 
+            {
+                "signature": "88927b09ccbf3168007ac171b88ed51d8becc697:120:120",
+                "fileName": "1102024241_univ_sqr-120x120.jpg",
+                "type": "t",
+                "attribute": "r",
+                "width": 120,
+                "height": 120
+            },
+            {
+                "signature": "88927b09ccbf3168007ac171b88ed51d8becc697:270:270",
+                "fileName": "1102024241_univ_sqr-270x270.jpg",
+                "type": "t",
+                "attribute": "r",
+                "width": 270,
+                "height": 270
+            },
+            {
+                "signature": "88927b09ccbf3168007ac171b88ed51d8becc697:600:600",
+                "fileName": "1102024241_univ_sqr-600x600.jpg",
+                "type": "t",
+                "attribute": "r",
+                "width": 600,
+                "height": 600
+            },
+            {
+                "signature": "fbaa3e89281c0ad463f8a74b1b7799d63ca5e52b:240:120",
+                "fileName": "1102024241_univ_lsr-240x120.jpg",
+                "type": "lsr",
+                "attribute": "r",
+                "width": 240,
+                "height": 120
+            },
+            {
+                "signature": "fbaa3e89281c0ad463f8a74b1b7799d63ca5e52b:560:280",
+                "fileName": "1102024241_univ_lsr-560x280.jpg",
+                "type": "lsr",
+                "attribute": "r",
+                "width": 560,
+                "height": 280
+            },
+            {
+                "signature": "fbaa3e89281c0ad463f8a74b1b7799d63ca5e52b:1200:600",
+                "fileName": "1102024241_univ_lsr-1200x600.jpg",
+                "type": "lsr",
+                "attribute": "r",
+                "width": 1200,
+                "height": 600
+            },
+            {
+                "signature": "5369733fc29e8edef9100345074e2a2e1842a6ef:360:120",
+                "fileName": "1102024241_univ_pnr-360x120.jpg",
+                "type": "pnr",
+                "attribute": "r",
+                "width": 360,
+                "height": 120
+            },
+            {
+                "signature": "5369733fc29e8edef9100345074e2a2e1842a6ef:810:270",
+                "fileName": "1102024241_univ_pnr-810x270.jpg",
+                "type": "pnr",
+                "attribute": "r",
+                "width": 810,
+                "height": 270
+            },
+            {
+                "signature": "5369733fc29e8edef9100345074e2a2e1842a6ef:1800:600",
+                "fileName": "1102024241_univ_pnr-1800x600.jpg",
+                "type": "pnr",
+                "attribute": "r",
+                "width": 1800,
+                "height": 600
+            }
+        ], 
+        "categories": [
+            "pgm"
+        ], 
+        "attributes": ["Circuit Assembly"], 
+        "issueAttributes": [], 
+        "issueProperties": {
+            "title": "", 
+            "undatedTitle": "", 
+            "coverTitle": "", 
+            "titleRich": "", 
+            "undatedTitleRich": "", 
+            "coverTitleRich": "", 
+            "symbol": "", 
+            "undatedSymbol": ""
+        }
+    }
+}

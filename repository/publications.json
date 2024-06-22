@@ -1,17 +1,24 @@
 [
     {
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/ritf_S_2022.jwpub", 
-        "imageURL": "https://user-images.githubusercontent.com/104039397/224440449-57551d30-c50a-4227-9fcb-1b639b2d4a04.jpg", 
         "descargas": 1941, 
-        "title": "\"Permanezcan en la fe\" (Hechos 14:22)"
+        "title": "\"Permanezcan en la fe\" (Hechos 14:22)", 
+        "imageURL": "https://user-images.githubusercontent.com/104039397/224440449-57551d30-c50a-4227-9fcb-1b639b2d4a04.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/ritf_S_2022.jwpub"
     }, 
     {
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CO-cdrn23_E.jwpub", 
-        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_05/1102023194_univ_sqr-600x600.jpg.846a07f70e835adcfd20feb226ba2bb6.jpg", 
         "descargas": 0, 
-        "title": "2023 Convention of Jehovah’s Witnesses (Notebook)"
+        "title": "2023 Convention of Jehovah’s Witnesses (Notebook)", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_05/1102023194_univ_sqr-600x600.jpg.846a07f70e835adcfd20feb226ba2bb6.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CO-cdrn23_E.jwpub"
     }, 
     {
+        "descargas": 0, 
+        "title": "Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_02/1102021805_univ_sqr-600x600.jpg.55e1f90ed6a04e20c34e0c216cd464cd.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/lffic_MYO.jwpub"
+    }, 
+    {
+
         "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_E.jwpub/CO-cdrn24_E.jwpub", 
         "imageURL": "https://github.com/MisaelArciniega/JWPUB/blob/main/screenshots/CO-cdrn24.jpg", 
         "descargas": 0, 
@@ -40,77 +47,127 @@
         "imageURL": "https://github.com/MisaelArciniega/JWPUB/blob/main/screenshots/CO-cdrn24.jpg", 
         "descargas": 0, 
         "title": "Cuaderno buewru reuniónta Jehovata Testígom jíjipurëwi 2024po bechïbo"
-    }, 
-    {
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CA-cdrncpgm23_S.jwpub", 
-        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2022_10/1102023245_univ_sqr.jpg.914f3b85cafcb8eae4bb6bd797fe91ae.jpg", 
-        "descargas": 1257, 
-        "title": "Cuaderno de apuntes para la asamblea de circuito 2022-2023 (con el superintendente de circuito)"
-    }, 
-    {
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CA-cdrn23_S.jwpub", 
-        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2022_10/1102023241_univ_sqr.jpg.3ed0f957cc9c9ad900ae63b2771aebe7.jpg", 
-        "descargas": 1201, 
-        "title": "Cuaderno de apuntes para la asamblea de circuito 2022-2023 (con representante de la sucursal)"
-    }, 
-    {
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CA-cocdrn24_S.jwpub", 
-        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_08/1102024245_univ_sqr-600x600.jpg.32e4d7e16c292985173434f7f96b9951.jpg", 
-        "descargas": 823, 
-        "title": "Cuaderno de apuntes para la asamblea de circuito 2023-2024 (con el superintendente de circuito)"
-    }, 
-    {
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CA-brcdrn24_S.jwpub", 
-        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_08/1102024241_univ_sqr-600x600.jpg.a7e09570078d5b273eac8f5bd97693f8.jpg", 
-        "descargas": 733, 
-        "title": "Cuaderno de apuntes para la asamblea de circuito 2023-2024 (con representante de la sucursal)"
-    }, 
-    {
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CO-cdrn22_S.jwpub", 
-        "imageURL": "https://assetsnffrgf-a.akamaihd.net/assets/m/1102022194/univ/art/1102022194_univ_sqr_lg.jpg", 
-        "descargas": 1854, 
-        "title": "Cuaderno de Apuntes para la Asamblea Regional del 2022"
-    }, 
-    {
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CO-cdrn23_S.jwpub", 
-        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_05/1102023194_univ_sqr-600x600.jpg.846a07f70e835adcfd20feb226ba2bb6.jpg", 
-        "descargas": 4879, 
-        "title": "Cuaderno de Apuntes para la Asamblea Regional del 2023"
-    }, 
-    {
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/cdrn-mi23_S.jwpub", 
-        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_04/1102023385_univ_sqr-600x600.jpg.2b25fb4b380448acfb3047b012fdd89c.jpg", 
-        "descargas": 37, 
-        "title": "Cuaderno de Apuntes para la Conmemoración 2023"
-    }, 
-    {
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/es23_S.jwpub", 
-        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_07/1102023216_S_cvr.jpg.f880e69d4064752049bf53568bea0511.jpg", 
-        "descargas": 1538, 
-        "title": "Examinemos las Escrituras todos los días 2023 (con videos)"
-    }, 
-    {
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/scpm_I.jwpub", 
+=======
+        "descargas": 1417, 
+        "title": "Bosquejos para las reuniones", 
         "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_07/programs-events_univ_pnr_lg.png.e7adca68b5ba91f624d34770c60684ac.png", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/scpm_S.jwpub"
+    }, 
+    {
+        "title": "Caderno de Anotações do Programa da Assembleia de Circuito de 2023-2024 com o Superintendente de Circuito", 
+        "language": "5", 
+        "repositoryURL": "https://github.com/livrasand/Reviw/tree/main/examples-wts/5-T_Portugu%C3%AAs/CA-copgm24_T", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CA-cdrnbrpgm24_T.jwpub", 
+        "year": "2024", 
+        "symbol": "cabrcdrn24", 
+        "imageURL": "https://raw.githubusercontent.com/livrasand/Reviw/main/examples-wts/5-T_Portugu%C3%AAs/CA-copgm24_T/contents%7E/1102024245_univ_sqr-600x600.jpg"
+
+    }, 
+    {
+        "descargas": 1257, 
+        "title": "Cuaderno de apuntes para la asamblea de circuito 2022-2023 (con el superintendente de circuito)", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2022_10/1102023245_univ_sqr.jpg.914f3b85cafcb8eae4bb6bd797fe91ae.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CA-cdrncpgm23_S.jwpub"
+    }, 
+    {
+        "descargas": 1201, 
+        "title": "Cuaderno de apuntes para la asamblea de circuito 2022-2023 (con representante de la sucursal)", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2022_10/1102023241_univ_sqr.jpg.3ed0f957cc9c9ad900ae63b2771aebe7.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CA-cdrn23_S.jwpub"
+    }, 
+    {
+        "descargas": 823, 
+        "title": "Cuaderno de apuntes para la asamblea de circuito 2023-2024 (con el superintendente de circuito)", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_08/1102024245_univ_sqr-600x600.jpg.32e4d7e16c292985173434f7f96b9951.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CA-cocdrn24_S.jwpub"
+    }, 
+    {
+        "descargas": 733, 
+        "title": "Cuaderno de apuntes para la asamblea de circuito 2023-2024 (con representante de la sucursal)", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_08/1102024241_univ_sqr-600x600.jpg.a7e09570078d5b273eac8f5bd97693f8.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CA-brcdrn24_S.jwpub"
+    }, 
+    {
+        "descargas": 1854, 
+        "title": "Cuaderno de Apuntes para la Asamblea Regional del 2022", 
+        "imageURL": "https://assetsnffrgf-a.akamaihd.net/assets/m/1102022194/univ/art/1102022194_univ_sqr_lg.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CO-cdrn22_S.jwpub"
+    }, 
+    {
+        "descargas": 4879, 
+        "title": "Cuaderno de Apuntes para la Asamblea Regional del 2023", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_05/1102023194_univ_sqr-600x600.jpg.846a07f70e835adcfd20feb226ba2bb6.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CO-cdrn23_S.jwpub"
+    }, 
+    {
         "descargas": 0, 
-        "title": "Guida per i presidenti delle adunanze"
+        "title": "Cuaderno de Apuntes para la Asamblea Regional del 2024", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_04/1102024198_univ_sqr_lg.jpg.74c9345b6538449b0dd9d9cf061690b3.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CO-cdrn24_S.jwpub"
     }, 
     {
-        "downloadURL": "https://www.recursosteocraticos.com/files/file/11038-jw-library-gu%C3%ADa-de-estudio-para-los-testigos-de-jehov%C3%A1-2018/?do=download", 
-        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_04/1204260_univ_sqr-600x600.jpg.e83c53b622e7b27bbe3170cf0604b61d.jpg", 
+        "descargas": 37, 
+        "title": "Cuaderno de Apuntes para la Conmemoración 2023", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_04/1102023385_univ_sqr-600x600.jpg.2b25fb4b380448acfb3047b012fdd89c.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/cdrn-mi23_S.jwpub"
+    }, 
+    {
+        "descargas": 0, 
+        "title": "Cuaderno de Apuntes para la Conmemoración 2024", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_02/1102023385_univ_sqr.jpg.54d6e90d13d0c10a8aaa9a7aa804b14e.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/cdrn-mi24_S.jwpub"
+    }, 
+    {
+        "descargas": 0, 
+        "title": "Cuadérno jü Conmemoraciónta 2024ta bechïbo", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_02/1102023385_univ_sqr.jpg.61080ede739fe1589b7c1b3c0a36e14b.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/cdrn-mi24_MYO.jwpub"
+    }, 
+    {
+        "descargas": 0, 
+        "title": "Examinando las Escrituras todos los días 2024 (con videos hasta agosto)", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_04/1102024216_univ_sqr-270x270.jpg.359a84dd8a35cf60ffee001aa04b0341.jpg.cc70b9457fd15358d3911203fa3aad73.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/es24_S.jwpub"
+    }, 
+    {
+        "descargas": 1538, 
+        "title": "Examinemos las Escrituras todos los días 2023 (con videos)", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_07/1102023216_S_cvr.jpg.f880e69d4064752049bf53568bea0511.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/es23_S.jwpub"
+    }, 
+    {
+        "descargas": 0, 
+        "title": "Guida per i presidenti delle adunanze", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_07/programs-events_univ_pnr_lg.png.e7adca68b5ba91f624d34770c60684ac.png", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/scpm_I.jwpub"
+    }, 
+    {
         "descargas": 579, 
-        "title": "Guía de estudio para los testigos de Jehová 2018"
+        "title": "Guía de estudio para los testigos de Jehová 2018", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_04/1204260_univ_sqr-600x600.jpg.e83c53b622e7b27bbe3170cf0604b61d.jpg", 
+        "downloadURL": "https://www.recursosteocraticos.com/files/file/11038-jw-library-gu%C3%ADa-de-estudio-para-los-testigos-de-jehov%C3%A1-2018/?do=download"
     }, 
     {
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/w_S_19250301(2.0).jwpub", 
-        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_04/w19250301_tile-600x600.jpg.9ae46c90c785714850515462ab005b0d.jpg", 
+        "descargas": 0, 
+        "title": "Historias bíblicas ilustradas", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_06/1011257_univ_sqr_lg.jpg.970e78e813e2db062d2c969a1382001c.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/ibs_S.jwpub"
+    }, 
+    {
         "descargas": 171, 
-        "title": "La Torre del Vigía y Heraldo de la Presencia de Cristo Vol. XLVI, Marzo 1, 1925, No. 3"
+        "title": "La Torre del Vigía y Heraldo de la Presencia de Cristo Vol. XLVI, Marzo 1, 1925, No. 3", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_04/w19250301_tile-600x600.jpg.9ae46c90c785714850515462ab005b0d.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/w_S_19250301(2.0).jwpub"
     }, 
     {
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/mbrs23_S.jwpub", 
-        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_04/202023088_univ_sqr.jpg.fde9587f54f3d5539be5a8f0d557f3cc.jpg", 
+        "descargas": 391, 
+        "title": "Lectura bíblica interactiva para la Conmemoración del 2024", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_02/202023088_univ_sqr.jpg.f7bebcced5e0b9f003462b719cb5ea59.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/mbrs24_S.jwpub"
+    }, 
+    {
         "descargas": 34, 
+
         "title": "Lectura bíblica para la Conmemoración del 2023"
     },
     {
@@ -124,53 +181,100 @@
         "imageURL": "https://github.com/MisaelArciniega/JWPUB/blob/main/screenshots/CO-cdrn24.jpg", 
         "descargas": 0, 
         "title": "Notizbuch für den Kongress 2024"
+=======
+        "title": "Lectura bíblica para la Conmemoración del 2023", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_04/202023088_univ_sqr.jpg.fde9587f54f3d5539be5a8f0d557f3cc.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/mbrs23_S.jwpub"
     }, 
     {
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/fws26_S.jwpub", 
-        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_06/fws26_univ_sqr600x600.jpg.90b72207b69f9915ec1cd34f0ae1d7e3.jpg", 
+        "descargas": 0, 
+        "title": "Lettura biblica per la Commemorazione del 2024", 
+        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/mbrs24_I/1102024385_univ_sqr.jpg", 
+        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/mbrs24_I/mbrs24_I.jwpub"
+    }, 
+    {
+        "descargas": 0, 
+        "title": "Los frutos del Espíritu Santo de Dios", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_05/1710193969_sqr_600x600.jpg.a036416a97192b407e2d4baf86ec20d0.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/fhsg_S.jwpub"
+
+    }, 
+    {
         "descargas": 608, 
-        "title": "Programa de actividades para la adoración en familia (julio 2023)"
+        "title": "Programa de actividades para la adoración en familia (julio 2023)", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_06/fws26_univ_sqr600x600.jpg.90b72207b69f9915ec1cd34f0ae1d7e3.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/fws26_S.jwpub"
     }, 
     {
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/fws25_S.jwpub", 
-        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_04/1681932191_univ_sqr-600x600.jpg.95e8930101e915bcd7c90c2c75033185.jpg", 
         "descargas": 1334, 
-        "title": "Programa de actividades para la adoración en familia (junio 2023)"
+        "title": "Programa de actividades para la adoración en familia (junio 2023)", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_04/1681932191_univ_sqr-600x600.jpg.95e8930101e915bcd7c90c2c75033185.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/fws25_S.jwpub"
     }, 
     {
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/fws23_S.jwpub", 
-        "imageURL": "https://user-images.githubusercontent.com/104039397/224399702-21dff3df-ae8a-4e87-bbd6-861379fe063d.jpg", 
         "descargas": 963, 
-        "title": "Programa de actividades para la adoración en familia (marzo 2023)"
+        "title": "Programa de actividades para la adoración en familia (marzo 2023)", 
+        "imageURL": "https://user-images.githubusercontent.com/104039397/224399702-21dff3df-ae8a-4e87-bbd6-861379fe063d.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/fws23_S.jwpub"
     }, 
     {
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/fws24_S.jwpub", 
-        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_04/1681869907_univ_sqr-600x600.jpg.c5af904f3e7d22bd948f3d69d693ef1e.jpg", 
         "descargas": 341, 
-        "title": "Programa de actividades para la adoración en familia (mayo 2023)"
+        "title": "Programa de actividades para la adoración en familia (mayo 2023)", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_04/1681869907_univ_sqr-600x600.jpg.c5af904f3e7d22bd948f3d69d693ef1e.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/fws24_S.jwpub"
     }, 
     {
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/fws_S_202209.jwpub", 
-        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2022_09/46616d696c7920576f726b73686973_univ_sqr.jpg.d6da96b500cf193e3ec4cc199b686653.jpg", 
         "descargas": 805, 
-        "title": "Programa de actividades para la adoración en familia (septiembre 2022)"
+        "title": "Programa de actividades para la adoración en familia (septiembre 2022)", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2022_09/46616d696c7920576f726b73686973_univ_sqr.jpg.d6da96b500cf193e3ec4cc199b686653.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/fws_S_202209.jwpub"
     }, 
     {
-        "downloadURL": "https://github.com/DeadalusNF/JWPUB/raw/main/CA-cdrnbrpgm24_I/CA-cdrnbrpgm24_I.jwpub", 
+        "descargas": 245, 
+        "title": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2023-2024 (con il rappresentante della filiale)", 
         "imageURL": "https://raw.githubusercontent.com/DeadalusNF/JWPUB/main/CA-cdrnbrpgm24_I/1102024241_univ_sqr.jpg", 
-        "descargas": 0, 
-        "title": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2023-2024 (con il rappresentante della filiale)"
+        "downloadURL": "https://github.com/DeadalusNF/JWPUB/raw/main/CA-cdrnbrpgm24_I/CA-cdrnbrpgm24_I.jwpub"
     }, 
     {
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/rasm_S.jwpub", 
-        "imageURL": "https://raw.githubusercontent.com/livrasand/livrasand.github.io/main/cdn/images/rvw_tile_600x600.jpg", 
-        "descargas": 0, 
-        "title": "Reviw: Creación Profesional de Archivos JWPUB"
+        "descargas": 134, 
+        "title": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2023-2024 (con il Sorvegliante di circoscrizione)", 
+        "imageURL": "https://raw.githubusercontent.com/DeadalusNF/JWPUB/main/CA-cdrncopgm24_I/1102024245_univ_sqr.jpg", 
+        "downloadURL": "https://github.com/DeadalusNF/JWPUB/raw/main/CA-cdrncopgm24_I/CA-cdrncopgm24_I.jwpub"
     }, 
     {
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/w_E_19250301.jwpub", 
+        "descargas": 0, 
+        "title": "Schede per i ragazzi", 
+        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/ijwwt_I/1011441_univ_sqr_lg.jpg", 
+        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/ijwwt_I/ijwwt_I.jwpub"
+    }, 
+    {
+        "descargas": 0, 
+        "title": "Storie bibliche a fumetti", 
+        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/ijwbs_I/1011257_univ_sqr_lg.jpg", 
+        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/ijwbs_I/ijwbs_I.jwpub"
+    }, 
+    {
+        "descargas": 0, 
+        "title": "Quaderno degli appunti del programma del congresso 2024", 
+        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/CO-cdrn24_I/1102024193_univ_sqr.jpg", 
+        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/CO-cdrn24_I/CO-cdrn24_I.jwpub"
+    },  
+    {
+        "descargas": 0, 
+        "title": "The Watchtower and Herald of Christ's Presence — Birth Of The Nation", 
         "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_04/w19250301_tile-600x600.jpg.9ae46c90c785714850515462ab005b0d.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/w_E_19250301.jwpub"
+    }, 
+    {
         "descargas": 0, 
-        "title": "The Watchtower and Herald of Christ's Presence — Birth Of The Nation"
+        "title": "Triángulos Púrpuras: “Víctimas Olvidadas” del Régimen Nazi", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_04/1101999290_univ_sqr-600x600.jpg.99e8b030830d2978d36a8c254219aad4.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/brfi_S.jwpub"
+    }, 
+    {
+        "descargas": 0, 
+        "title": "¡Al’leake jiba bechïbo jiapsa! Ju Biblia enchi a bit’tuana jáchini", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_03/1102021352_univ_sqr-600x600.jpg.660fc3a04c60c59b9092fb7f450fbfaa.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/lffc_MYO.jwpub"
     }
 ]

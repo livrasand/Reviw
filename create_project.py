@@ -45,25 +45,25 @@ class CreateProjectCommand(sublime_plugin.TextCommand):
         # Valida el nombre de la carpeta "proyecto" ingresado por el usuario
         def validate_project_name(name):
             # Verifica si el nombre tiene más de 10 caracteres
-            if len(name) > 10:
-                message_view.show_message("El nombre '{}' excede los 10 caracteres permitidos.".format(name))
+            if len(name) > 15:
+                sublime.message_dialog("El nombre '{}' excede los 15 caracteres permitidos.".format(name))
                 return
 
             # Verifica si el nombre contiene solo caracteres alfanuméricos y guiones bajos
-            if not name.replace("_", "").isalnum():
-                message_view.show_message("El nombre debe contener solo caracteres alfanuméricos y guiones bajos.")
+            if not name.replace("_", "").replace("-", "").isalnum():
+                sublime.message_dialog("El nombre debe contener solo caracteres alfanuméricos y guiones. (Ej. pryct_S)")
                 return
 
             # Verifica si el nombre no existe en el archivo "official_publications.json"
             if self.name_exists_in_official_publications(name):
-                message_view.show_message("El nombre '{}' ya existe en el archivo official_publications.json.".format(name))
+                sublime.message_dialog("El nombre '{}' ya existe en JW Library.".format(name))
                 return
 
             # Si pasa todas las validaciones, llama a "on_done"
             self.on_done(name, reviw_folder)
 
         # Pregunta al usuario el nombre de la carpeta "proyecto"
-        sublime.active_window().show_input_panel("Nombre de la carpeta 'proyecto' (máx. 10 caracteres, solo letras, números y guiones bajos):", "proyecto", validate_project_name, None, None)
+        sublime.active_window().show_input_panel("Símbolo de tu proyecto (máx. 15 caracteres, solo letras, números y guiones):", "pryct_S", validate_project_name, None, None)
 
     def on_done(self, project_name, base_folder):        
         global global_project_name  # Definir la variable global
@@ -159,12 +159,12 @@ class CreateProjectCommand(sublime_plugin.TextCommand):
         db_path = os.path.join(contents_path, project_name + ".db")
         self.create_database(db_path)
 
+        # Muestra el resultado en la vista personalizada
+        sublime.message_dialog("Proyecto creado correctamente en: {}".format(project_path))
+
         # Abre la carpeta en Sublime Text
         subprocess.Popen(["subl", project_path])
-
-        # Muestra el resultado en la vista personalizada
-        message_view.show_message("Proyecto creado correctamente en: {}".format(project_path))
-
+        
         # Llamar a la función para crear la base de datos (dentro de la clase)
         if global_project_name:
             nombre_db = global_project_name + ".db"

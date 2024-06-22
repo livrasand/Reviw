@@ -1,0 +1,86 @@
+{
+	"name": "CO-cdrn24_I.jwpub",
+	"hash": "aaa7e186d3b440ee902bc07e9c925adda3221f70654b88c9f76f4ed7d3b75876",
+	"timestamp": "2024-05-12T22:22:22Z",
+	"version": 1,
+	"expandedSize": 1618140,
+	"contentFormat": "z-a",
+	"htmlValidated": true,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 12751,
+	"publication": { 
+		"fileName": "CO-cdrn24_I.db",
+		"type": 1,
+		"title": "Notebook del congresso 2024",
+		"shortTitle": "Notebook del congresso 2024",
+		"displayTitle": "Notebook del congresso 2024",
+		"referenceTitle": "Notebook del congresso 2024",
+		"undatedReferenceTitle": "Notebook del congresso 2024",
+		"titleRich": "Notebook del congresso 2024",
+		"displayTitleRich": "Notebook del congresso 2024",
+		"referenceTitleRich": "Notebook del congresso 2024",
+		"undatedReferenceTitleRich": "Notebook del congresso 2024",
+		"symbol": "CO-cdrn24",
+		"uniqueEnglishSymbol": "CO-cdrn24",
+		"uniqueSymbol": "CO-cdrn24",
+		"undatedSymbol": "CO-cdrn24",
+		"englishSymbol": "CO-cdrn24",
+		"language": 4,
+		"hash": "1815fd1053bf7576207d78c9da4382f0315fc954",
+		"timestamp": "2024-05-12T22:22:22Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2024,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Program",
+		"rootSymbol": "CO-cdrn24",
+		"rootYear": 2024,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "a39f1fad731923b1cc529af0553498d3cc02295d:120:120",
+				"fileName": "1102024193_univ_sqr-120x120.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 120,
+				"height": 120
+			},
+			{
+				"signature": "a39f1fad731923b1cc529af0553498d3cc02295d:270:270",
+				"fileName": "1102024193_univ_sqr-270x270.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 270,
+				"height": 270
+			},
+			{
+				"signature": "a39f1fad731923b1cc529af0553498d3cc02295d:600:600",
+				"fileName": "1102024193_univ_sqr-600x600.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 600,
+				"height": 600
+			}
+		],
+		"categories": [ 
+				"pgm"
+		],
+		"attributes": [ 
+				"APPUNTI CONGRESSO"
+		],
+		"issueAttributes": [ 
+		],
+		"issueProperties": { 
+				"title": "",
+				"undatedTitle": "",
+				"coverTitle": "",
+				"titleRich": "",
+				"undatedTitleRich": "",
+				"coverTitleRich": "",
+				"symbol": "",
+				"undatedSymbol": ""
+		}
+	}
+}

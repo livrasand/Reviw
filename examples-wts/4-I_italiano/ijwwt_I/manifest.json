@@ -1,0 +1,67 @@
+{
+	"name": "ijwwt_I.jwpub",
+	"hash": "b7d2b14247ff3d0a3ecbdf4319cca1fd034d797deea64f62d30939f7f61900db",
+	"timestamp": "2023-12-06T06:00:00Z",
+	"version": 1,
+	"expandedSize": 27837430,
+	"contentFormat": "z-a",
+	"htmlValidated": false,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 12230,
+	"publication": { 
+		"fileName": "ijwwt_I.db",
+		"type": 1,
+		"title": "Schede per i ragazzi",
+		"shortTitle": "Schede per i ragazzi",
+		"displayTitle": "Schede per i ragazzi (ijwwt)",
+		"referenceTitle": "Schede per i ragazzi",
+		"undatedReferenceTitle": "Schede per i ragazzi",
+		"titleRich": "Schede per i ragazzi (ijwwt)",
+		"displayTitleRich": "Schede per i ragazzi",
+		"referenceTitleRich": "Schede per i ragazzi",
+		"undatedReferenceTitleRich": "Schede per i ragazzi",
+		"symbol": "ijwwt",
+		"uniqueEnglishSymbol": "ijwwt",
+		"uniqueSymbol": "ijwwt",
+		"undatedSymbol": "ijwwt",
+		"englishSymbol": "ijwwt",
+		"language": 4,
+		"hash": "02867d2de955b008b39d4f8a32253914b9fe7241",
+		"timestamp": "2023-12-06T06:00:00Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2023,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Web",
+		"rootSymbol": "ijwwt",
+		"rootYear": 2023,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "0aa53ff78a8810776009ee52a47d25a4f1873408:600:600",
+				"fileName": "1011441_univ_sqr_lg.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 600,
+				"height": 600
+			}
+		],
+		"categories": [ 
+				"web"
+		],
+		"attributes": [			
+			""
+		],
+		"issueAttributes": [ 
+		],
+		"issueProperties": { 
+				"title": "",
+				"undatedTitle": "",
+				"coverTitle": "",
+				"symbol": "ijwwt",
+				"undatedSymbol": "ijwwt"
+		}
+	}
+}

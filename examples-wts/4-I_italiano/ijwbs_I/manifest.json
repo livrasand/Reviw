@@ -1,0 +1,67 @@
+{
+	"name": "ijwbs_I.jwpub",
+	"hash": "96a013f50b29e982a12f543c4cfda27912d8899d5c9d01688a0e45f60d5aba33",
+	"timestamp": "2023-12-04T15:30:00Z",
+	"version": 1,
+	"expandedSize": 50545257,
+	"contentFormat": "z-a",
+	"htmlValidated": false,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 12230,
+	"publication": { 
+		"fileName": "ijwbs_I.db",
+		"type": 1,
+		"title": "Storie bibliche a fumetti",
+		"shortTitle": "Storie bibliche a fumetti",
+		"displayTitle": "Storie bibliche a fumetti (ijwbs)",
+		"referenceTitle": "Storie bibliche a fumetti",
+		"undatedReferenceTitle": "Storie bibliche a fumetti",
+		"titleRich": "Storie bibliche a fumetti (ijwbs)",
+		"displayTitleRich": "Storie bibliche a fumetti",
+		"referenceTitleRich": "Storie bibliche a fumetti",
+		"undatedReferenceTitleRich": "Storie bibliche a fumetti",
+		"symbol": "ijwbs",
+		"uniqueEnglishSymbol": "ijwbs",
+		"uniqueSymbol": "ijwbs",
+		"undatedSymbol": "ijwbs",
+		"englishSymbol": "ijwbs",
+		"language": 4,
+		"hash": "b8567108ab4fde222726acccd3fa4d070cb43d35",
+		"timestamp": "2023-12-04T15:30:00Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2023,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Web",
+		"rootSymbol": "ijwbs",
+		"rootYear": 2023,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "f56c63bb2bbb713de2c0a460b78175c2862aad3d:600:600",
+				"fileName": "1011257_univ_sqr_lg.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 600,
+				"height": 600
+			}
+		],
+		"categories": [ 
+				"web"
+		],
+		"attributes": [			
+			""
+		],
+		"issueAttributes": [ 
+		],
+		"issueProperties": { 
+				"title": "",
+				"undatedTitle": "",
+				"coverTitle": "",
+				"symbol": "ijwbs",
+				"undatedSymbol": "ijwbs"
+		}
+	}
+}

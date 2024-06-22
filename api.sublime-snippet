@@ -1,10 +1,7 @@
 <snippet>
-    <content><![CDATA[
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/livrasand/livrasand.github.io@main/JW-Library-Visualizer-API/4a57204c696272617279.css">
+    <content><![CDATA[<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/livrasand/livrasand.github.io@main/JW-Library-Visualizer-API/4a57204c696272617279.css">
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/livrasand/livrasand.github.io@main/JW-Library-Visualizer-API/4a57204c696272617279.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/livrasand/livrasand.github.io@main/JW-Library-Visualizer-API/496d6167656e6573.js"></script>
-        ]]></content>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/livrasand/livrasand.github.io@main/JW-Library-Visualizer-API/496d6167656e6573.js"></script>]]></content>
     <tabTrigger>importar>api</tabTrigger>
-    <description>Importa la API de JW Library</description>
     <scope>text.html</scope>
 </snippet>

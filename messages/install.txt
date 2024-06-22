@@ -18,10 +18,4 @@ Reviw es un lenguaje de marcado de código abierto basado en HTML, diseñado par
 
 Reviw está integrado en el editor Sublime Text y se planea su implementación en muchas otras aplicaciones en el futuro.
 
-Este proyecto se rige por la licencia Livrado Zero License. Al contribuir, se espera que respetes este código. Si encuentras algún comportamiento inaceptable, por favor, infórmalo a jwpubcatalog@gmail.com.
-
-Para usar Reviw, simplemente escribe la sintaxis deseada, por ejemplo: `crear>portada;`, y luego presiona la tecla Tabulador. Esto generará un fragmento de código editable para la portada de tu publicación. A continuación, encontrarás una lista de sintaxis disponibles en orden alfabético.
-
-Está prohibido alterar, expandir o modificar estos fragmentos sin permiso. Si tienes una idea para un fragmento útil o notas que falta alguno, por favor, contáctanos por correo electrónico (jwpubcatalog@gmail.com) para que podamos mejorarlo y compartirlo con todos. También puedes encontrar fragmentos adicionales en WOL.JW.ORG. ¡Gracias!
-
 Si consideras útil este proyecto, te animamos a que lo apoyes dándole una estrella (★) en el repositorio de GitHub. ¡Gracias!

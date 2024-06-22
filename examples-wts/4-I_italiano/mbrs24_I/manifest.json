@@ -1,0 +1,86 @@
+{
+	"name": "mbrs24_I.jwpub",
+	"hash": "5dce866d7602827dbde4569a42c2dfdf1ca69a1e7124b491aa91d96f9756673b",
+	"timestamp": "2024-02-26T13:30:00Z",
+	"version": 1,
+	"expandedSize": 4819867,
+	"contentFormat": "z-a",
+	"htmlValidated": true,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 12653,
+	"publication": { 
+		"fileName": "mbrs24_I.db",
+		"type": 1,
+		"title": "Lettura biblica per la Commemorazione del 2024",
+		"shortTitle": "Lettura biblica per la Commemorazione del 2024",
+		"displayTitle": "2024 Lettura biblica per la Commemorazione  (mbrs24)",
+		"referenceTitle": "Lettura biblica per la Commemorazione del 2024",
+		"undatedReferenceTitle": "Lettura biblica per la Commemorazione del 2024",
+		"titleRich": "Lettura biblica per la Commemorazione del 2024",
+		"displayTitleRich": "2024 Lettura biblica per la Commemorazione  (mbrs24)",
+		"referenceTitleRich": "Lettura biblica per la Commemorazione del 2024",
+		"undatedReferenceTitleRich": "Lettura biblica per la Commemorazione del 2024",
+		"symbol": "mbrs24",
+		"uniqueEnglishSymbol": "mbrs24",
+		"uniqueSymbol": "mbrs24",
+		"undatedSymbol": "mbrs24",
+		"englishSymbol": "mbrs24",
+		"language": 1,
+		"hash": "91d4336c3f4210a81eddb2db99125c249072d3e5",
+		"timestamp": "2024-02-26T13:30:00Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2024,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Web",
+		"rootSymbol": "mbrs24",
+		"rootYear": 2024,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "df1b7925f32f5ca5245e5e1ece9aae76c1681928:120:120",
+				"fileName": "1102024385_univ_sqr-120x120.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 120,
+				"height": 120
+			},
+			{
+				"signature": "08753e8fdf4ffe4794f8f1e5a10454c7e8ace0d0:270:270",
+				"fileName": "1102024385_univ_sqr-270x270.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 270,
+				"height": 270
+			},
+			{
+				"signature": "956b9aa517aefe45abcae696aebc1352bab1c3e0:600:600",
+				"fileName": "1102024385_univ_sqr-600x600.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 600,
+				"height": 600
+			}
+		],
+		"categories": [ 
+				"web"
+		],
+		"attributes": [
+				"Programma di lettura"		
+		],
+		"issueAttributes": [
+		],
+		"issueProperties": { 
+				"title": "",
+				"undatedTitle": "",
+				"coverTitle": "",
+				"titleRich": "",
+				"undatedTitleRich": "",
+				"coverTitleRich": "",
+				"symbol": "",
+				"undatedSymbol": ""
+		}
+	}
+}
