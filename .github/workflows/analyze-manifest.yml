@@ -2,7 +2,7 @@ name: Analyze Manifests and Generate Key
 on:
   push:
     branches:
-      - develop  # Cambia esto según tu rama principal
+      - main # Cambia esto según tu rama principal
 
 jobs:
   analyze_manifests:
