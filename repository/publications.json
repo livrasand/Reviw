@@ -12,56 +12,43 @@
         "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CO-cdrn23_E.jwpub"
     }, 
     {
-        "descargas": 0, 
-        "title": "Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana", 
-        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_02/1102021805_univ_sqr-600x600.jpg.55e1f90ed6a04e20c34e0c216cd464cd.jpg", 
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/lffic_MYO.jwpub"
-    }, 
-    {
-
-        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_E.jwpub/CO-cdrn24_E.jwpub", 
-        "imageURL": "https://github.com/MisaelArciniega/JWPUB/blob/main/screenshots/CO-cdrn24.jpg", 
-        "descargas": 0, 
-        "title": "2024 Convention Notebook"
+    	"descargas": 0, 
+    	"title": "2024 Convention Notebook",
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CO-cdrn24.jpg",
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_E.jwpub/CO-cdrn24_E.jwpub"
     },
     {
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/scpm_S.jwpub", 
-        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_07/programs-events_univ_pnr_lg.png.e7adca68b5ba91f624d34770c60684ac.png", 
-        "descargas": 1417, 
-        "title": "Bosquejos para las reuniones"
-    },
-    {
-        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_T.jwpub/CO-cdrn24_T.jwpub", 
-        "imageURL": "https://github.com/MisaelArciniega/JWPUB/blob/main/screenshots/CO-cdrn24.jpg", 
-        "descargas": 0, 
-        "title": "Caderno do Congresso de 2024"
-    },
-    {
-        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/cj_S.jwpub/cj_S.jwpub", 
-        "imageURL": "https://github.com/MisaelArciniega/JWPUB/blob/main/screenshots/cj.jpg", 
-        "descargas": 0, 
-        "title": "Comentario sobre la carta de Santigo"
-    },
-    {
-        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_MYO.jwpub/CO-cdrn24_MYO.jwpub", 
-        "imageURL": "https://github.com/MisaelArciniega/JWPUB/blob/main/screenshots/CO-cdrn24.jpg", 
-        "descargas": 0, 
-        "title": "Cuaderno buewru reuniónta Jehovata Testígom jíjipurëwi 2024po bechïbo"
-=======
-        "descargas": 1417, 
-        "title": "Bosquejos para las reuniones", 
-        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_07/programs-events_univ_pnr_lg.png.e7adca68b5ba91f624d34770c60684ac.png", 
+    	"descargas": 1417, 
+    	"title": "Bosquejo para las reuniones", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_07/programs-events_univ_pnr_lg.png.e7adca68b5ba91f624d34770c60684ac.png",
         "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/scpm_S.jwpub"
-    }, 
+    },
+    {
+    	"descargas": 0, 
+    	"title": "Caderno do Congresso de 2024", 
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CO-cdrn24.jpg",
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_T.jwpub/CO-cdrn24_T.jwpub"
+    },
+    {
+    	"descargas": 0, 
+    	"title": "Comentario sobre la carta de Santigo", 
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/cj.jpg",
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/cj_S.jwpub/cj_S.jwpub"
+    },
+    {
+    	"descargas": 0, 
+    	"title": "Cuaderno buewru reuniónta Jehovata Testígom jíjipurëwi 2024po bechïbo", 
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CO-cdrn24.jpg",
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_MYO.jwpub/CO-cdrn24_MYO.jwpub"
+	}, 
     {
         "title": "Caderno de Anotações do Programa da Assembleia de Circuito de 2023-2024 com o Superintendente de Circuito", 
         "language": "5", 
         "repositoryURL": "https://github.com/livrasand/Reviw/tree/main/examples-wts/5-T_Portugu%C3%AAs/CA-copgm24_T", 
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CA-cdrnbrpgm24_T.jwpub", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CA-cdrnbrpgm24_T.jwpub",
         "year": "2024", 
         "symbol": "cabrcdrn24", 
         "imageURL": "https://raw.githubusercontent.com/livrasand/Reviw/main/examples-wts/5-T_Portugu%C3%AAs/CA-copgm24_T/contents%7E/1102024245_univ_sqr-600x600.jpg"
-
     }, 
     {
         "descargas": 1257, 
@@ -167,25 +154,10 @@
     }, 
     {
         "descargas": 34, 
-
-        "title": "Lectura bíblica para la Conmemoración del 2023"
-    },
-    {
-        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_HV.jwpub/CO-cdrn24_HV.jwpub", 
-        "imageURL": "https://github.com/MisaelArciniega/JWPUB/blob/main/screenshots/CO-cdrn24.jpg", 
-        "descargas": 0, 
-        "title": "Notebook sang 2024 nga Kombension"
-    },
-    {
-        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_X.jwpub/CO-cdrn24_X.jwpub", 
-        "imageURL": "https://github.com/MisaelArciniega/JWPUB/blob/main/screenshots/CO-cdrn24.jpg", 
-        "descargas": 0, 
-        "title": "Notizbuch für den Kongress 2024"
-=======
-        "title": "Lectura bíblica para la Conmemoración del 2023", 
+        "title": "Lectura bíblica para la Conmemoración del 2023",
         "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_04/202023088_univ_sqr.jpg.fde9587f54f3d5539be5a8f0d557f3cc.jpg", 
         "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/mbrs23_S.jwpub"
-    }, 
+    },   
     {
         "descargas": 0, 
         "title": "Lettura biblica per la Commemorazione del 2024", 
@@ -197,7 +169,18 @@
         "title": "Los frutos del Espíritu Santo de Dios", 
         "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_05/1710193969_sqr_600x600.jpg.a036416a97192b407e2d4baf86ec20d0.jpg", 
         "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/fhsg_S.jwpub"
-
+    },
+    {  
+	    "descargas": 0, 
+    	"title": "Notebook sang 2024 nga Kombension",
+    	"downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_HV.jwpub/CO-cdrn24_HV.jwpub",
+    	"imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CO-cdrn24.jpg"
+    },
+    {
+    	"descargas": 0, 
+    	"title": "Notizbuch für den Kongress 2024",
+    	"downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_X.jwpub/CO-cdrn24_X.jwpub",
+    	"imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CO-cdrn24.jpg"
     }, 
     {
         "descargas": 608, 
@@ -276,5 +259,11 @@
         "title": "¡Al’leake jiba bechïbo jiapsa! Ju Biblia enchi a bit’tuana jáchini", 
         "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_03/1102021352_univ_sqr-600x600.jpg.660fc3a04c60c59b9092fb7f450fbfaa.jpg", 
         "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/lffc_MYO.jwpub"
+    },
+    {
+	    "descargas": 0, 
+	    "title": "¡Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana", 
+	    "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_02/1102021805_univ_sqr-600x600.jpg.55e1f90ed6a04e20c34e0c216cd464cd.jpg", 
+	    "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/lffic_MYO.jwpub"
     }
 ]
