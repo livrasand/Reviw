@@ -1,0 +1,86 @@
+{
+	"name": "CO-cdrn24_F.jwpub",
+	"hash": "371cb03f1e2036e59eea0aee646fc07f53d09d94d7a349a672740731c4e460af",
+	"timestamp": "2024-06-26T07:50:00Z",
+	"version": 1,
+	"expandedSize": 1494516,
+	"contentFormat": "z-a",
+	"htmlValidated": true,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 12751,
+	"publication": { 
+		"fileName": "CO-cdrn24_F.db",
+		"type": 1,
+		"title": "Notes de l’assemblée régionale 2024",
+		"shortTitle": "Notes de l’assemblée régionale 2024",
+		"displayTitle": "Notes de l’assemblée régionale 2024",
+		"referenceTitle": "Notes de l’assemblée régionale 2024",
+		"undatedReferenceTitle": "Notes de l’assemblée régionale 2024",
+		"titleRich": "Notes de l’assemblée régionale 2024",
+		"displayTitleRich": "Notes de l’assemblée régionale 2024",
+		"referenceTitleRich": "Notes de l’assemblée régionale 2024",
+		"undatedReferenceTitleRich": "Notes de l’assemblée régionale 2024",
+		"symbol": "CO-cdrn24",
+		"uniqueEnglishSymbol": "CO-cdrn24",
+		"uniqueSymbol": "CO-cdrn24",
+		"undatedSymbol": "CO-cdrn24",
+		"englishSymbol": "CO-cdrn24",
+		"language": 3,
+		"hash": "7cd0664cad2aead1b691321249971c7b5944520e",
+		"timestamp": "2024-06-26T07:50:00Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2024,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Program",
+		"rootSymbol": "CO-cdrn24",
+		"rootYear": 2024,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "a39f1fad731923b1cc529af0553498d3cc02295d:120:120",
+				"fileName": "1102024193_univ_sqr-120x120.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 120,
+				"height": 120
+			},
+			{
+				"signature": "a39f1fad731923b1cc529af0553498d3cc02295d:270:270",
+				"fileName": "1102024193_univ_sqr-270x270.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 270,
+				"height": 270
+			},
+			{
+				"signature": "a39f1fad731923b1cc529af0553498d3cc02295d:600:600",
+				"fileName": "1102024193_univ_sqr-600x600.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 600,
+				"height": 600
+			}
+		],
+		"categories": [ 
+				"pgm"
+		],
+		"attributes": [ 
+				"Notes de l’assemblée"
+		],
+		"issueAttributes": [ 
+		],
+		"issueProperties": { 
+				"title": "",
+				"undatedTitle": "",
+				"coverTitle": "",
+				"titleRich": "",
+				"undatedTitleRich": "",
+				"coverTitleRich": "",
+				"symbol": "",
+				"undatedSymbol": ""
+		}
+	}
+}
