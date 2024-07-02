@@ -1,0 +1,134 @@
+{
+	"name": "CA-cdrnbrpgm25_I.jwpub",
+	"hash": "ca8a510f1bcc922051976143c781fc943ae9279c038b71fb6565b8c52074deeb",
+	"timestamp": "2024-07-01T09:36:22Z",
+	"version": 1,
+	"expandedSize": 1137346,
+	"contentFormat": "z-a",
+	"htmlValidated": false,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 12852,
+	"publication": { 
+		"fileName": "CA-cdrnbrpgm25_I.db",
+		"type": 1,
+		"title": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2024-2025 (con il rappresentante della filiale)",
+		"shortTitle": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2024-2025 (con il rappresentante della filiale)",
+		"displayTitle": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2024-2025 (con il rappresentante della filiale)  (CA-cdrnbrpgm25)",
+		"referenceTitle": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2024-2025 (con il rappresentante della filiale)",
+		"undatedReferenceTitle": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2024-2025 (con il rappresentante della filiale)",
+		"titleRich": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2024-2025 (con il rappresentante della filiale)",
+		"displayTitleRich": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2024-2025 (con il rappresentante della filiale)  (CA-cdrnbrpgm25)",
+		"referenceTitleRich": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2024-2025 (con il rappresentante della filiale)",
+		"undatedReferenceTitleRich": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2024-2025 (con il rappresentante della filiale)",
+		"symbol": "CA-cdrnbrpgm25",
+		"uniqueEnglishSymbol": "CA-cdrnbrpgm25",
+		"uniqueSymbol": "CA-cdrnbrpgm25",
+		"undatedSymbol": "CA-cdrnbrpgm25",
+		"englishSymbol": "CA-cdrnbrpgm25",
+		"language": 4,
+		"hash": "597df09c9dbbca1aa90a2d73e412dd81fef5a49b",
+		"timestamp": "2024-07-01T09:36:22Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2025,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Program",
+		"rootSymbol": "CA-cdrnbrpgm25",
+		"rootYear": 2025,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "9d8e209ff882ff5f2d4ad7922e4b186a6470fe0a:120:120",
+				"fileName": "1102025241_univ_sqr-120x120.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 120,
+				"height": 120
+			},
+			{
+				"signature": "9d8e209ff882ff5f2d4ad7922e4b186a6470fe0a:270:270",
+				"fileName": "1102025241_univ_sqr-270x270.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 270,
+				"height": 270
+			},
+			{
+				"signature": "9d8e209ff882ff5f2d4ad7922e4b186a6470fe0a:600:600",
+				"fileName": "1102025241_univ_sqr-600x600.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 600,
+				"height": 600
+			},
+			{
+				"signature": "990790b42c8e4002e2a4084ae6207f4c62b34405:240:120",
+				"fileName": "1102025241_univ_lsr-240x120.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 240,
+				"height": 120
+			},
+			{
+				"signature": "990790b42c8e4002e2a4084ae6207f4c62b34405:560:280",
+				"fileName": "1102025241_univ_lsr-560x280.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 560,
+				"height": 280
+			},
+			{
+				"signature": "990790b42c8e4002e2a4084ae6207f4c62b34405:1200:600",
+				"fileName": "1102025241_univ_lsr-1200x600.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 1200,
+				"height": 600
+			},
+			{
+				"signature": "6fbfb72eb8e2d652f003a75ad13af1cf65529a83:360:120",
+				"fileName": "1102025241_univ_pnr-360x120.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 360,
+				"height": 120
+			},
+			{
+				"signature": "6fbfb72eb8e2d652f003a75ad13af1cf65529a83:810:270",
+				"fileName": "1102025241_univ_pnr-810x270.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 810,
+				"height": 270
+			},
+			{
+				"signature": "6fbfb72eb8e2d652f003a75ad13af1cf65529a83:1800:600",
+				"fileName": "1102025241_univ_pnr-1800x600.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 1800,
+				"height": 600
+			}
+		],
+		"categories": [ 
+				"pgm"
+		],
+		"attributes": [ 
+				"APPUNTI ASSEMBLEA"
+		],
+		"issueAttributes": [ 
+		],
+		"issueProperties": { 
+				"title": "",
+				"undatedTitle": "",
+				"coverTitle": "",
+				"titleRich": "",
+				"undatedTitleRich": "",
+				"coverTitleRich": "",
+				"symbol": "",
+				"undatedSymbol": ""
+		}
+	}
+}
