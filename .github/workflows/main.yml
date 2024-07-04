@@ -62,7 +62,7 @@ jobs:
         if: github.event.label.name == 'new blobs'
         run: |
           DYNAMIC_INPUT=${{ steps.extract-key-iv.outputs.dynamic_input }}
-          FILE_PATH=${{ steps.extract-key-iv.outputs.file_path }}
+          FILE_PATH="${{ steps.extract-key-iv.outputs.file_path }}"
           KEY=${{ steps.extract-key-iv.outputs.key }}
           IV=${{ steps.extract-key-iv.outputs.iv }}
           
