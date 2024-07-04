@@ -63,8 +63,8 @@ jobs:
         run: |
           DYNAMIC_INPUT=${{ steps.extract-key-iv.outputs.dynamic_input }}
           FILE_PATH="${{ steps.extract-key-iv.outputs.file_path }}"
-          KEY=${{ steps.extract-key-iv.outputs.key }}
-          IV=${{ steps.extract-key-iv.outputs.iv }}
+          KEY="${{ steps.extract-key-iv.outputs.key }}"
+          IV="${{ steps.extract-key-iv.outputs.iv }}"
           
           echo "Dynamic Input: $DYNAMIC_INPUT"
           echo "File Path: $FILE_PATH"
@@ -96,22 +96,48 @@ jobs:
                 echo "No HTML files found in the specified directory."
               fi
             done
+            
+            # Upload .hexhtm files as artifacts
+            echo "Uploading .hexhtm files as artifacts..."
+            ls $FILE_PATH/*.hexhtm
+            mv $FILE_PATH/*.hexhtm ./artifacts
+            echo "Uploaded .hexhtm files."
+            
           else
             echo "Directory $FILE_PATH does not exist or is empty."
           fi
 
-      - name: Commit and push changes
+      - name: Convert .hexhtm to .htm.jw
         if: github.event.label.name == 'new blobs'
         run: |
-          echo "Preparing to commit and push changes..."
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          echo "Converting .hexhtm to .htm.jw..."
           
-          # Check if there are any .hexhtm files to commit
-          if ls $FILE_PATH/*.hexhtm 1> /dev/null 2>&1; then
-            git add $FILE_PATH/*.hexhtm
-            git commit -m "Processed HTML files to hexdump"
-            git push
-          else
-            echo "No .hexhtm files to commit."
-          fi
+          # Ensure artifacts directory exists
+          mkdir -p artifacts
+          
+          # Process each .hexhtm file to .htm.jw using the specified algorithm
+          for file in ./artifacts/*.hexhtm; do
+            if [ -f "$file" ]; then
+              echo "Processing file: $file"
+              # Apply the algorithm operations
+              cat $file | xxd -r -p | zlib-flate -uncompress | openssl enc -aes-256-cbc -K $KEY -iv $IV -d -out "${file%.hexhtm}.htm.jw"
+              echo "Created ${file%.hexhtm}.htm.jw"
+              
+              # Upload .htm.jw file as artifact
+              echo "Uploading ${file%.hexhtm}.htm.jw as artifact..."
+              mv "${file%.hexhtm}.htm.jw" ./artifacts
+              echo "Uploaded ${file%.hexhtm}.htm.jw."
+            else
+              echo "No .hexhtm files found in artifacts directory."
+            fi
+          done
+          
+          # Clean up artifacts directory
+          rm -rf ./artifacts
+
+      - name: Upload artifacts
+        if: github.event.label.name == 'new blobs'
+        uses: actions/upload-artifact@v2
+        with:
+          name: processed-html-files
+          path: ./artifacts/*.htm.jw
