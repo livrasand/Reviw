@@ -1,0 +1,122 @@
+name: Reviw Action
+
+on:
+  pull_request_target:
+    types: [labeled]
+
+jobs:
+  process_html:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Debug context
+        run: |
+          echo "Event label name: ${{ github.event.label.name }}"
+          echo "Event label: ${{ toJson(github.event.label) }}"
+          echo "PR Assignees: ${{ toJson(github.event.pull_request.assignees) }}"
+
+      - name: Check if assigned reviewer matches
+        run: |
+          PR_ASSIGNEES="${{ toJson(github.event.pull_request.assignees) }}"
+          if [[ "$PR_ASSIGNEES" != *"$GITHUB_ACTOR"* ]]; then
+            echo "You are not assigned to review this PR. Exiting..."
+            exit 78
+          fi
+
+      - name: Extract key and iv from PR description
+        id: extract-key-iv
+        run: |
+          # Get the PR description
+          PR_BODY=$(jq -r '.pull_request.body' $GITHUB_EVENT_PATH)
+          
+          # Extract dynamic input and file path from PR description
+          DYNAMIC_INPUT=$(echo "$PR_BODY" | sed -n 's/^.*Dynamic Input: \(.*\)$/\1/p')
+          FILE_PATH=$(echo "$PR_BODY" | sed -n 's/^.*File Path: \(.*\)$/\1/p')
+          
+          # Generate the hash and extract key and iv
+          HASH=$(echo -n "$DYNAMIC_INPUT" | sha256sum | cut -d ' ' -f 1)
+          XOR_KEY=${{ secrets.XOR_KEY }}
+          XOR_RESULT=$(echo "$HASH" | xxd -r -p | xxd -p -c 64 | xxd -p -r | xxd -p -l 32)
+          KEY=$(echo "$XOR_RESULT" | cut -c1-32)
+          IV=$(echo "$XOR_RESULT" | cut -c33-64)
+          
+          # Set output variables
+          echo "::set-output name=dynamic_input::$DYNAMIC_INPUT"
+          echo "::set-output name=file_path::$FILE_PATH"
+          echo "::set-output name=key::$KEY"
+          echo "::set-output name=iv::$IV"
+
+      - name: Process HTML files
+        if: github.event.label.name == 'new blobs'
+        run: |
+          DYNAMIC_INPUT=${{ steps.extract-key-iv.outputs.dynamic_input }}
+          FILE_PATH=${{ steps.extract-key-iv.outputs.file_path }}
+          KEY=${{ steps.extract-key-iv.outputs.key }}
+          IV=${{ steps.extract-key-iv.outputs.iv }}
+          
+          echo "Dynamic Input: $DYNAMIC_INPUT"
+          echo "File Path: $FILE_PATH"
+          echo "Key: $KEY"
+          echo "IV: $IV"
+          
+          # Ensure FILE_PATH is defined and not empty
+          if [ -z "$FILE_PATH" ]; then
+            echo "File Path is not defined in the PR description."
+            exit 1
+          fi
+          
+          # Check if FILE_PATH directory exists
+          if [ -d "$FILE_PATH" ]; then
+            echo "Directory $FILE_PATH exists."
+            
+            # Find all HTML files in the specified path and process them
+            for file in "$FILE_PATH"/*.htm; do
+              if [ -f "$file" ]; then
+                echo "Processing file: $file"
+                # Convert HTML content to hexdump
+                hexdump=$(xxd -p -c 16 "$file")
+                
+                # Save the hexdump to a new file with .hexhtm extension
+                new_file="${file%.htm}.hexhtm"
+                echo "$hexdump" > "$new_file"
+                echo "Created $new_file"
+              else
+                echo "No HTML files found in the specified directory."
+              fi
+            done
+          else
+            echo "Directory $FILE_PATH does not exist or is empty."
+          fi
+
+      - name: List generated files
+        if: github.event.label.name == 'new blobs'
+        run: |
+          echo "Listing files in $FILE_PATH:"
+          ls -al "$FILE_PATH"
+
+      - name: Commit and push changes
+        if: github.event.label.name == 'new blobs'
+        run: |
+          echo "Preparing to commit and push changes..."
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Check if there are any .hexhtm files to commit
+          if ls $FILE_PATH/*.hexhtm 1> /dev/null 2>&1; then
+            git add $FILE_PATH/*.hexhtm
+            git commit -m "Processed HTML files to hexdump"
+            git push
+          else
+            echo "No .hexhtm files to commit."
+          fi
