@@ -25,6 +25,7 @@ jobs:
           echo "Event label name: ${{ github.event.label.name }}"
           echo "Event label: ${{ toJson(github.event.label) }}"
           echo "PR Assignees: ${{ toJson(github.event.pull_request.assignees) }}"
+          echo "Actor: $GITHUB_ACTOR"
 
       - name: Check if assigned reviewer matches
         run: |
