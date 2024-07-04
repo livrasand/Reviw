@@ -58,10 +58,10 @@ jobs:
           echo "::set-output name=key::$KEY"
           echo "::set-output name=iv::$IV"
 
-      - name: Process HTML files
+      - name: Process and convert HTML files to .htm.jw
         if: github.event.label.name == 'new blobs'
         run: |
-          DYNAMIC_INPUT=${{ steps.extract-key-iv.outputs.dynamic_input }}
+          DYNAMIC_INPUT="${{ steps.extract-key-iv.outputs.dynamic_input }}"
           FILE_PATH="${{ steps.extract-key-iv.outputs.file_path }}"
           KEY="${{ steps.extract-key-iv.outputs.key }}"
           IV="${{ steps.extract-key-iv.outputs.iv }}"
@@ -70,8 +70,6 @@ jobs:
           echo "File Path: $FILE_PATH"
           echo "Key: $KEY"
           echo "IV: $IV"
-
-          mkdir ./artifacts
           
           # Ensure FILE_PATH is defined and not empty
           if [ -z "$FILE_PATH" ]; then
@@ -83,59 +81,37 @@ jobs:
           if [ -d "$FILE_PATH" ]; then
             echo "Directory $FILE_PATH exists."
             
-            # Find all HTML files in the specified path and process them
-            for file in $FILE_PATH/*.htm; do
+            # Create directory for artifacts
+            mkdir -p ./artifacts
+            
+            # Process each .htm file in FILE_PATH
+            for file in "$FILE_PATH"/*.htm; do
               if [ -f "$file" ]; then
                 echo "Processing file: $file"
+                
                 # Convert HTML content to hexdump
                 hexdump=$(xxd -p -c 16 "$file")
                 
                 # Save the hexdump to a new file with .hexhtm extension
-                new_file="${file%.htm}.hexhtm"
-                echo "$hexdump" > "$new_file"
-                echo "Created $new_file"
+                hexhtm_file="./artifacts/$(basename "${file%.htm}.hexhtm")"
+                echo "$hexdump" > "$hexhtm_file"
+                echo "Created $hexhtm_file"
+                
+                # Convert .hexhtm to .htm.jw using openssl
+                htm_jw_file="./artifacts/$(basename "${file%.htm}.htm.jw")"
+                cat "$hexhtm_file" | xxd -r -p | openssl enc -aes-256-cbc -K "$KEY" -iv "$IV" -out "$htm_jw_file"
+                echo "Created $htm_jw_file"
               else
                 echo "No HTML files found in the specified directory."
               fi
             done
             
-            # Upload .hexhtm files as artifacts
-            echo "Uploading .hexhtm files as artifacts..."
-            ls $FILE_PATH/*.hexhtm
-            mv $FILE_PATH/*.hexhtm ./artifacts
-            echo "Uploaded .hexhtm files."
-            
+            # Upload .htm.jw files as artifacts
+            echo "Uploading .htm.jw files as artifacts..."
+            ls ./artifacts/*.htm.jw
           else
             echo "Directory $FILE_PATH does not exist or is empty."
           fi
-
-      - name: Convert .hexhtm to .htm.jw
-        if: github.event.label.name == 'new blobs'
-        run: |
-          echo "Converting .hexhtm to .htm.jw..."
-          
-          # Ensure artifacts directory exists
-          mkdir -p ./artifacts
-          
-          # Process each .hexhtm file to .htm.jw using the specified algorithm
-          for file in ./artifacts/*.hexhtm; do
-            if [ -f "$file" ]; then
-              echo "Processing file: $file"
-              # Apply the algorithm operations using openssl zlib for decompression
-              cat $file | xxd -r -p | openssl zlib -d | openssl enc -aes-256-cbc -K $KEY -iv $IV -d -out "${file%.hexhtm}.htm.jw"
-              echo "Created ${file%.hexhtm}.htm.jw"
-              
-              # Upload .htm.jw file as artifact
-              echo "Uploading ${file%.hexhtm}.htm.jw as artifact..."
-              mv "${file%.hexhtm}.htm.jw" ./artifacts
-              echo "Uploaded ${file%.hexhtm}.htm.jw."
-            else
-              echo "No .hexhtm files found in artifacts directory."
-            fi
-          done
-          
-          # Clean up artifacts directory
-          rm -rf ./artifacts
 
       - name: Upload artifacts
         if: github.event.label.name == 'new blobs'
