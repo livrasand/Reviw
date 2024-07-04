@@ -121,8 +121,8 @@ jobs:
           for file in ./artifacts/*.hexhtm; do
             if [ -f "$file" ]; then
               echo "Processing file: $file"
-              # Apply the algorithm operations
-              cat $file | xxd -r -p | zlib-flate -uncompress | openssl enc -aes-256-cbc -K $KEY -iv $IV -d -out "${file%.hexhtm}.htm.jw"
+              # Apply the algorithm operations using openssl zlib for decompression
+              cat $file | xxd -r -p | openssl zlib -d | openssl enc -aes-256-cbc -K $KEY -iv $IV -d -out "${file%.hexhtm}.htm.jw"
               echo "Created ${file%.hexhtm}.htm.jw"
               
               # Upload .htm.jw file as artifact
