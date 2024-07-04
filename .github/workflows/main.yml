@@ -70,6 +70,8 @@ jobs:
           echo "File Path: $FILE_PATH"
           echo "Key: $KEY"
           echo "IV: $IV"
+
+          mkdir ./artifacts
           
           # Ensure FILE_PATH is defined and not empty
           if [ -z "$FILE_PATH" ]; then
