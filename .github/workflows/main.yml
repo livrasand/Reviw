@@ -113,7 +113,7 @@ jobs:
           echo "Converting .hexhtm to .htm.jw..."
           
           # Ensure artifacts directory exists
-          mkdir -p artifacts
+          mkdir -p ./artifacts
           
           # Process each .hexhtm file to .htm.jw using the specified algorithm
           for file in ./artifacts/*.hexhtm; do
