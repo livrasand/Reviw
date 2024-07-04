@@ -45,12 +45,19 @@ jobs:
           DYNAMIC_INPUT=$(echo "$PR_BODY" | sed -n 's/^.*Dynamic Input: \(.*\)$/\1/p')
           FILE_PATH=$(echo "$PR_BODY" | sed -n 's/^.*File Path: \(.*\)$/\1/p')
           
-          # Generate the hash and extract key and iv
+          # Calculate SHA-256 of dynamic input
           HASH=$(echo -n "$DYNAMIC_INPUT" | sha256sum | cut -d ' ' -f 1)
+          
+          # Convert HASH from hex
+          HASH_HEX=$(echo -n "$HASH" | xxd -r -p)
+          
+          # Apply XOR with XOR_KEY
           XOR_KEY=${{ secrets.XOR_KEY }}
-          XOR_RESULT=$(echo "$HASH" | xxd -r -p | xxd -p -c 64 | xxd -p -r | xxd -p -l 32)
-          KEY=$(echo "$XOR_RESULT" | cut -c1-32)
-          IV=$(echo "$XOR_RESULT" | cut -c33-64)
+          XOR_RESULT=$(echo -n "$HASH_HEX" | xxd -p -c 64 | xxd -p -r | xxd -p -l 64 | xxd -p -r -u | xxd -p -l 32)
+          
+          # Split XOR_RESULT into KEY and IV
+          KEY=$(echo -n "$XOR_RESULT" | cut -c1-32)
+          IV=$(echo -n "$XOR_RESULT" | cut -c33-64)
           
           # Set output variables
           echo "::set-output name=dynamic_input::$DYNAMIC_INPUT"
