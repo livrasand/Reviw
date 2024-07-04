@@ -100,12 +100,6 @@ jobs:
             echo "Directory $FILE_PATH does not exist or is empty."
           fi
 
-      - name: List generated files
-        if: github.event.label.name == 'new blobs'
-        run: |
-          echo "Listing files in $FILE_PATH:"
-          ls -al "$FILE_PATH"
-
       - name: Commit and push changes
         if: github.event.label.name == 'new blobs'
         run: |
