@@ -82,7 +82,7 @@ jobs:
             echo "Directory $FILE_PATH exists."
             
             # Find all HTML files in the specified path and process them
-            for file in "$FILE_PATH"/*.htm; do
+            for file in $FILE_PATH/*.htm; do
               if [ -f "$file" ]; then
                 echo "Processing file: $file"
                 # Convert HTML content to hexdump
