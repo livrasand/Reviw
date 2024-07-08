@@ -183,6 +183,12 @@
     	"imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CO-cdrn24.jpg"
     }, 
     {
+    	"descargas": 0, 
+    	"title": "Please Follow Up", 
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/S-43.jpg",
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/S-43_E.jwpub/S-43_E.jwpub"
+    },
+    {
         "descargas": 608, 
         "title": "Programa de actividades para la adoración en familia (julio 2023)", 
         "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_06/fws26_univ_sqr600x600.jpg.90b72207b69f9915ec1cd34f0ae1d7e3.jpg", 
@@ -230,6 +236,12 @@
         "imageURL": "https://www.sunredline.org/Pubblica/jwpub/ijwwt_I/1011441_univ_sqr_lg.jpg", 
         "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/ijwwt_I/ijwwt_I.jwpub"
     }, 
+    {
+    	"descargas": 0, 
+    	"title": "Sírvase visitar", 
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/S-43.jpg",
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/S-43_S.jwpub/S-43_S.jwpub"
+    },
     {
         "descargas": 0, 
         "title": "Storie bibliche a fumetti", 
