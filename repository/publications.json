@@ -301,5 +301,23 @@
 	    "title": "¡Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana", 
 	    "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_02/1102021805_univ_sqr-600x600.jpg.55e1f90ed6a04e20c34e0c216cd464cd.jpg", 
 	    "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/lffic_MYO.jwpub"
+    },
+    {
+        "descargas": 0, 
+        "title": "Notes de l’assemblée régionale 2024", 
+        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/img/1102024193_univ_sqr.jpg", 
+        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/CO-cdrn24_F.jwpub"
+    },
+    {
+        "descargas": 55, 
+        "title": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2024-2025 (con il rappresentante della filiale)", 
+        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/CA-cdrnbrpgm25_I/1102025241_univ_sqr.jpg", 
+        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/CA-cdrnbrpgm25_I/CA-cdrnbrpgm25_I.jwpub"
+    },
+    {
+        "descargas": 1, 
+        "title": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2024-2025 (con il sorvegliante di circoscrizione)", 
+        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/CA-cdrncopgm25_I/1102025245_univ_sqr.jpg", 
+        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/CA-cdrncopgm25_I/CA-cdrncopgm25_I.jwpub"
     }
 ]
