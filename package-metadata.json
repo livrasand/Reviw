@@ -2,7 +2,7 @@
     "id": "io.github.livrasand.reviw",
     "name": "Reviw",
     "description": "Reviw: diseñado para crear archivos JWPUB",
-    "version": "1.3.0",
+    "version": "1.2.2",
     "author": "Livrädo Sandoval",
     "email": "livrasand@outlook.com",
     "website": "https://livrasand.github.io",
@@ -35,6 +35,42 @@
 	        "date": "2023-09-17",
 	        "url": "https://github.com/livrasand/Reviw/releases/download/v1.1.0/Reviw.sublime-package",
 	        "description": "Uniendo poder y simplicidad en un solo lugar"
+	    },
+	    {
+	        "sublime_text": ">=4000",
+	        "platforms": {
+	            "windows": true,
+	            "osx": true,
+	            "linux": true
+	        },
+	        "version": "1.2.0",
+	        "date": "2023-11-01",
+	        "url": "https://github.com/livrasand/Reviw/releases/download/v1.2.0/Reviw.sublime-package",
+	        "description": "La evolución de la productividad"
+	    },
+	    {
+	        "sublime_text": ">=4000",
+	        "platforms": {
+	            "windows": true,
+	            "osx": true,
+	            "linux": true
+	        },
+	        "version": "1.2.1",
+	        "date": "2024-05-24",
+	        "url": "https://github.com/livrasand/Reviw/releases/download/v1.2.1/Reviw.sublime-package",
+	        "description": "Una invitación a escribir y crear"
+	    },
+	    {
+	        "sublime_text": ">=4000",
+	        "platforms": {
+	            "windows": true,
+	            "osx": true,
+	            "linux": true
+	        },
+	        "version": "1.2.2",
+	        "date": "2024-07-04",
+	        "url": "https://github.com/livrasand/Reviw/releases/download/v1.2.2/Reviw.sublime-package",
+	        "description": "Correcciones de errores"
 	    }
     ]
 }
