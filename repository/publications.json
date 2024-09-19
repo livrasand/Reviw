@@ -99,6 +99,18 @@
         "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CA-brcdrn24_S.jwpub"
     }, 
     {
+        "descargas": 0, 
+        "title": "Cuaderno de apuntes para la asamblea de circuito 2024-2025 (con el superintendente de circuito)", 
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CA-brcdrn25.jpg",
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_S.jwpub/CA-brcdrn25_S.jwpub"
+    }, 
+    {
+        "descargas": 0, 
+        "title": "Cuaderno de apuntes para la asamblea de circuito 2024-2025 (con representante de la sucursal)", 
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CA-cocdrn25.jpg",
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CA-cocdrn25_S.jwpub/CA-cocdrn25_S.jwpub"
+    },
+    {
         "descargas": 1854, 
         "title": "Cuaderno de Apuntes para la Asamblea Regional del 2022", 
         "imageURL": "https://assetsnffrgf-a.akamaihd.net/assets/m/1102022194/univ/art/1102022194_univ_sqr_lg.jpg", 
