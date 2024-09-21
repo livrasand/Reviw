@@ -61,7 +61,19 @@
         "year": "2024", 
         "symbol": "cabrcdrn24", 
         "imageURL": "https://raw.githubusercontent.com/livrasand/Reviw/main/examples-wts/5-T_Portugu%C3%AAs/CA-copgm24_T/contents%7E/1102024245_univ_sqr-600x600.jpg"
+    },
+    {
+        "descargas": 0, 
+        "title": "Caderno da Assembleia de Circuito de 2024-2025 — com o Representante de Betel", 
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CA-brcdrn25.jpg",
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_T.jwpub/CA-brcdrn25_T.jwpub"
     }, 
+    {
+        "descargas": 0, 
+        "title": "Caderno da Assembleia de Circuito de 2024-2025 — com o Superintendente de Circuito", 
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CA-cocdrn25.jpg",
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CA-cocdrn25_T.jwpub/CA-cocdrn25_T.jwpub"
+    },
     {
         "descargas": 0, 
         "title": "Caderno do Congresso de 2024", 
@@ -70,7 +82,7 @@
     },
     {
         "descargas": 0, 
-        "title": "Comentario sobre la carta de Santigo", 
+        "title": "Comentario sobre la carta de Santiago", 
         "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/cj.jpg",
         "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/cj_S.jwpub/cj_S.jwpub"
     },
