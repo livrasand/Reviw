@@ -1,0 +1,85 @@
+{
+	"name": "fws26_S.jwpub",
+	"hash": "a11178b01c918120c54a52e786efe5fa6634676bc7533ce2616f97652f581516",
+	"timestamp": "2023-06-28T08:07:26Z",
+	"version": 1,
+	"expandedSize": 1484232,
+	"contentFormat": "z-a",
+	"htmlValidated": false,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 12230,
+	"publication": { 
+		"fileName": "fws26_S.db",
+		"type": 1,
+		"title": "Programa de actividades para la adoración en familia (julio 2023)",
+		"shortTitle": "Programa de actividades para la adoración en familia (julio 2023)",
+		"displayTitle": "Programa de actividades para la adoración en familia (julio 2023) (fws26)",
+		"referenceTitle": "Programa de actividades para la adoración en familia (julio 2023)",
+		"undatedReferenceTitle": "Programa de actividades para la adoración en familia (julio 2023)",
+		"titleRich": "Programa de actividades para la adoración en familia (julio 2023)",
+		"displayTitleRich": "Programa de actividades para la adoración en familia (julio 2023) (fws26)",
+		"referenceTitleRich": "Programa de actividades para la adoración en familia (julio 2023)",
+		"undatedReferenceTitleRich": "Programa de actividades para la adoración en familia (julio 2023)",
+		"symbol": "fws26",
+		"uniqueEnglishSymbol": "fws26",
+		"uniqueSymbol": "fws26",
+		"undatedSymbol": "fws26",
+		"englishSymbol": "fws26",
+		"language": 1,
+		"hash": "e0f7ca14f6e9ee541056499ceb88faa3c9a441cc",
+		"timestamp": "2023-06-28T08:07:26Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2023,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Program",
+		"rootSymbol": "fws26",
+		"rootYear": 2023,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "15130091cabec27c0a1632f3d8ebc6ed57bb2f89:120:120",
+				"fileName": "fws26_univ_sqr120x120.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 120,
+				"height": 120
+			},
+			{
+				"signature": "d8eb56bff3799336c54163ee84a8071466628147:270:270",
+				"fileName": "fws26_univ_sqr270x270.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 270,
+				"height": 270
+			},
+			{
+				"signature": "c125e4e6951edf12880076fef9862756b1b10dc4:600:600",
+				"fileName": "fws26_univ_sqr600x600.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 600,
+				"height": 600
+			}
+		],
+		"categories": [ 
+				"pgm"
+		],
+		"attributes": [ 
+		],
+		"issueAttributes": [ 
+		],
+		"issueProperties": { 
+				"title": "",
+				"undatedTitle": "",
+				"coverTitle": "",
+				"titleRich": "",
+				"undatedTitleRich": "",
+				"coverTitleRich": "",
+				"symbol": "",
+				"undatedSymbol": ""
+		}
+	}
+}
