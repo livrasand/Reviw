@@ -1,0 +1,82 @@
+{
+	"name": "S-43_S.jwpub",
+	"hash": "b8c10489e52deaea8785be355e2057413692ab88f103f0aff20feb176cd2c872",
+	"timestamp": "2024-07-10T10:44:49Z",
+	"version": 1,
+	"expandedSize": 456146,
+	"contentFormat": "z-a",
+	"htmlValidated": false,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 12452,
+	"publication": { 
+		"fileName": "S-43_S.db",
+		"type": 1,
+		"title": "Sírvase visitar",
+		"shortTitle": "Sírvase visitar",
+		"displayTitle": "Sírvase visitar  (S-43)",
+		"referenceTitle": "Sírvase visitar",
+		"undatedReferenceTitle": "Sírvase visitar",
+		"titleRich": "Sírvase visitar",
+		"displayTitleRich": "Sírvase visitar",
+		"referenceTitleRich": "Sírvase visitar",
+		"undatedReferenceTitleRich": "Sírvase visitar",
+		"symbol": "S-43",
+		"uniqueEnglishSymbol": "S-43",
+		"uniqueSymbol": "S-43",
+		"undatedSymbol": "S-43",
+		"englishSymbol": "S-43",
+		"language": 1,
+		"hash": "45f7ab6059feb8f10e14d8220c7c118cef44c967",
+		"timestamp": "2024-07-10T10:44:49Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2024,
+		"issueId": 0,
+		"variation": "",
+		"publicationType": "Form",
+		"rootSymbol": "S-43",
+		"rootYear": 2024,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "636ce0687a06e7d412a3730396ff7ca21ee09e97:120:120",
+				"fileName": "20240628001_univ_sqr-120x120.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 120,
+				"height": 120
+			},
+			{
+				"signature": "636ce0687a06e7d412a3730396ff7ca21ee09e97:270:270",
+				"fileName": "20240628001_univ_sqr-270x270.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 270,
+				"height": 270
+			},
+			{
+				"signature": "636ce0687a06e7d412a3730396ff7ca21ee09e97:600:600",
+				"fileName": "20240628001_univ_sqr-600x600.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 600,
+				"height": 600
+			}
+		],
+		"categories": [ 
+				"form"
+		],
+		"attributes": [
+				"Ministry"
+		],
+		"issueAttributes": [ 
+		],
+		"issueProperties": { 
+				"title": "",
+				"undatedTitle": "",
+				"coverTitle": "",
+				"symbol": "",
+				"undatedSymbol": ""
+		}
+	}
+}
