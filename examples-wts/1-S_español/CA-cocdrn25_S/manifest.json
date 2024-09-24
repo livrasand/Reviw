@@ -1,0 +1,134 @@
+{
+	"name": "CA-cocdrn25_S.jwpub",
+	"hash": "b384891c6a1a2377c0a30ddc006da57fbacd01bf94bbd770c9ac3fe126aa7744",
+	"timestamp": "2024-08-04T10:16:56Z",
+	"version": 1,
+	"expandedSize": 1339588,
+	"contentFormat": "z-a",
+	"htmlValidated": false,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 12852,
+	"publication": { 
+		"fileName": "CA-cocdrn25_S.db",
+		"type": 1,
+		"title": "Cuaderno de apuntes de la asamblea de circuito 2024-2025 (con el superintendente de circuito)",
+		"shortTitle": "Cuaderno de apuntes de la asamblea de circuito 2024-2025 (con el superintendente de circuito)",
+		"displayTitle": "Cuaderno de apuntes de la asamblea de circuito 2024-2025 (con el superintendente de circuito)  (CA-cocdrn25)",
+		"referenceTitle": "Cuaderno de apuntes de la asamblea de circuito 2024-2025 (con el superintendente de circuito)",
+		"undatedReferenceTitle": "Cuaderno de apuntes de la asamblea de circuito 2024-2025 (con el superintendente de circuito)",
+		"titleRich": "Cuaderno de apuntes de la asamblea de circuito 2024-2025 (con el superintendente de circuito)",
+		"displayTitleRich": "Cuaderno de apuntes de la asamblea de circuito 2024-2025 (con el superintendente de circuito)  (CA-cocdrn25)",
+		"referenceTitleRich": "Cuaderno de apuntes de la asamblea de circuito 2024-2025 (con el superintendente de circuito)",
+		"undatedReferenceTitleRich": "Cuaderno de apuntes de la asamblea de circuito 2024-2025 (con el superintendente de circuito)",
+		"symbol": "CA-cocdrn25",
+		"uniqueEnglishSymbol": "CA-cocdrn25",
+		"uniqueSymbol": "CA-cocdrn25",
+		"undatedSymbol": "CA-cocdrn25",
+		"englishSymbol": "CA-cocdrn25",
+		"language": 1,
+		"hash": "4f77c5d5908266572cf661fa5c0fdda45f46f6557",
+		"timestamp": "2024-08-04T10:16:56Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2025,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Program",
+		"rootSymbol": "CA-cocdrn25",
+		"rootYear": 2025,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "e9d1bf1eec1d1ff92a9e0c9f2515ffa545faafc1:120:120",
+				"fileName": "1102025245_univ_sqr-120x120.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 120,
+				"height": 120
+			},
+			{
+				"signature": "e9d1bf1eec1d1ff92a9e0c9f2515ffa545faafc1:270:270",
+				"fileName": "1102025245_univ_sqr-270x270.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 270,
+				"height": 270
+			},
+			{
+				"signature": "e9d1bf1eec1d1ff92a9e0c9f2515ffa545faafc1:600:600",
+				"fileName": "1102025245_univ_sqr-600x600.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 600,
+				"height": 600
+			},
+			{
+				"signature": "26364e6a487ba185cd356cc8db551527c300bbf8:240:120",
+				"fileName": "1102025245_univ_lsr-240x120.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 240,
+				"height": 120
+			},
+			{
+				"signature": "26364e6a487ba185cd356cc8db551527c300bbf8:560:280",
+				"fileName": "1102025245_univ_lsr-560x280.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 560,
+				"height": 280
+			},
+			{
+				"signature": "26364e6a487ba185cd356cc8db551527c300bbf8:1200:600",
+				"fileName": "1102025245_univ_lsr-1200x600.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 1200,
+				"height": 600
+			},
+			{
+				"signature": "12c4753390fe87c1b50ed8b5437ac719339be76f:360:120",
+				"fileName": "1102025245_univ_pnr-360x120.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 360,
+				"height": 120
+			},
+			{
+				"signature": "12c4753390fe87c1b50ed8b5437ac719339be76f:810:270",
+				"fileName": "1102025245_univ_pnr-810x270.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 810,
+				"height": 270
+			},
+			{
+				"signature": "12c4753390fe87c1b50ed8b5437ac719339be76f:1800:600",
+				"fileName": "1102025245_univ_pnr-1800x600.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 1800,
+				"height": 600
+			}
+		],
+		"categories": [ 
+				"pgm"
+		],
+		"attributes": [ 
+				"Circuit Assembly"
+		],
+		"issueAttributes": [ 
+		],
+		"issueProperties": { 
+				"title": "",
+				"undatedTitle": "",
+				"coverTitle": "",
+				"titleRich": "",
+				"undatedTitleRich": "",
+				"coverTitleRich": "",
+				"symbol": "",
+				"undatedSymbol": ""
+		}
+	}
+}
