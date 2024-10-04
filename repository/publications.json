@@ -12,68 +12,82 @@
         "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CO-cdrn23_E.jwpub"
     }, 
     {
-    	"descargas": 0, 
-    	"title": "2024 Convention Notebook",
+        "descargas": 0, 
+        "title": "2024 Convention Notebook",
         "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CO-cdrn24.jpg",
         "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_E.jwpub/CO-cdrn24_E.jwpub"
     },
     {
-    	"descargas": 0, 
-    	"title": "2024-2025 Circuit Assembly Notebook With Branch Representative",
+        "descargas": 0, 
+        "title": "2024-2025 Circuit Assembly Notebook With Branch Representative",
         "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CA-brcdrn25.jpg",
         "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_E.jwpub/CA-brcdrn25_E.jwpub"
     },
     {
-    	"descargas": 0, 
-    	"title": "2024-2025 Circuit Assembly Notebook With Circuit Overseer",
+        "descargas": 0, 
+        "title": "2024-2025 Circuit Assembly Notebook With Circuit Overseer",
         "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CA-cocdrn25.jpg",
         "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CA-cocdrn25_E.jwpub/CA-cocdrn25_E.jwpub"
     },
     {
-    	"descargas": 0, 
-    	"title": "Arem aman wey’ye", 
+        "descargas": 0, 
+        "title": "¡Al’leake jiba bechïbo jiapsa! Ju Biblia enchi a bit’tuana jáchini", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_03/1102021352_univ_sqr-600x600.jpg.660fc3a04c60c59b9092fb7f450fbfaa.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/lffc_MYO.jwpub"
+    },
+    {
+        "descargas": 0, 
+        "title": "¡Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_02/1102021805_univ_sqr-600x600.jpg.55e1f90ed6a04e20c34e0c216cd464cd.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/lffic_MYO.jwpub"
+    },
+    {
+        "descargas": 0, 
+        "title": "Arem aman wey’ye", 
         "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/S-43.jpg",
         "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/S-43_MYO.jwpub/S-43_MYO.jwpub"
     },
     {
-    	"descargas": 1417, 
-    	"title": "Bosquejo para las reuniones", 
+        "descargas": 0, 
+        "title": "Блокнот для Регионального конгресса 2024 года", 
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CO-cdrn24.jpg",
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_U.jwpub/CO-cdrn24_U.jwpub"
+    },
+    {
+        "descargas": 1417, 
+        "title": "Bosquejo para las reuniones", 
         "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_07/programs-events_univ_pnr_lg.png.e7adca68b5ba91f624d34770c60684ac.png",
         "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/scpm_S.jwpub"
     },
     {
-    	"descargas": 0, 
-    	"title": "Caderno do Congresso de 2024", 
+        "title": "Caderno de Anotações do Programa da Assembleia de Circuito de 2023-2024 com o Superintendente de Circuito", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CA-cdrnbrpgm24_T.jwpub",
+        "imageURL": "https://raw.githubusercontent.com/livrasand/Reviw/main/examples-wts/5-T_Portugu%C3%AAs/CA-copgm24_T/contents%7E/1102024245_univ_sqr-600x600.jpg"
+    },
+    {
+        "descargas": 0, 
+        "title": "Caderno da Assembleia de Circuito de 2024-2025 — com o Representante de Betel", 
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CA-brcdrn25.jpg",
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_T.jwpub/CA-brcdrn25_T.jwpub"
+    }, 
+    {
+        "descargas": 0, 
+        "title": "Caderno da Assembleia de Circuito de 2024-2025 — com o Superintendente de Circuito", 
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CA-cocdrn25.jpg",
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CA-cocdrn25_T.jwpub/CA-cocdrn25_T.jwpub"
+    },
+    {
+        "descargas": 0, 
+        "title": "Caderno do Congresso de 2024", 
         "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CO-cdrn24.jpg",
         "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_T.jwpub/CO-cdrn24_T.jwpub"
     },
     {
-    	"descargas": 0, 
-    	"title": "Comentario sobre la carta de Santigo", 
+        "descargas": 0, 
+        "title": "Comentario sobre la carta de Santiago", 
         "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/cj.jpg",
         "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/cj_S.jwpub/cj_S.jwpub"
     },
-    {
-    	"descargas": 0, 
-    	"title": "Cuaderno naw yayajäpota 2024po bechïbo", 
-        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CO-cdrn24.jpg",
-        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_MYO.jwpub/CO-cdrn24_MYO.jwpub"
-    }, 
-    {
-    	"descargas": 0, 
-    	"title": "Cuaderno naw yayajäpota circuítota 2024-2025po béchïbo (Superintendente circuítopo anémemaki)", 
-        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CA-cocdrn25.jpg",
-        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CA-cocdrn25_MYO.jwpub/CA-cocdrn25_MYO.jwpub"
-    },
-    {
-        "title": "Caderno de Anotações do Programa da Assembleia de Circuito de 2023-2024 com o Superintendente de Circuito", 
-        "language": "5", 
-        "repositoryURL": "https://github.com/livrasand/Reviw/tree/main/examples-wts/5-T_Portugu%C3%AAs/CA-copgm24_T", 
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CA-cdrnbrpgm24_T.jwpub",
-        "year": "2024", 
-        "symbol": "cabrcdrn24", 
-        "imageURL": "https://raw.githubusercontent.com/livrasand/Reviw/main/examples-wts/5-T_Portugu%C3%AAs/CA-copgm24_T/contents%7E/1102024245_univ_sqr-600x600.jpg"
-    }, 
     {
         "descargas": 1257, 
         "title": "Cuaderno de apuntes para la asamblea de circuito 2022-2023 (con el superintendente de circuito)", 
@@ -98,6 +112,18 @@
         "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_08/1102024241_univ_sqr-600x600.jpg.a7e09570078d5b273eac8f5bd97693f8.jpg", 
         "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/CA-brcdrn24_S.jwpub"
     }, 
+    {
+        "descargas": 0, 
+        "title": "Cuaderno de apuntes para la asamblea de circuito 2024-2025 (con el superintendente de circuito)", 
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CA-brcdrn25.jpg",
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_S.jwpub/CA-brcdrn25_S.jwpub"
+    }, 
+    {
+        "descargas": 0, 
+        "title": "Cuaderno de apuntes para la asamblea de circuito 2024-2025 (con representante de la sucursal)", 
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CA-cocdrn25.jpg",
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CA-cocdrn25_S.jwpub/CA-cocdrn25_S.jwpub"
+    },
     {
         "descargas": 1854, 
         "title": "Cuaderno de Apuntes para la Asamblea Regional del 2022", 
@@ -136,10 +162,22 @@
     }, 
     {
         "descargas": 0, 
-        "title": "Examinemos las Escrituras todos los días 2024 (con videos hasta agosto)", 
-        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_04/1102024216_univ_sqr-270x270.jpg.359a84dd8a35cf60ffee001aa04b0341.jpg.cc70b9457fd15358d3911203fa3aad73.jpg", 
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/es24_S.jwpub"
+        "title": "Cuaderno naw yayajäpota 2024po bechïbo", 
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CO-cdrn24.jpg",
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_MYO.jwpub/CO-cdrn24_MYO.jwpub"
+    },
+    {
+        "descargas": 0, 
+        "title": "Cuaderno naw yayajäpota circuítota 2024-2025po béchïbo (Representantetámaki Sucursalta bétana)", 
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CA-brcdrn25.jpg",
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_MYO.jwpub/CA-brcdrn25_MYO.jwpub"
     }, 
+    {
+        "descargas": 0, 
+        "title": "Cuaderno naw yayajäpota circuítota 2024-2025po béchïbo (Superintendente circuítopo anémemaki)", 
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CA-cocdrn25.jpg",
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CA-cocdrn25_MYO.jwpub/CA-cocdrn25_MYO.jwpub"
+    },
     {
         "descargas": 1538, 
         "title": "Examinemos las Escrituras todos los días 2023 (con videos)", 
@@ -148,9 +186,15 @@
     }, 
     {
         "descargas": 0, 
-        "title": "Guida per i presidenti delle adunanze", 
-        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_07/programs-events_univ_pnr_lg.png.e7adca68b5ba91f624d34770c60684ac.png", 
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/scpm_I.jwpub"
+        "title": "Examinemos las Escrituras todos los días 2024 (con videos hasta agosto)", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_04/1102024216_univ_sqr-270x270.jpg.359a84dd8a35cf60ffee001aa04b0341.jpg.cc70b9457fd15358d3911203fa3aad73.jpg", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/es24_S.jwpub"
+    }, 
+    {
+        "descargas": 0, 
+        "title": "Good News for People of All Nation", 
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/np.jpg",
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/np_E.jwpub/np_E.jwpub"
     }, 
     {
         "descargas": 579, 
@@ -158,6 +202,12 @@
         "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_04/1204260_univ_sqr-600x600.jpg.e83c53b622e7b27bbe3170cf0604b61d.jpg", 
         "downloadURL": "https://www.recursosteocraticos.com/files/file/11038-jw-library-gu%C3%ADa-de-estudio-para-los-testigos-de-jehov%C3%A1-2018/?do=download"
     }, 
+    {
+        "descargas": 0, 
+        "title": "Guida per i presidenti delle adunanze", 
+        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2023_07/programs-events_univ_pnr_lg.png.e7adca68b5ba91f624d34770c60684ac.png", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/scpm_I.jwpub"
+    },
     {
         "descargas": 0, 
         "title": "Historias bíblicas ilustradas", 
@@ -195,20 +245,26 @@
         "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/fhsg_S.jwpub"
     },
     {  
-	"descargas": 0, 
-    	"title": "Notebook sang 2024 nga Kombension",
-    	"downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_HV.jwpub/CO-cdrn24_HV.jwpub",
-    	"imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CO-cdrn24.jpg"
+    "descargas": 0, 
+        "title": "Notebook sang 2024 nga Kombension",
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_HV.jwpub/CO-cdrn24_HV.jwpub",
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CO-cdrn24.jpg"
     },
     {
-    	"descargas": 0, 
-    	"title": "Notizbuch für den Kongress 2024",
-    	"downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_X.jwpub/CO-cdrn24_X.jwpub",
-    	"imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CO-cdrn24.jpg"
+        "descargas": 0, 
+        "title": "Notes de l’assemblée régionale 2024", 
+        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/img/1102024193_univ_sqr.jpg", 
+        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/CO-cdrn24_F.jwpub"
+    },
+    {
+        "descargas": 0, 
+        "title": "Notizbuch für den Kongress 2024",
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_X.jwpub/CO-cdrn24_X.jwpub",
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/CO-cdrn24.jpg"
     }, 
     {
-    	"descargas": 0, 
-    	"title": "Please Follow Up", 
+        "descargas": 0, 
+        "title": "Please Follow Up", 
         "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/S-43.jpg",
         "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/S-43_E.jwpub/S-43_E.jwpub"
     },
@@ -243,6 +299,24 @@
         "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/fws_S_202209.jwpub"
     }, 
     {
+        "descargas": 0, 
+        "title": "Schede per i ragazzi", 
+        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/ijwwt_I/1011441_univ_sqr_lg.jpg", 
+        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/ijwwt_I/ijwwt_I.jwpub"
+    }, 
+    {
+        "descargas": 0, 
+        "title": "Sírvase visitar", 
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/S-43.jpg",
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/S-43_S.jwpub/S-43_S.jwpub"
+    },
+    {
+        "descargas": 0, 
+        "title": "Storie bibliche a fumetti", 
+        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/ijwbs_I/1011257_univ_sqr_lg.jpg", 
+        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/ijwbs_I/ijwbs_I.jwpub"
+    }, 
+    {
         "descargas": 245, 
         "title": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2023-2024 (con il rappresentante della filiale)", 
         "imageURL": "https://raw.githubusercontent.com/DeadalusNF/JWPUB/main/CA-cdrnbrpgm24_I/1102024241_univ_sqr.jpg", 
@@ -255,23 +329,17 @@
         "downloadURL": "https://github.com/DeadalusNF/JWPUB/raw/main/CA-cdrncopgm24_I/CA-cdrncopgm24_I.jwpub"
     }, 
     {
-        "descargas": 0, 
-        "title": "Schede per i ragazzi", 
-        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/ijwwt_I/1011441_univ_sqr_lg.jpg", 
-        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/ijwwt_I/ijwwt_I.jwpub"
-    }, 
-    {
-    	"descargas": 0, 
-    	"title": "Sírvase visitar", 
-        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/S-43.jpg",
-        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/S-43_S.jwpub/S-43_S.jwpub"
+        "descargas": 55, 
+        "title": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2024-2025 (con il rappresentante della filiale)", 
+        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/CA-cdrnbrpgm25_I/1102025241_univ_sqr.jpg", 
+        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/CA-cdrnbrpgm25_I/CA-cdrnbrpgm25_I.jwpub"
     },
     {
-        "descargas": 0, 
-        "title": "Storie bibliche a fumetti", 
-        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/ijwbs_I/1011257_univ_sqr_lg.jpg", 
-        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/ijwbs_I/ijwbs_I.jwpub"
-    }, 
+        "descargas": 1, 
+        "title": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2024-2025 (con il sorvegliante di circoscrizione)", 
+        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/CA-cdrncopgm25_I/1102025245_univ_sqr.jpg", 
+        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/CA-cdrncopgm25_I/CA-cdrncopgm25_I.jwpub"
+    },
     {
         "descargas": 0, 
         "title": "Quaderno degli appunti del programma del congresso 2024", 
@@ -289,35 +357,5 @@
         "title": "Triángulos Púrpuras: “Víctimas Olvidadas” del Régimen Nazi", 
         "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_04/1101999290_univ_sqr-600x600.jpg.99e8b030830d2978d36a8c254219aad4.jpg", 
         "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/brfi_S.jwpub"
-    }, 
-    {
-        "descargas": 0, 
-        "title": "¡Al’leake jiba bechïbo jiapsa! Ju Biblia enchi a bit’tuana jáchini", 
-        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_03/1102021352_univ_sqr-600x600.jpg.660fc3a04c60c59b9092fb7f450fbfaa.jpg", 
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/lffc_MYO.jwpub"
-    },
-    {
-	    "descargas": 0, 
-	    "title": "¡Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana", 
-	    "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_02/1102021805_univ_sqr-600x600.jpg.55e1f90ed6a04e20c34e0c216cd464cd.jpg", 
-	    "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/lffic_MYO.jwpub"
-    },
-    {
-        "descargas": 0, 
-        "title": "Notes de l’assemblée régionale 2024", 
-        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/img/1102024193_univ_sqr.jpg", 
-        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/CO-cdrn24_F.jwpub"
-    },
-    {
-        "descargas": 55, 
-        "title": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2024-2025 (con il rappresentante della filiale)", 
-        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/CA-cdrnbrpgm25_I/1102025241_univ_sqr.jpg", 
-        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/CA-cdrnbrpgm25_I/CA-cdrnbrpgm25_I.jwpub"
-    },
-    {
-        "descargas": 1, 
-        "title": "Quaderno degli appunti del programma dell’assemblea di circoscrizione 2024-2025 (con il sorvegliante di circoscrizione)", 
-        "imageURL": "https://www.sunredline.org/Pubblica/jwpub/CA-cdrncopgm25_I/1102025245_univ_sqr.jpg", 
-        "downloadURL": "https://www.sunredline.org/Pubblica/jwpub/CA-cdrncopgm25_I/CA-cdrncopgm25_I.jwpub"
-    },
+    }
 ]

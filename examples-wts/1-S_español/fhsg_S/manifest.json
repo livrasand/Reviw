@@ -1,0 +1,93 @@
+{
+	"name": "fhsg_S.jwpub",
+	"hash": "cb35820d0aebf4e9558da121d7c6ade493e2a4e99e316aae9f3aecf89d0333a0",
+	"timestamp": "2024-05-01T09:19:07Z",
+	"version": 1,
+	"expandedSize": 2686363,
+	"contentFormat": "z-a",
+	"htmlValidated": false,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 12452,
+	"publication": { 
+		"fileName": "fhsg_S.db",
+		"type": 1,
+		"title": "Los frutos del Espíritu Santo de Dios",
+		"shortTitle": "Fruto del Espíritu",
+		"displayTitle": "Fruto del Espíritu  (fhsg)",
+		"referenceTitle": "Fruto del Espíritu",
+		"undatedReferenceTitle": "Fruto del Espíritu",
+		"titleRich": "Los frutos del Espíritu Santo de Dios",
+		"displayTitleRich": "Fruto del Espíritu  (fhsg)",
+		"referenceTitleRich": "Fruto del Espíritu",
+		"undatedReferenceTitleRich": "Fruto del Espíritu",
+		"symbol": "fhsg",
+		"uniqueEnglishSymbol": "fhsg",
+		"uniqueSymbol": "fhsg",
+		"undatedSymbol": "fhsg",
+		"englishSymbol": "fhsg",
+		"language": 1,
+		"hash": "f0e6b97a4f42e2a6da09a9ecc49140f35b5c38f0",
+		"timestamp": "2024-05-01T09:19:07Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2024,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Brochure",
+		"rootSymbol": "fhsg",
+		"rootYear": 2024,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "6d9162dc36bcf917f2d5dab711296ad29b8903b4:1200:1543",
+				"fileName": "1710193969_S_cvr.jpg",
+				"type": "c",
+				"attribute": "r",
+				"width": 1200,
+				"height": 1543
+			},
+			{
+				"signature": "5eaffb7722f9bae2824ed2c7e80d1581eda4bbd1:120:120",
+				"fileName": "1710193969_sqr_120x120.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 120,
+				"height": 120
+			},
+			{
+				"signature": "5eaffb7722f9bae2824ed2c7e80d1581eda4bbd1:270:270",
+				"fileName": "1710193969_sqr_270x270.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 270,
+				"height": 270
+			},
+			{
+				"signature": "5eaffb7722f9bae2824ed2c7e80d1581eda4bbd1:600:600",
+				"fileName": "1710193969_sqr_600x600.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 600,
+				"height": 600
+			}
+		],
+		"categories": [ 
+				"brch"
+		],
+		"attributes": [
+		],
+		"issueAttributes": [
+		],
+		"issueProperties": { 
+				"title": "",
+				"undatedTitle": "",
+				"coverTitle": "",
+				"titleRich": "",
+				"undatedTitleRich": "",
+				"coverTitleRich": "",
+				"symbol": "",
+				"undatedSymbol": ""
+		}
+	}
+}

@@ -29,6 +29,7 @@ message_view = MessageView()
 
 # Declarar global_project_name como una variable global
 global global_project_name
+global global_publication_name
 
 class CreateProjectCommand(sublime_plugin.TextCommand):
     def run(self, edit):
@@ -59,13 +60,27 @@ class CreateProjectCommand(sublime_plugin.TextCommand):
                 sublime.message_dialog("El nombre '{}' ya existe en JW Library.".format(name))
                 return
 
-            # Si pasa todas las validaciones, llama a "on_done"
-            self.on_done(name, reviw_folder)
+             # Si pasa todas las validaciones, llama a "ask_publication_name"
+            self.ask_publication_name(name, reviw_folder)
 
         # Pregunta al usuario el nombre de la carpeta "proyecto"
         sublime.active_window().show_input_panel("Símbolo de tu proyecto (máx. 15 caracteres, solo letras, números y guiones):", "pryct_S", validate_project_name, None, None)
 
-    def on_done(self, project_name, base_folder):        
+    def ask_publication_name(self, project_name, reviw_folder):
+        # Valida el nombre de la publicación ingresado por el usuario
+        def validate_publication_name(publication_name):
+            # Verifica si el nombre tiene más de 50 caracteres
+            if len(publication_name) > 50:
+                sublime.message_dialog("El nombre de la publicación '{}' excede los 50 caracteres permitidos.".format(publication_name))
+                return
+
+            # Si pasa todas las validaciones, llama a "on_done"
+            self.on_done(project_name, publication_name, reviw_folder)
+
+        # Pregunta al usuario el nombre de la publicación
+        sublime.active_window().show_input_panel("Nombre de la publicación (máx. 50 caracteres):", "", validate_publication_name, None, None)
+        
+    def on_done(self, project_name, publication_name, base_folder):        
         global global_project_name  # Definir la variable global
         global_project_name = project_name  # Asignar el valor
 
@@ -99,15 +114,15 @@ class CreateProjectCommand(sublime_plugin.TextCommand):
             ("publication", OrderedDict([
                 ("fileName", project_name + ".db"),
                 ("type", 1),
-                ("title", ""),
-                ("shortTitle", ""),
-                ("displayTitle", ""),
-                ("referenceTitle", ""),
-                ("undatedReferenceTitle", ""),
-                ("titleRich", ""),
-                ("displayTitleRich", ""),
-                ("referenceTitleRich", ""),
-                ("undatedReferenceTitleRich", ""),
+                ("title", publication_name),
+                ("shortTitle", publication_name),
+                ("displayTitle", publication_name + "  (" + project_name +")"),
+                ("referenceTitle", publication_name),
+                ("undatedReferenceTitle", publication_name),
+                ("titleRich", publication_name),
+                ("displayTitleRich", publication_name + "  (" + project_name +")"),
+                ("referenceTitleRich", publication_name),
+                ("undatedReferenceTitleRich", publication_name),
                 ("symbol", project_name),
                 ("uniqueEnglishSymbol", project_name),
                 ("uniqueSymbol", project_name),
@@ -152,8 +167,8 @@ class CreateProjectCommand(sublime_plugin.TextCommand):
             ]))
         ])
 
-        with open(manifest_path, "w") as manifest_file:
-            json.dump(manifest_template, manifest_file, indent=4)
+        with open(manifest_path, "w", encoding="utf-8") as manifest_file:
+            json.dump(manifest_template, manifest_file, indent=4, ensure_ascii=False)
 
         # Crear la base de datos SQLite con el nombre del proyecto dentro de "contents~"
         db_path = os.path.join(contents_path, project_name + ".db")
@@ -196,8 +211,6 @@ class CreateProjectCommand(sublime_plugin.TextCommand):
             print("Base de datos '{}' creada exitosamente.".format(nombre_db))
         except sqlite3.Error as e:
             print("Error al crear la base de datos: {}".format(e))
-
-
 
     def get_current_timestamp(self):
         return datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')

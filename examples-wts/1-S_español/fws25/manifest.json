@@ -1,0 +1,85 @@
+{
+	"name": "fws25_S.jwpub",
+	"hash": "ae0bbb7224701b1ab07707f484ad7a0502e09d247c09f5513b73192acfd6757f",
+	"timestamp": "2023-06-24T10:07:26Z",
+	"version": 1,
+	"expandedSize": 2239849,
+	"contentFormat": "z-a",
+	"htmlValidated": false,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 12230,
+	"publication": { 
+		"fileName": "fws25_S.db",
+		"type": 1,
+		"title": "Programa de actividades para la adoración en familia (junio 2023)",
+		"shortTitle": "Programa de actividades para la adoración en familia (junio 2023)",
+		"displayTitle": "Programa de actividades para la adoración en familia (junio 2023)  (fws25)",
+		"referenceTitle": "Programa de actividades para la adoración en familia (junio 2023)",
+		"undatedReferenceTitle": "Programa de actividades para la adoración en familia (junio 2023)",
+		"titleRich": "Programa de actividades para la adoración en familia (junio 2023)",
+		"displayTitleRich": "Programa de actividades para la adoración en familia (junio 2023)  (fws25)",
+		"referenceTitleRich": "Programa de actividades para la adoración en familia (junio 2023)",
+		"undatedReferenceTitleRich": "Programa de actividades para la adoración en familia (junio 2023)",
+		"symbol": "fws25",
+		"uniqueEnglishSymbol": "fws25",
+		"uniqueSymbol": "fws25",
+		"undatedSymbol": "fws25",
+		"englishSymbol": "fws25",
+		"language": 1,
+		"hash": "d156a04f107ed8fd45c12bcc6da17074d69af07a",
+		"timestamp": "2023-04-19T13:07:26Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2023,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Program",
+		"rootSymbol": "fws25",
+		"rootYear": 2023,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "a845386d3ac6313e376d8c965d752a52a939f82c:120:120",
+				"fileName": "1681932191_univ_sqr-120x120.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 120,
+				"height": 120
+			},
+			{
+				"signature": "a845386d3ac6313e376d8c965d752a52a939f82c:270:270",
+				"fileName": "1681932191_univ_sqr-270x270.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 270,
+				"height": 270
+			},
+			{
+				"signature": "a845386d3ac6313e376d8c965d752a52a939f82c:600:600",
+				"fileName": "1681932191_univ_sqr-600x600.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 600,
+				"height": 600
+			}
+		],
+		"categories": [ 
+				"pgm"
+		],
+		"attributes": [ 
+		],
+		"issueAttributes": [ 
+		],
+		"issueProperties": { 
+				"title": "",
+				"undatedTitle": "",
+				"coverTitle": "",
+				"titleRich": "",
+				"undatedTitleRich": "",
+				"coverTitleRich": "",
+				"symbol": "",
+				"undatedSymbol": ""
+		}
+	}
+}
