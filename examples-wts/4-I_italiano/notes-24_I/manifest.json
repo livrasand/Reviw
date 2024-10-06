@@ -1,0 +1,86 @@
+{
+	"name": "notes-24_I.jwpub",
+	"hash": "315c1d5d967d5871278c2c68b8ee110733098e0191985c62f1eecae251db3eb4",
+	"timestamp": "2024-10-02T05:55:55Z",
+	"version": 1,
+	"expandedSize": 3354464,
+	"contentFormat": "z-a",
+	"htmlValidated": false,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 12852,
+	"publication": { 
+		"fileName": "notes-24_I.db",
+		"type": 1,
+		"title": "Agenda. Calendario appuntamenti 2024",
+		"shortTitle": "Agenda. Calendario appuntamenti 2024",
+		"displayTitle": "Agenda. Calendario appuntamenti 2024  (notes-24_I)",
+		"referenceTitle": "Agenda. Calendario appuntamenti 2024",
+		"undatedReferenceTitle": "Agenda. Calendario appuntamenti 2024",
+		"titleRich": "Agenda. Calendario appuntamenti 2024",
+		"displayTitleRich": "Agenda. Calendario appuntamenti 2024  (notes-24_I)",
+		"referenceTitleRich": "Agenda. Calendario appuntamenti 2024",
+		"undatedReferenceTitleRich": "Agenda. Calendario appuntamenti 2024",
+		"symbol": "notes-24",
+		"uniqueEnglishSymbol": "notes-24",
+		"uniqueSymbol": "notes-24",
+		"undatedSymbol": "notes-24",
+		"englishSymbol": "notes-24",
+		"language": 4,
+		"hash": "0f843cf4df10577806a07cbb5d495af44adb20a4",
+		"timestamp": "2024-10-02T05:55:55Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2024,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Program",
+		"rootSymbol": "notes-24",
+		"rootYear": 2024,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "a89f469f9620360240e018e9ca7329bc6c782586:120:120",
+				"fileName": "notes-2024-120x120.png",
+				"type": "t",
+				"attribute": "r",
+				"width": 120,
+				"height": 120
+			},
+			{
+				"signature": "a89f469f9620360240e018e9ca7329bc6c782586:270:270",
+				"fileName": "notes-2024-270x270.png",
+				"type": "t",
+				"attribute": "r",
+				"width": 270,
+				"height": 270
+			},
+			{
+				"signature": "a89f469f9620360240e018e9ca7329bc6c782586:600:600",
+				"fileName": "notes-2024-600x600.png",
+				"type": "t",
+				"attribute": "r",
+				"width": 600,
+				"height": 600
+			},
+		],
+		"categories": [ 
+				"pgm"
+		],
+		"attributes": [ 
+				"AGENDA"
+		],
+		"issueAttributes": [ 
+		],
+		"issueProperties": { 
+				"title": "",
+				"undatedTitle": "",
+				"coverTitle": "",
+				"titleRich": "",
+				"undatedTitleRich": "",
+				"coverTitleRich": "",
+				"symbol": "",
+				"undatedSymbol": ""
+		}
+	}
+}

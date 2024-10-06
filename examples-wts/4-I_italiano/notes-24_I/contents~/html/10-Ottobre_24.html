@@ -1,0 +1,1332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html lang="it" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Agenda - Ottobre 2024</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .agenda {
+            width: 100%;
+            border-collapse: collapse;
+            table-layout: fixed;
+        }
+        .agenda th, .agenda td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+        .agenda th {
+            background-color: #f4f4f4;
+        }
+        .row-container {
+            display: flex;
+            width: 100%;
+        }
+        .gen-field {
+            padding: 5px;
+            box-sizing: border-box;
+        }
+        .ore-column {
+            flex: 1; /* Stessa proporzione, può essere più stretto */
+            margin-right: 10px;
+        }
+        .appuntamenti-column {
+            flex: 5; /* Più largo per gli appuntamenti */
+            margin-right: 10px;
+        }
+        .attivita-column {
+            flex: 2; /* Dimensione intermedia */
+        }
+        .agenda input {
+            width: 100%;
+            padding: 5px;
+        }
+        .day-number {
+            text-align: center;
+            font-weight: bold;
+            background-color: #e8e8e8;
+            vertical-align: middle;
+            padding: 15px 10px;
+            width: 20%;
+        }
+        .day-number-content {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+        }
+        .day-number .number {
+            font-size: 1.5em;
+        }
+        .day-number .day-name {
+            font-size: 1em;
+            margin-top: 5px;
+        }
+        .day-number .verse {
+            font-size: 0.9em;
+            font-style: italic;
+            margin-top: 5px;
+        }
+        .multi-row {
+            background-color: #f9f9f9;
+        }
+        .total-row {
+            background-color: #f4f4f4;
+            font-weight: bold;
+        }
+        .sunday {
+            background-color: #e0b4b4; /* Grigio più scuro per la Martedì */
+        }
+        .header-container {
+            display: flex;
+            width: 100%;
+            background-color: #f4f4f4;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+        .header-ore {
+            flex: 1;
+            margin-right: 10px;
+            text-align: center;
+            font-weight: bold;
+        }
+        .header-appuntamenti {
+            flex: 5;
+            margin-right: 10px;
+            text-align: center;
+            font-weight: bold;
+        }
+        .header-attivita {
+            flex: 2;
+            text-align: center;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Ottobre 2024</h1>
+
+    <table class="agenda">
+        <thead>
+            <tr>
+                <th class="day-number">Giorno</th>
+                <th colspan="3">
+                    <div class="header-container">
+                        <div class="header-ore">Ore</div>
+                        <div class="header-appuntamenti">Appuntamenti</div>
+                        <div class="header-attivita">Attività</div>
+                    </div>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- 1 ottobre 2025 -->
+            <tr>
+                <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">1</div>
+                        <div class="day-name">Martedì</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/19:22:22" data-bid="1-1" class="b">Sal 22:22</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore1-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti1-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita1-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore1-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti1-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita1-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 2 ottobre 2025 -->
+            <tr>
+                <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">2</div>
+                        <div class="day-name">Mercoledì</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/58:13:6" data-bid="1-2" class="b">Ebr. 13:6</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore2-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti2-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita2-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore2-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti2-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita2-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 3 ottobre 2025 -->
+            <tr>
+                <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">3</div>
+                        <div class="day-name">Giovedì</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/66:2:10" data-bid="1-3" class="b">Riv. 2:10</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore3-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti3-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita3-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore3-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti3-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita3-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 4 ottobre 2025 -->
+            <tr>
+                <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">4</div>
+                        <div class="day-name">Venerdì</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/14:19:7" data-bid="1-4" class="b">2 Cron. 19:7</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore4-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti4-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita4-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore4-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti4-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita4-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 5 ottobre 2025 -->
+            <tr>
+            <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">5</div>
+                        <div class="day-name">Sabato</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/20:22:6" data-bid="1-5" class="b">Prov. 22:6</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore5-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti5-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita5-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore5-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti5-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita5-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 6 ottobre 2025 -->
+            <tr>
+                <td class="day-number sunday" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">6</div>
+                        <div class="day-name">Domenica</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/20:16:8" data-bid="1-6" class="b">Prov. 16:8</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore6-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti6-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita6-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore6-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti6-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita6-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 7 ottobre 2025 -->
+            <tr>
+                <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">7</div>
+                        <div class="day-name">Lunedì</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/58:10:38" data-bid="1-7" class="b">Ebr. 10:38</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore7-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti7-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita7-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore7-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti7-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita7-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 8 ottobre 2025 -->
+            <tr>
+                <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">8</div>
+                        <div class="day-name">Martedì</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/40:5:11" data-bid="1-8" class="b">Matt. 5:11</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore8-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti8-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita8-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore8-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti8-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita8-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 9 ottobre 2025 -->
+            <tr>
+                <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">9</div>
+                        <div class="day-name">Mercoledì</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/66:19:7" data-bid="1-9" class="b">Riv. 19:7</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore9-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti9-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita9-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore9-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti9-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita9-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 10 ottobre 2025 -->
+            <tr>
+                <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">10</div>
+                        <div class="day-name">Giovedì</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/40:24:46" data-bid="1-10" class="b">Matt. 24:46</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore10-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti10-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita10-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore10-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti10-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita10-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 11 ottobre 2025 -->
+            <tr>
+                <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">11</div>
+                        <div class="day-name">Venerdì</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/19:41:12" data-bid="1-11" class="b">Sal. 41:12</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore11-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti11-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita11-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore11-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti11-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita11-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 12 ottobre 2025 -->
+            <tr>
+            <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">12</div>
+                        <div class="day-name">Sabato</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/19:119:9" data-bid="1-12" class="b">Sal. 119:9</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore12-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti12-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita12-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore12-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti12-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita12-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 13 ottobre 2025 -->
+            <tr>
+                <td class="day-number sunday" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">13</div>
+                        <div class="day-name">Domenica</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/54:5:8" data-bid="1-13" class="b">1 Tim. 5:8</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore13-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti13-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita13-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore13-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti13-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita13-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 14 ottobre 2025 -->
+            <tr>
+                <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">14</div>
+                        <div class="day-name">Lunedì</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/58:6:19" data-bid="1-14" class="b">Ebr. 6:19</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore14-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti14-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita14-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore14-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti14-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita14-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 15 ottobre 2025 -->
+            <tr>
+                <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">15</div>
+                        <div class="day-name">Martedì</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/49:4:26" data-bid="1-15" class="b">Efes. 4:26</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore15-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti15-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita15-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore15-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti15-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita15-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 16 ottobre 2025 -->
+            <tr>
+                <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">16</div>
+                        <div class="day-name">Mercoledì</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/27:12:1" data-bid="1-16" class="b">Dan. 12:1</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore16-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti16-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita16-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore16-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti16-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita16-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 17 ottobre 2025 -->
+            <tr>
+                <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">17</div>
+                        <div class="day-name">Giovedì</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/2:32:33" data-bid="1-17" class="b">Eso. 32:33</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore17-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti17-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita17-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore17-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti17-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita17-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 18 ottobre 2025 -->
+            <tr>
+                <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">18</div>
+                        <div class="day-name">Venerdì</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/42:11:28" data-bid="1-18" class="b">Luca 11:28</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore18-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti18-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita18-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore18-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti18-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita18-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 19 ottobre 2025 -->
+            <tr>
+            <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">19</div>
+                        <div class="day-name">Sabato</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/19:123:4" data-bid="1-19" class="b">Sal. 123:4</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore19-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti19-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita19-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore19-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti19-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita19-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 20 ottobre 2025 -->
+            <tr>
+                <td class="day-number sunday" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">20</div>
+                        <div class="day-name">Domenica</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/26:3:7" data-bid="1-20" class="b">Ezec. 3:7</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore20-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti20-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita20-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore20-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti20-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita20-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 21 ottobre 2025 -->
+            <tr>
+                <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">21</div>
+                        <div class="day-name">Lunedì</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/35:1:2-35:1:3" data-bid="1-21" class="b">Abac. 1:2, 3</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore21-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti21-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita21-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore21-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti21-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita21-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 22 ottobre 2025 -->
+            <tr>
+                <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">22</div>
+                        <div class="day-name">Martedì</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/42:23:43" data-bid="1-22" class="b">Luca 23:43</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore22-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti22-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita22-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore22-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti22-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita22-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 23 ottobre 2025 -->
+            <tr>
+                <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">23</div>
+                        <div class="day-name">Mercoledì</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/23:30:19" data-bid="1-23" class="b">Isa. 30:19</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore23-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti23-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita23-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore23-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti23-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita23-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 24 ottobre 2025 -->
+            <tr>
+                <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">24</div>
+                        <div class="day-name">Giovedì</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/40:10:16" data-bid="1-24" class="b">Matt. 10:16</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore24-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti24-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita24-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore24-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti24-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita24-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 25 ottobre 2025 -->
+            <tr>
+                <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">25</div>
+                        <div class="day-name">Venerdì</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/49:4:24" data-bid="1-25" class="b">Efes. 4:24</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore25-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti25-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita25-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore25-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti25-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita25-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 26 ottobre 2025 -->
+            <tr>
+            <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">26</div>
+                        <div class="day-name">Sabato</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/62:4:21" data-bid="1-26" class="b">1 Giov. 4:21</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore26-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti26-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita26-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore26-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti26-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita26-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 27 ottobre 2025 -->
+            <tr>
+                <td class="day-number sunday" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">27</div>
+                        <div class="day-name">Domenica</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/52:5:11" data-bid="1-27" class="b">1 Tess. 5:11</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore27-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti27-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita27-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore27-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti27-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita27-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 28 ottobre 2025 -->
+            <tr>
+                <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">28</div>
+                        <div class="day-name">Lunedì</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/20:2:6" data-bid="1-28" class="b">Prov. 2:6</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore28-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti28-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita28-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore28-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti28-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita28-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 29 ottobre 2025 -->
+            <tr>
+                <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">29</div>
+                        <div class="day-name">Martedì</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/44:17:28" data-bid="1-29" class="b">Atti 17:28</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore29-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti29-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita29-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore29-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appunti29-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita29-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 30 ottobre 2025 -->
+            <tr>
+                <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">30</div>
+                        <div class="day-name">Mercoledì</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/24:30:2" data-bid="1-30" class="b">Ger. 30:2</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore30-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti30-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita30-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore30-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti30-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita30-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <!-- 31 ottobre 2025 -->
+            <tr>
+                <td class="day-number" rowspan="2">
+                    <div class="day-number-content">
+                        <div class="number">31</div>
+                        <div class="day-name">Giovedì</div>
+                        <div class="verse"><a href="jwpub://b/NWTR/44:20:35" data-bid="1-31" class="b">Atti 20:35</a></div>
+                    </div>
+                </td>
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore31-1" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti31-1" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita31-1" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr class="multi-row">
+                <td colspan="3">
+                    <div class="row-container">
+                        <div class="gen-field ore-column">
+                            <input type="text" id="ore31-2" placeholder="Ore" aria-label="Ore"/>
+                        </div>
+                        <div class="gen-field appuntamenti-column">
+                            <input type="text" id="appuntamenti31-2" placeholder="Inserisci appuntamenti" aria-label="Inserisci appuntamenti"/>
+                        </div>
+                        <div class="gen-field attivita-column">
+                            <input type="text" id="attivita31-2" placeholder="Inserisci attività" aria-label="Inserisci attività"/>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+<!-- Sezione Totale Ore -->
+<div class="total-container">
+<div style="margin-top: 20px;"> 
+<div class="gen-field" id="p32" data-pid="32">
+<label for="totale-ore" style="font-weight: bold;">Totale ore:</label> 
+<label for="tt41" id="tt42">
+<input type="text" id="tt41" placeholder="Totale ore" style="margin-left: 10px; padding: 4px; width: 150px;"/>
+</label>
+<label for="Totale studi" style="font-weight: bold; margin-left: 40px;">Studi biblici:</label> 
+<label for="tt43" id="tt44">
+<input type="text" id="tt43" placeholder="Totale studi" style="margin-left: 10px; padding: 4px; width: 150px;"/>
+</label>
+</div>
+</div>
+<div class="gen-field" id="p33" data-pid="33">
+<div style="margin-top: 20px;">
+<label for="tt45" id="tt46" style="font-weight: bold;">Pioniere ausiliario:</label>
+<input type="checkbox" id="tt45" style="margin-left: 20px;"/>
+</div>
+</div>
+</div>
+</body>
+</html>
