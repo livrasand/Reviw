@@ -186,10 +186,16 @@
     }, 
     {
         "descargas": 0, 
-        "title": "Examinemos las Escrituras todos los días 2024 (con videos hasta agosto)", 
-        "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2024_04/1102024216_univ_sqr-270x270.jpg.359a84dd8a35cf60ffee001aa04b0341.jpg.cc70b9457fd15358d3911203fa3aad73.jpg", 
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/es24_S.jwpub"
-    }, 
+        "title": "Examinemos las Escrituras todos los días 2024 (con videos)", 
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/es24.jpg", 
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/es25_S.jwpub/es25_S.jwpub"
+    },
+    {
+        "descargas": 0, 
+        "title": "Examinemos las Escrituras todos los días 2025 (con videos)", 
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/es25.jpg",
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/es25_S.jwpub/es25_S.jwpub"
+    },
     {
         "descargas": 0, 
         "title": "Good News for People of All Nation", 
@@ -298,6 +304,12 @@
         "imageURL": "https://www.recursosteocraticos.com/uploads/monthly_2022_09/46616d696c7920576f726b73686973_univ_sqr.jpg.d6da96b500cf193e3ec4cc199b686653.jpg", 
         "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/fws_S_202209.jwpub"
     }, 
+    {
+        "descargas": 0, 
+        "title": "Programa de lectura de la Biblia", 
+        "imageURL": "https://raw.githubusercontent.com/MisaelArciniega/JWPUB/main/screenshots/sbr.jpg", 
+        "downloadURL": "https://github.com/MisaelArciniega/JWPUB/releases/download/sbr_S.jwpub/sbr_S.jwpub"
+    },
     {
         "descargas": 0, 
         "title": "Schede per i ragazzi", 
