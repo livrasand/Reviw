@@ -13,7 +13,9 @@ Por esta razón, Reviw dejará de estar disponible para los usuarios públicos.
 Aunque el proyecto llega a su fin, aún podrás acceder y descargar mi contenido JWPUB desde mi sitio web personal o estas otras webs:
 
 ➡️ [livrasand.github.io](https://livrasand.github.io)
+
 [github.com/MisaelArciniega/JWPUB](https://github.com/MisaelArciniega/JWPUB)
+
 [github.com/erykjj/jwpublib](https://github.com/erykjj/jwpublib)
 
 Gracias por todo el apoyo, las contribuciones y el interés en Reviw. Ha sido una experiencia increíble crear y compartir esta herramienta con ustedes.
